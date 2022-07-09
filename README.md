@@ -52,7 +52,7 @@ Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit ve
 
 Une pile se déplace, sans bifurquer, ni sauter par dessus des cases occupées, de 1 ou 2 cases, soit vers une case vide, soit vers une case occupée pour capturer un cube ou une pile adverse (en respectant les règles de capture).
 
-Toute pile constituée pendant son tour peut être déplacée. Toute pile déplacée pendant son tour peut être dépilée. Cette seconde action enchaînée n’est possible qu’une seule fois par tour. 
+Toute pile constituée pendant son tour peut être déplacée. Toute pile déplacée pendant son tour peut être dépilée. Cette seconde action enchaînée à une première action n’est possible qu’une seule fois par tour. 
 
 ## Règles de capture
 Seules les unités (cube ou pile) “ciel” se capturent entre elles, et indépendamment de leurs hauteurs (par exemple, un cube peut capturer une pile).
