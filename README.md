@@ -40,7 +40,7 @@ Sur les 2 lignes les plus proches d’eux (“ab” pour blanc et “fg” pour 
 ## But du jeu
 Pour gagner, un joueur doit amener au moins un de ses cubes “ciel” sur la dernière ligne adverse (blanc vise la ligne “g” et noir vise la ligne “a”) ou bien doit empêcher le joueur adverse de jouer à son tour.
 
-## Règles de piles
+## Règles de pile
 Les déplacements de cubes (expliqués ci-dessous) permettent de construire des piles qui doivent respecter les règles suivantes:
 
 - Une pile est limitée à 2 cubes de même couleur.
@@ -48,7 +48,7 @@ Les déplacements de cubes (expliqués ci-dessous) permettent de construire des 
 - Un cube “terre” s’empile seulement sur un cube “terre”.
 
 ## Règles de déplacement
-Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit vers une case vide, soit vers une case occupée pour s’empiler sur un autre cube (en respectant les règles de piles) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture).
+Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit vers une case vide, soit vers une case occupée pour s’empiler sur un autre cube (en respectant les règles de pile) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture).
 
 Une pile se déplace, sans bifurquer, ni sauter par dessus des cases occupées, de 1 ou 2 cases, soit vers une case vide, soit vers une case occupée pour capturer un cube ou une pile adverse (en respectant les règles de capture).
 
