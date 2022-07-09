@@ -1,5 +1,5 @@
 # pijersi
-Dans le jeu “pijersi”, deux joueurs, blanc et noir, manœuvrent leurs cubes, seuls ou en piles dynamiques, qui s’affrontent dans leurs rôles de pierre, feuille, ciseaux et sages. Chaque joueur s’efforce d’atteindre le premier la dernière ligne adverse. 
+Dans le jeu “pijersi”, deux joueurs, blanc et noir, manœuvrent leurs cubes, seuls ou en piles dynamiques, qui s’affrontent dans leurs rôles de "pierre", "feuille", "ciseaux" et "sage". Chaque joueur s’efforce d’atteindre le premier la dernière ligne adverse. 
 
 Le jeu "[pijersi](https://github.com/LucasBorboleta/pijersi)” est une variante du jeu “[jersi](https://github.com/LucasBorboleta/jersi)”. En [lojban](https://mw.lojban.org), la racine “prije” et son affixe “pi” signifient “sage”, tandis que la racine “jersi” signifie “chasse” ou “poursuite”. Prononcer `/pi/jer/ssi/`.
 
@@ -9,8 +9,8 @@ Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 30 minutes
 ## Matériel
 Chaque joueur, blanc ou noir, dispose de 14 cubes à sa couleur, chacun avec le même signe sur ses 6 faces et répartis en 2 qualités :
 
-- Les cubes de la qualité “ciel” : 4 pierres “R”, 4 feuilles “P” et 4 ciseaux “S”.
-- Les cubes de la qualité “terre” : 2 sages “W”.
+- Les cubes de la qualité "ciel" : 4 "pierre", 4 "feuille" et 4 "ciseaux" (ici les lettres "R", "P" et "S").
+- Les cubes de la qualité "terre" : 2 "sage" (ici la lettre "W").
 
 Le plateau hexagonal suivant, de 51 cases, est disposé entre les 2 joueurs:
 
@@ -25,7 +25,7 @@ Le plateau hexagonal suivant, de 51 cases, est disposé entre les 2 joueurs:
 ```
 
 ## Mise en place
-Sur les 2 lignes les plus proches d’eux (“ab” pour blanc et “fg” pour noir), les joueurs placent leurs cubes comme indiqué ci-dessus. Les sages sont empilés. Le joueur blanc entame la partie.
+Sur les 2 lignes les plus proches d’eux (“ab” pour blanc et “fg” pour noir), les joueurs placent leurs cubes comme indiqué ci-dessus. Les sages sont empilés. Le joueur blanc entame la partie. Ici les lettres majuscules repèrent les cubes de blanc et les minuscules ceux de noirs.
 
 ```
       s.  p.  r.  s.  p.  r.
@@ -38,28 +38,28 @@ Sur les 2 lignes les plus proches d’eux (“ab” pour blanc et “fg” pour 
 ```
 
 ## But du jeu
-Pour gagner, un joueur doit amener au moins un de ses cubes “ciel” sur la dernière ligne adverse (blanc vise la ligne “g” et noir vise la ligne “a”) ou bien doit empêcher le joueur adverse de jouer à son tour.
+Pour gagner, un joueur doit amener au moins un de ses cubes “ciel” sur la dernière ligne adverse (blanc vise la ligne “g” et noir vise la ligne “a”) ou bien doit empêcher le joueur adverse de jouer à son tour. La partie est nulle après 20 tours sans capture, depuis l'entame ou la dernière capture.
 
 ## Règles de pile
-Les déplacements de cubes (expliqués ci-dessous) permettent de construire des piles qui doivent respecter les règles suivantes:
+Les déplacements de cubes (qui sont expliqués après) permettent de construire des piles qui doivent respecter les règles suivantes:
 
 - Une pile est limitée à 2 cubes de même couleur.
 - Un cube “ciel” s’empile sur un cube “ciel” ou  sur un cube “terre”.
 - Un cube “terre” s’empile seulement sur un cube “terre”.
 
 ## Règles de déplacement
-Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit vers une case vide, soit vers une case occupée pour s’empiler sur un autre cube (en respectant les règles de pile) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture).
+Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit vers une case vide, soit vers une case occupée pour s’empiler sur un autre cube (en respectant les règles de pile) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture qui sont expliquées après).
 
 Une pile se déplace, sans bifurquer, ni sauter par dessus des cases occupées, de 1 ou 2 cases, soit vers une case vide, soit vers une case occupée pour capturer un cube ou une pile adverse (en respectant les règles de capture).
 
 Toute pile constituée pendant son tour peut être déplacée. Toute pile déplacée pendant son tour peut être dépilée. Cette seconde action enchaînée à une première action n’est possible qu’une seule fois par tour. 
 
 ## Règles de capture
-Seules les unités (cube ou pile) “ciel” se capturent entre elles, et indépendamment de leurs hauteurs (par exemple, un cube peut capturer une pile).
+Sachant qu'une "unité" désigne un cube ou une pile, seules les unités “ciel” se capturent entre elles, et indépendamment de leurs hauteurs (par exemple, un cube peut capturer une pile).
 
-La qualité “ciel” ou “terre” et le rôle pierre, feuille ou ciseaux d’une pile sont déterminés par le cube à son sommet. Le sommet d'une pile n'est jamais capturé seul : c'est toute la pile qui est capturée.
+La qualité “ciel” ou “terre” et le rôle "pierre", "feuille", "ciseaux" ou "sage" d’une pile sont déterminés par le cube à son sommet. Le sommet d'une pile n'est jamais capturé seul : c'est toute la pile qui est capturée.
 
-Une unité “ciel” capture une unité “ciel” adverse par déplacement à condition de respecter l’ordre suivant des rôles : pierre capture ciseaux ; ciseaux capture feuille ; feuille capture pierre.
+Une unité “ciel” capture une unité “ciel” adverse par déplacement à condition de respecter l’ordre suivant des rôles : "pierre" capture "ciseaux" ; "ciseaux" capture "feuille" ; "feuille" capture "pierre". Les unités "terre" ne capturent jamais  et ne sont jamais capturées.
 
 Toute unité capturée est retirée définitivement du plateau.
 
