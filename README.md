@@ -55,11 +55,11 @@ Une pile se déplace, sans bifurquer, ni sauter par dessus des cases occupées, 
 Toute pile constituée pendant son tour peut être déplacée. Toute pile déplacée pendant son tour peut être dépilée. Cette seconde action enchaînée à une première action n’est possible qu’une seule fois par tour. 
 
 ## Règles de capture
-Sachant qu'une "unité" désigne un cube ou une pile, seules les unités “ciel” se capturent entre elles, et indépendamment de leurs hauteurs (par exemple, un cube peut capturer une pile).
+Sachant qu'une "unité" désigne un cube ou une pile, seules les unités “ciel” se capturent entre elles, et indépendamment de leurs hauteurs (par exemple, un cube peut capturer une pile). Les unités "terre" ne capturent jamais  et ne sont jamais capturées.
 
 La qualité “ciel” ou “terre” et le rôle "pierre", "feuille", "ciseaux" ou "sage" d’une pile sont déterminés par le cube à son sommet. Le sommet d'une pile n'est jamais capturé seul : c'est toute la pile qui est capturée.
 
-Une unité “ciel” capture une unité “ciel” adverse par déplacement à condition de respecter l’ordre suivant des rôles : "pierre" capture "ciseaux" ; "ciseaux" capture "feuille" ; "feuille" capture "pierre". Les unités "terre" ne capturent jamais  et ne sont jamais capturées.
+Une unité “ciel” capture une unité “ciel” adverse par déplacement à condition de respecter l’ordre suivant des rôles : "pierre" capture "ciseaux" ; "ciseaux" capture "feuille" ; "feuille" capture "pierre".
 
 Toute unité capturée est retirée définitivement du plateau.
 
