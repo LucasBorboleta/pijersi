@@ -25,7 +25,9 @@ Le plateau hexagonal suivant, de 51 cases, est disposé entre les 2 joueurs:
 ```
 
 ## Mise en place
-Sur les 2 lignes les plus proches d’eux (“ab” pour blanc et “fg” pour noir), les joueurs placent leurs cubes comme indiqué ci-dessus. Les sages sont empilés. Le joueur blanc entame la partie. Ici les lettres majuscules repèrent les cubes de blanc et les minuscules ceux de noirs.
+Sur les 2 lignes les plus proches d’eux (“ab” pour blanc et “fg” pour noir), les joueurs placent leurs cubes comme indiqué ci-dessus. Les sages sont empilés. Le joueur blanc entame la partie. 
+
+Ici les lettres majuscules repèrent les cubes de blanc et les minuscules ceux de noirs.
 
 ```
       s.  p.  r.  s.  p.  r.
@@ -41,11 +43,13 @@ Sur les 2 lignes les plus proches d’eux (“ab” pour blanc et “fg” pour 
 Pour gagner, un joueur doit amener au moins un de ses cubes “ciel” sur la dernière ligne adverse (blanc vise la ligne “g” et noir vise la ligne “a”) ou bien doit empêcher le joueur adverse de jouer à son tour. La partie est nulle après 20 tours sans capture, depuis l'entame ou la dernière capture.
 
 ## Règles de pile
-Les déplacements de cubes (qui sont expliqués après) permettent de construire des piles qui doivent respecter les règles suivantes:
+Les déplacements de cubes (qui sont expliqués après) permettent de construire des piles qui doivent respecter les règles qui suivent.
 
-- Une pile est limitée à 2 cubes de même couleur.
-- Un cube “ciel” s’empile sur un cube “ciel” ou sur un cube “terre”.
-- Un cube “terre” s’empile seulement sur un cube “terre”.
+Une pile est limitée à 2 cubes de même couleur.
+
+Un cube “ciel” s’empile sur un cube “ciel” ou sur un cube “terre”.
+
+Un cube “terre” s’empile seulement sur un cube “terre”.
 
 ## Règles de déplacement
 Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit vers une case vide, soit vers une case occupée pour s’empiler sur un autre cube (en respectant les règles de pile) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture qui sont expliquées après).
