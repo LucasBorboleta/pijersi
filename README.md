@@ -7,7 +7,7 @@ Le jeu "[pijersi](https://github.com/LucasBorboleta/pijersi)” est une variante
 Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 30 minutes 
 
 ## Matériel
-Chaque joueur, blanc ou noir, dispose de 14 cubes à sa couleur, chacun avec le même signe de rôle sur ses 6 faces, et répartis en 2 qualités :
+Chaque joueur, blanc ou noir, dispose de 14 cubes à sa couleur. Les 6 faces identiques d'un cube définissent son rôle (par exemple, pierre). Dans chaque couleur, les cubes sont répartis en 2 qualités :
 
 - Les cubes de la qualité "ciel" : 4 "pierre", 4 "feuille" et 4 "ciseaux" (ici les lettres "R", "P" et "S").
 - Les cubes de la qualité "terre" : 2 "sage" (ici la lettre "W").
@@ -56,7 +56,7 @@ Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit ve
 
 Une pile se déplace, sans bifurquer, ni sauter par dessus des cases occupées, de 1 ou 2 cases, soit vers une case vide, soit vers une case occupée pour capturer un cube ou une pile adverse (en respectant les règles de capture).
 
-La pile constituée pendant son tour peut être déplacée. Le sommet de la pile déplacée pendant son tour peut être déplacé. Cette seconde action enchaînée à une première action n’est possible qu’une seule fois par tour. 
+La pile constituée pendant son tour peut être déplacée. La pile déplacée pendant son tour peut être dépilée de son sommet. Cette seconde action enchaînée à une première action n’est possible qu’une seule fois par tour. 
 
 ## Règles de capture
 Sachant qu'une "unité" désigne un cube ou une pile, seules les unités “ciel” se capturent entre elles, et indépendamment de leurs hauteurs (par exemple, un cube peut capturer une pile). Les unités "terre" ne capturent jamais  et ne sont jamais capturées.
