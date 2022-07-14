@@ -100,7 +100,7 @@ Le jeu "[pijersi](https://github.com/LucasBorboleta/pijersi)” est une variante
 Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 30 minutes 
 
 ## Matériel
-Vous (joueur blanc ou noir) disposez de 14 cubes à sa couleur. Les 6 faces identiques d'un cube définissent son rôle (par exemple, pierre). Dans chaque couleur, les cubes sont répartis en 2 qualités :
+Vous (joueur blanc ou noir) disposez de 14 cubes à votre couleur. Les 6 faces identiques d'un cube définissent son rôle (par exemple, pierre). Dans chaque couleur, les cubes sont répartis en 2 qualités :
 
 - Les cubes de la qualité "ciel" : 4 "pierre", 4 "feuille" et 4 "ciseaux" (ici les lettres "RPS").
 - Les cubes de la qualité "terre" : 2 "sage" (ici la lettre "W").
