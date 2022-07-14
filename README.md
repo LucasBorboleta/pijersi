@@ -66,7 +66,7 @@ An "earth" cube can be stacked only on an "earth" cube.
 
 A cube, alone or at the top of a stack, moves from a single space, either to an empty space or to an occupied space to stack on top of another cube (following the stacking rules) or to capture an opposing cube or stack (following the capturing rules that are explained below).
 
-A stack moves, without forking or jumping over occupied spaces, from 1 or 2 spaces, either to an empty space, or to an occupied space to capture an opposing cube or stack (respecting the capturing rules).
+A stack moves, without forking or jumping over occupied spaces, from 1 or 2 spaces, either to an empty space or to an occupied space to capture an opposing cube or stack (respecting the capturing rules).
 
 The stack built during your turn can be moved, and conversely, the stack moved during your turn can be unstacked by moving its top. This sequence of 2 actions is possible only once during your turn.
 
