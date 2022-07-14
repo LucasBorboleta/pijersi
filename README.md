@@ -68,7 +68,7 @@ A cube, alone or at the top of a stack, moves from a single space, either to an 
 
 A stack moves, without forking or jumping over occupied spaces, from 1 or 2 spaces, either to an empty space, or to an occupied space to capture an opposing cube or stack (respecting the capturing rules).
 
-The stack built during your turn can be moved, and conversely, the stack moved during your turn can be unstacked from its top. This sequence of 2 actions is only possible once per turn.
+The stack built during your turn can be moved, and conversely, the stack moved during your turn can be unstacked by moving its top. This sequence of 2 actions is only possible once per turn.
 
 ## Capturing rules
 
@@ -149,7 +149,7 @@ Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit ve
 
 Une pile se déplace, sans bifurquer, ni sauter par-dessus des cases occupées, de 1 ou 2 cases, soit vers une case vide, soit vers une case occupée pour capturer un cube ou une pile adverse (en respectant les règles de capture).
 
-La pile construite pendant votre tour peut être déplacée, et réciproquement, la pile déplacée pendant votre tour peut être dépilée de son sommet. Cet enchaînement de 2 actions n’est possible qu’une fois par tour.
+La pile construite pendant votre tour peut être déplacée, et réciproquement, la pile déplacée pendant votre tour peut être dépilée en déplaçant son sommet. Cet enchaînement de 2 actions n’est possible qu’une fois par tour.
 
 ## Règles de capture
 Sachant qu'une "unité" désigne un cube ou une pile, seules les unités “ciel” se capturent entre elles, et indépendamment de leurs hauteurs (par exemple, un cube peut capturer une pile). Les unités "terre" ne capturent jamais  et ne sont jamais capturées.
