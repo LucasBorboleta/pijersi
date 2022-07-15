@@ -20,13 +20,13 @@ You (either white or black player) has 14 cubes in your color. The 6 identical f
 The following hexagonal board, of 51 spaces and 7 lines, is arranged between the 2 players:
 
 ```
-   1 2 3 4 5 6    [ligne “g”]
-  1 2 3 4 5 6 7   [ligne “f”]
- 1 2 3 4 5 6 7 8  [ligne “e”]
-1 2 3 4 5 6 7 8 9 [ligne “d”]
- 1 2 3 4 5 6 7 8  [ligne “c”]
-  1 2 3 4 5 6 7   [ligne “b”]
-   1 2 3 4 5 6    [ligne “a”]
+   1 2 3 4 5 6      [ligne “g”]
+  1 2 3 4 5 6 7     [ligne “f”]
+ 1 2 3 4 5 6 7 8    [ligne “e”]
+1 2 3 4 5 6 7 8 9   [ligne “d”]
+ 1 2 3 4 5 6 7 8    [ligne “c”]
+  1 2 3 4 5 6 7     [ligne “b”]
+   1 2 3 4 5 6      [ligne “a”]
 ```
 
 ## Set up
@@ -108,13 +108,13 @@ Vous (joueur blanc ou noir) disposez de 14 cubes à votre couleur. Les 6 faces i
 Le plateau hexagonal suivant, de 51 cases et de 7 lignes, est disposé entre les 2 joueurs :
 
 ```
-   1 2 3 4 5 6    [ligne “g”]
-  1 2 3 4 5 6 7   [ligne “f”]
- 1 2 3 4 5 6 7 8  [ligne “e”]
-1 2 3 4 5 6 7 8 9 [ligne “d”]
- 1 2 3 4 5 6 7 8  [ligne “c”]
-  1 2 3 4 5 6 7   [ligne “b”]
-   1 2 3 4 5 6    [ligne “a”]
+   1 2 3 4 5 6      [ligne “g”]
+  1 2 3 4 5 6 7     [ligne “f”]
+ 1 2 3 4 5 6 7 8    [ligne “e”]
+1 2 3 4 5 6 7 8 9   [ligne “d”]
+ 1 2 3 4 5 6 7 8    [ligne “c”]
+  1 2 3 4 5 6 7     [ligne “b”]
+   1 2 3 4 5 6      [ligne “a”]
 ```
 
 ## Mise en place
