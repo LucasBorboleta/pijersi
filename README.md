@@ -4,7 +4,7 @@
 
 In the game "pijersi", two players, white and black, move their cubes, alone or in dynamic stacks, which compete in their roles of "rock", "paper", "scissors" and "wise man". Each player attempts to reach first the last opposing line. 
 
-The game "[pijersi](https://github.com/LucasBorboleta/pijersi)" is a variant of the game "[jersi](https://github.com/LucasBorboleta/jersi)". In [Lojban](https://mw.lojban.org/), the root "prije" and its affix "pi" mean "wise", while the root "jersi" means "to chase" or "to pursue". Pronounce `/pi/jer/ssi/`.
+The game "[pijersi](https://github.com/LucasBorboleta/pijersi)" is a variant of the game "[jersi](https://github.com/LucasBorboleta/jersi)". In [Lojban](https://mw.lojban.org/), the root "prije" and its affix "pi" mean "wise", while the root "jersi" means "to chase" or "to pursue". Pronounce `/pee/jer/see/`.
 
 ## General information
 
@@ -44,9 +44,6 @@ Here the uppercase letters identify the cubes of white and the lowercase those o
     P.  S.  R.  WW  S.  R.  P.
       R.  P.  S.  R.  P.  S.
 ```
-
-</br>
-</br>
 
 ## Goal of the game
 
@@ -133,6 +130,7 @@ Ici les lettres majuscules repèrent les cubes de blanc et les minuscules ceux d
 ```
 
 ## But du jeu
+
 Pour gagner, vous devez amener le premier au moins un de vos cubes “ciel” sur la dernière ligne adverse (blanc vise la ligne “g” et noir vise la ligne “a”) ou bien vous devez empêcher votre adversaire de jouer à son tour. La partie est nulle après 20 tours sans aucune capture, depuis l'entame ou la dernière capture.
 
 ## Règles de pile
