@@ -15,14 +15,14 @@ You (either white or black player) has 14 cubes in your color. The 6 same faces 
 - The cubes of the "sky" quality: 4 "rock", 4 "paper" and 4 "scissors" (here the letters "RPS").
 - The cubes of the "earth" quality: 2 "wise man" (here the letter "W").
 
-The following hexagonal board, of 51 spaces and 7 lines, is arranged between the 2 players:
+The following hexagonal board, of 45 spaces and 7 lines, is arranged between the 2 players:
 
 ```
    1 2 3 4 5 6      [line “g”]
   1 2 3 4 5 6 7     [line “f”]
- 1 2 3 4 5 6 7 8    [line “e”]
-1 2 3 4 5 6 7 8 9   [line “d”]
- 1 2 3 4 5 6 7 8    [line “c”]
+   1 2 3 4 5 6      [line “e”]
+  1 2 3 4 5 6 7     [line “d”]
+   1 2 3 4 5 6      [line “c”]
   1 2 3 4 5 6 7     [line “b”]
    1 2 3 4 5 6      [line “a”]
 ```
@@ -36,9 +36,9 @@ Here the uppercase letters identify the cubes of white and the lowercase those o
 ```
       s.  p.  r.  s.  p.  r.
     p.  r.  s.  ww  r.  s.  p.
-..  ..  ..  ..  ..  ..  ..  ..
-..  ..  ..  ..  ..  ..  ..  ..  ..
-  ..  ..  ..  ..  ..  ..  ..  ..
+      ..  ..  ..  ..  ..  ..
+    ..  ..  ..  ..  ..  ..  ..
+      ..  ..  ..  ..  ..  ..
     P.  S.  R.  WW  S.  R.  P.
       R.  P.  S.  R.  P.  S.
 ```
@@ -100,14 +100,14 @@ Vous (joueur blanc ou noir) avez 14 cubes à votre couleur. Les 6 mêmes faces d
 - Les cubes de la qualité "ciel" : 4 "pierre", 4 "feuille" et 4 "ciseaux" (ici les lettres "RPS").
 - Les cubes de la qualité "terre" : 2 "sage" (ici la lettre "W").
 
-Le plateau hexagonal suivant, de 51 cases et de 7 lignes, est disposé entre les 2 joueurs :
+Le plateau hexagonal suivant, de 45 cases et de 7 lignes, est disposé entre les 2 joueurs :
 
 ```
    1 2 3 4 5 6      [ligne “g”]
   1 2 3 4 5 6 7     [ligne “f”]
- 1 2 3 4 5 6 7 8    [ligne “e”]
-1 2 3 4 5 6 7 8 9   [ligne “d”]
- 1 2 3 4 5 6 7 8    [ligne “c”]
+   1 2 3 4 5 6      [ligne “e”]
+  1 2 3 4 5 6 7     [ligne “d”]
+   1 2 3 4 5 6      [ligne “c”]
   1 2 3 4 5 6 7     [ligne “b”]
    1 2 3 4 5 6      [ligne “a”]
 ```
@@ -120,9 +120,9 @@ Ici les lettres majuscules repèrent les cubes de blanc et les minuscules ceux d
 ```
       s.  p.  r.  s.  p.  r.
     p.  r.  s.  ww  r.  s.  p.
-..  ..  ..  ..  ..  ..  ..  ..
-..  ..  ..  ..  ..  ..  ..  ..  ..
-  ..  ..  ..  ..  ..  ..  ..  ..
+      ..  ..  ..  ..  ..  ..
+    ..  ..  ..  ..  ..  ..  ..
+      ..  ..  ..  ..  ..  ..
     P.  S.  R.  WW  S.  R.  P.
       R.  P.  S.  R.  P.  S.
 ```
