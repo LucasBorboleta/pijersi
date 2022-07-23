@@ -5,6 +5,8 @@
 
 2 pages in English + 2 pages en Français
 
+![](./pictures/schema.png)
+
 <div style="page-break-after: always;"></div>
 
 # Pijersi: the rules of the game
