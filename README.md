@@ -1,3 +1,12 @@
+# Pijersi : the rules (en) + les règles (fr)
+
+
+![](./pictures/pijersi-2022-0723-0940.jpg)
+
+2 pages in English + 2 pages en Français
+
+<div style="page-break-after: always;"></div>
+
 # Pijersi: the rules of the game
 
 In the game "pijersi", two players, white and black, move their cubes, alone or in dynamic stacks, which compete in their roles of "rock", "paper", "scissors" and "wise man". Each player attempts to reach first the last opposing line. 
