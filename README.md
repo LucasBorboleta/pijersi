@@ -38,7 +38,7 @@ The following hexagonal board, of 45 spaces and 7 lines, is arranged between the
 
 ## Set up
 
-On the 2 lines closest to you ("ab" for white and "fg" for black), you put your cubes as shown below. Your wise men are stacked. The white player starts the game. 
+On the 2 lines closest to you ("ab" for white and "fg" for black), you put your cubes as shown below. Your "wise" cubes are stacked. The white player starts the game. 
 
 Here the uppercase letters identify the cubes of white and the lowercase those of black.
 
@@ -118,7 +118,7 @@ Le plateau hexagonal suivant, de 45 cases et de 7 lignes, est disposé entre les
 ```
 
 ## Mise en place
-Sur les 2 lignes les plus proches de vous (“ab” pour blanc et “fg” pour noir), vous placez vos cubes comme indiqué ci-dessous. Vos sages sont empilés. Le joueur blanc entame la partie. 
+Sur les 2 lignes les plus proches de vous (“ab” pour blanc et “fg” pour noir), vous placez vos cubes comme indiqué ci-dessous. Vos cubes "sage" sont empilés. Le joueur blanc entame la partie. 
 
 Ici les lettres majuscules repèrent les cubes de blanc et les minuscules ceux de noirs.
 
