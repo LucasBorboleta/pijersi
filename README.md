@@ -15,7 +15,7 @@ The game "[pijersi](https://github.com/LucasBorboleta/pijersi)" is a variant of 
 
 ## General information
 
-Number of players: 2 / Minimum age: 8 years / Game duration: 30 minutes 
+Number of players: 2 / Minimum age: 8 years / Game duration: 15 minutes 
 
 ## Components
 
@@ -97,7 +97,7 @@ Dans le jeu “pijersi”, deux joueurs, blanc et noir, déplacent leurs cubes, 
 Le jeu "[pijersi](https://github.com/LucasBorboleta/pijersi)” est une variante du jeu “[jersi](https://github.com/LucasBorboleta/jersi)”. En [lojban](https://mw.lojban.org), la racine “prije” et son affixe “pi” signifient “sage”, tandis que la racine “jersi” signifie “chasser” ou “poursuivre”. Prononcer `/pi/jer/ssi/`.
 
 ## Informations générales
-Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 30 minutes 
+Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 15 minutes 
 
 ## Matériel
 Vous (joueur blanc ou noir) avez 14 cubes à votre couleur. Les 6 mêmes faces d'un cube définissent son rôle (exemple : pierre). Vos avez :
