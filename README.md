@@ -23,8 +23,8 @@ Number of players: 2 / Minimum age: 8 years / Game duration: 30 minutes
 
 You (either white or black player) has 14 cubes in your color. The 6 same faces of a cube define its role (example: rock). Your cubes are divided into 2 qualities:
 
-- The cubes of the "sky" quality: 4 "rock", 4 "paper" and 4 "scissors" (here the letters "RPS").
-- The cubes of the "earth" quality: 2 "wise man" (here the letter "W").
+- The cubes of the "sky" quality: 4 "rock", 4 "paper" and 4 "scissors" (here the letters "R", "P", and "S").
+- The cubes of the "earth" quality: 2 "wise man", just called "wise" (here the letter "W").
 
 The following hexagonal board, of 45 spaces and 7 lines, is arranged between the 2 players:
 
@@ -62,11 +62,7 @@ To win, you must bring first at least one of your "sky" cubes to the last opposi
 
 Cube movements (which are explained below) make it possible to build stacks that must comply with the following rules.
 
-A stack is limited to 2 cubes of the same color.
-
-A "sky" cube can be stacked on either a "sky" or "earth" cube.
-
-An "earth" cube can be stacked only on an "earth" cube.
+A stack is limited to 2 any cubes of the same color, excepted that a "wise" cube can be stacked only on a "wise" cube. 
 
 ## Moving rules
 
@@ -108,7 +104,7 @@ Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 30 minutes
 ## Matériel
 Vous (joueur blanc ou noir) avez 14 cubes à votre couleur. Les 6 mêmes faces d'un cube définissent son rôle (exemple : pierre). Vos cubes sont répartis en 2 qualités :
 
-- Les cubes de la qualité "ciel" : 4 "pierre", 4 "feuille" et 4 "ciseaux" (ici les lettres "RPS").
+- Les cubes de la qualité "ciel" : 4 "pierre", 4 "feuille" et 4 "ciseaux" (ici les lettres "R", "P" et "S").
 - Les cubes de la qualité "terre" : 2 "sage" (ici la lettre "W").
 
 Le plateau hexagonal suivant, de 45 cases et de 7 lignes, est disposé entre les 2 joueurs :
@@ -145,11 +141,7 @@ Pour gagner, vous devez amener le premier au moins un de vos cubes “ciel” su
 ## Règles de pile
 Les déplacements de cubes (qui sont expliqués après) permettent de construire des piles qui doivent respecter les règles qui suivent.
 
-Une pile est limitée à 2 cubes de même couleur.
-
-Un cube “ciel” s’empile soit sur un cube “ciel” ou soit sur un cube “terre”.
-
-Un cube “terre” s’empile seulement sur un cube “terre”.
+Une pile est limitée à 2 cubes quelconques de même couleur, sauf qu'un cube “sage” s’empile seulement sur un cube “sage”. 
 
 ## Règles de déplacement
 Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit vers une case vide, soit vers une case occupée pour s’empiler sur un autre cube (en respectant les règles de pile) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture qui sont expliquées après).
