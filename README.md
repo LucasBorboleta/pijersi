@@ -21,8 +21,8 @@ Number of players: 2 / Minimum age: 8 years / Game duration: 30 minutes
 
 You (either white or black player) has 14 cubes in your color. The 6 same faces of a cube define its role (example: rock). You have:
 
-- 4 "rock", 4 "paper" and 4 "scissors" (here represented by the letters "R", "P", and "S").
-- 2 "wise man", just called "wise" (here represented by the letter "W").
+- 4 "rock", 4 "paper" and 4 "scissors" (represented by either the letters "R/P/S" or the symbols "circle/square/cross").
+- 2 "wise man", just called "wise" (represented by either the letter "W" or the symbol "infinity").
 
 The following hexagonal board, of 45 spaces and 7 lines, is arranged between the 2 players:
 
@@ -102,8 +102,8 @@ Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 30 minutes
 ## Matériel
 Vous (joueur blanc ou noir) avez 14 cubes à votre couleur. Les 6 mêmes faces d'un cube définissent son rôle (exemple : pierre). Vos avez :
 
-- 4 "pierre", 4 "feuille" et 4 "ciseaux" (ici représentés par les lettres "R", "P" et "S").
-- 2 "sage" (ici représenté la lettre "W").
+- 4 "pierre", 4 "feuille" et 4 "ciseaux" (représentés soit par les lettres "R/P/S" ou les symboles "cercle/carré/croix").
+- 2 "sage" (représenté soit par la lettre "W" ou le symbol "infini").
 
 Le plateau hexagonal suivant, de 45 cases et de 7 lignes, est disposé entre les 2 joueurs :
 
