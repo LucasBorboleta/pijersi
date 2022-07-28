@@ -5,8 +5,6 @@
 
 2 pages in English + 2 pages en Français
 
-![](./pictures/schema.png)
-
 <div style="page-break-after: always;"></div>
 
 # Pijersi: the rules of the game
@@ -21,10 +19,10 @@ Number of players: 2 / Minimum age: 8 years / Game duration: 30 minutes
 
 ## Components
 
-You (either white or black player) has 14 cubes in your color. The 6 same faces of a cube define its role (example: rock). Your cubes are divided into 2 qualities:
+You (either white or black player) has 14 cubes in your color. The 6 same faces of a cube define its role (example: rock). You have:
 
-- The cubes of the "sky" quality: 4 "rock", 4 "paper" and 4 "scissors" (here the letters "R", "P", and "S").
-- The cubes of the "earth" quality: 2 "wise man", just called "wise" (here the letter "W").
+- 4 "rock", 4 "paper" and 4 "scissors" (here represented by the letters "R", "P", and "S").
+- 2 "wise man", just called "wise" (here represented by the letter "W").
 
 The following hexagonal board, of 45 spaces and 7 lines, is arranged between the 2 players:
 
@@ -74,11 +72,11 @@ The stack built during your turn can be moved, and conversely, the stack moved d
 
 ## Capturing rules
 
-Knowing that a "unit" refers to a cube or a stack, only the "sky" units capture each other, and regardless of their heights (example: a cube can capture a stack). "Earth" units never capture and are never captured.
+Knowing that a "unit" refers to a cube or a stack, only the "rock/paper/scissors" units capture each other, and regardless of their heights (example: a cube can capture a stack). "Wise" units never capture and are never captured.
 
-The quality "sky" or "earth" and the role "rock", "paper", "scissors" or "wise man" of a stack are determined by the cube at its top. The top of a stack is never captured alone: the entire stack is captured.
+The role "rock/paper/scissors/wise" of a stack is determined by the cube at its top. The top of a stack is never captured alone: the entire stack is captured.
 
-A "sky" unit captures an opposing "sky" unit by moving if it respects the following order of roles: "rock" captures "scissors"; "scissors" captures "paper"; "paper" captures "rock".
+A unit captures an opposing unit by moving if it respects the following order of roles: "rock" captures "scissors"; "scissors" captures "paper"; "paper" captures "rock". A "wise" cube can be captured if it is at the bottom of a "rock/paper/scissors" stack.
 
 Any captured unit is permanently removed from the board.
 
@@ -102,10 +100,10 @@ Le jeu "[pijersi](https://github.com/LucasBorboleta/pijersi)” est une variante
 Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 30 minutes 
 
 ## Matériel
-Vous (joueur blanc ou noir) avez 14 cubes à votre couleur. Les 6 mêmes faces d'un cube définissent son rôle (exemple : pierre). Vos cubes sont répartis en 2 qualités :
+Vous (joueur blanc ou noir) avez 14 cubes à votre couleur. Les 6 mêmes faces d'un cube définissent son rôle (exemple : pierre). Vos avez :
 
-- Les cubes de la qualité "ciel" : 4 "pierre", 4 "feuille" et 4 "ciseaux" (ici les lettres "R", "P" et "S").
-- Les cubes de la qualité "terre" : 2 "sage" (ici la lettre "W").
+- 4 "pierre", 4 "feuille" et 4 "ciseaux" (ici représentés par les lettres "R", "P" et "S").
+- 2 "sage" (ici représenté la lettre "W").
 
 Le plateau hexagonal suivant, de 45 cases et de 7 lignes, est disposé entre les 2 joueurs :
 
@@ -151,11 +149,11 @@ Une pile se déplace, sans bifurquer, ni sauter par-dessus des cases occupées, 
 La pile construite pendant votre tour peut être déplacée, et réciproquement, la pile déplacée pendant votre tour peut être déconstruite en déplaçant son sommet. Cet enchaînement de 2 actions est possible une seule fois pendant votre tour.
 
 ## Règles de capture
-Sachant qu'une "unité" désigne un cube ou une pile, seules les unités “ciel” se capturent entre elles, et indépendamment de leurs hauteurs (exemple : un cube peut capturer une pile). Les unités "terre" ne capturent jamais  et ne sont jamais capturées.
+Sachant qu'une "unité" désigne un cube ou une pile, seules les unités “pierre/feuille/ciseaux” se capturent entre elles, et indépendamment de leurs hauteurs (exemple : un cube peut capturer une pile). Les unités "sage" ne capturent jamais et ne sont jamais capturées.
 
-La qualité “ciel” ou “terre” et le rôle "pierre", "feuille", "ciseaux" ou "sage" d’une pile sont déterminés par le cube à son sommet. Le sommet d'une pile n'est jamais capturé seul : c'est toute la pile qui est capturée.
+Le rôle “pierre/feuille/ciseaux/sage" d’une pile est déterminé par le cube à son sommet. Le sommet d'une pile n'est jamais capturé seul : c'est toute la pile qui est capturée. Un cube "sage" peut être capturé s'il est en bas d'une pile "pierre/feuille/ciseaux".
 
-Une unité “ciel” capture une unité “ciel” adverse par déplacement à condition de respecter l’ordre suivant des rôles : "pierre" capture "ciseaux" ; "ciseaux" capture "feuille" ; "feuille" capture "pierre".
+Une unité capture une unité adverse par déplacement à condition de respecter l’ordre suivant des rôles : "pierre" capture "ciseaux" ; "ciseaux" capture "feuille" ; "feuille" capture "pierre".
 
 Toute unité capturée est retirée définitivement du plateau.
 
