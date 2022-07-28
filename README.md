@@ -62,7 +62,7 @@ To win, you must bring first at least one of your "sky" cubes to the last opposi
 
 Cube movements (which are explained below) make it possible to build stacks that must comply with the following rules.
 
-A stack is limited to 2 any cubes of the same color, excepted that a "wise" cube can be stacked only on a "wise" cube. 
+A stack is limited to any 2 cubes of the same color, except that a “wise” cube only stacks on top of a “wise” cube.
 
 ## Moving rules
 
