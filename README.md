@@ -23,7 +23,7 @@ Number of players: 2 / Minimum age: 8 years / Game duration: 15 minutes
 
 ## Components
 
-You (white/black player) has 14 cubes in your color. The 6 same faces of a cube define its role (example: rock). You have:
+You (white/black player) have 14 cubes in your color. The 6 same faces of a cube define its role (example: rock). You have:
 
 - 4 "rock", 4 "paper" and 4 "scissors" (the letters "R/P/S" or the symbols "circle/square/cross").
 - 2 "wise man", just called "wise" (the letter "W" or the symbol "infinity").
@@ -70,7 +70,7 @@ A stack is limited to any 2 cubes of the same color, except that a “wise” cu
 
 A cube, alone or at the top of a stack, moves from a single space, either to an empty space or to an occupied space to stack on top of another cube (respecting the stacking rules) or to capture an opposing cube or stack (respecting the capturing rules that are explained below).
 
-A stack moves, without forking or jumping over occupied spaces, from 1 or 2 spaces, either to an empty space or to an occupied space to capture an opposing cube or stack (respecting the capturing rules).
+A stack moves straight 1 or 2 spaces, without forking or jumping over occupied spaces, either to an empty space or to an occupied space to capture an opposing cube or stack (respecting the capturing rules).
 
 The stack built during your turn can be moved, and conversely, the stack moved during your turn can be unbuilt by moving its top. This sequence of 2 actions is possible only once during your turn.
 
