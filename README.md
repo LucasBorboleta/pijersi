@@ -5,6 +5,8 @@
 
 2 pages in English + 2 pages en Français
 
+Game characteristics: crossing win condition / stacking / capturing
+
 ![](./pictures/schema.png)
 
 <div style="page-break-after: always;"></div>
@@ -17,14 +19,14 @@ The game "[pijersi](https://github.com/LucasBorboleta/pijersi)" is a variant of 
 
 ## General information
 
-Number of players: 2 / Minimum age: 8 years / Game duration: 30 minutes 
+Number of players: 2 / Minimum age: 8 years / Game duration: 15 minutes 
 
 ## Components
 
-You (either white or black player) has 14 cubes in your color. The 6 same faces of a cube define its role (example: rock). Your cubes are divided into 2 qualities:
+You (white/black player) has 14 cubes in your color. The 6 same faces of a cube define its role (example: rock). You have:
 
-- The cubes of the "sky" quality: 4 "rock", 4 "paper" and 4 "scissors" (here the letters "RPS").
-- The cubes of the "earth" quality: 2 "wise man" (here the letter "W").
+- 4 "rock", 4 "paper" and 4 "scissors" (the letters "R/P/S" or the symbols "circle/square/cross").
+- 2 "wise man", just called "wise" (the letter "W" or the symbol "infinity").
 
 The following hexagonal board, of 45 spaces and 7 lines, is arranged between the 2 players:
 
@@ -40,7 +42,7 @@ The following hexagonal board, of 45 spaces and 7 lines, is arranged between the
 
 ## Set up
 
-On the 2 lines closest to you ("ab" for white and "fg" for black), you put your cubes as shown below. Your wise men are stacked. The white player starts the game. 
+On the 2 lines closest to you ("ab" for white and "fg" for black), you put your cubes as shown below. Your "wise" cubes are stacked. The white player starts the game. 
 
 Here the uppercase letters identify the cubes of white and the lowercase those of black.
 
@@ -56,17 +58,13 @@ Here the uppercase letters identify the cubes of white and the lowercase those o
 
 ## Goal of the game
 
-To win, you must bring first at least one of your "sky" cubes to the last opposing line (white targets the "g" line and black targets the "a" line) or else must prevent your opponent from playing in turn. The game is a tie after 20 turns without any capture since the beginning or the last capture.
+You must bring first at least one of your "rock/paper/scissors" cubes to the last opposing line (white targets the "g" line and black targets the "a" line) or else must prevent your opponent from playing in turn. The game is a tie after 20 turns without any capture since the beginning or the last capture.
 
 ## Stacking rules
 
 Cube movements (which are explained below) make it possible to build stacks that must comply with the following rules.
 
-A stack is limited to 2 cubes of the same color.
-
-A "sky" cube can be stacked on either a "sky" or "earth" cube.
-
-An "earth" cube can be stacked only on an "earth" cube.
+A stack is limited to any 2 cubes of the same color, except that a “wise” cube only stacks on top of a “wise” cube.
 
 ## Moving rules
 
@@ -78,11 +76,13 @@ The stack built during your turn can be moved, and conversely, the stack moved d
 
 ## Capturing rules
 
-Knowing that a "unit" refers to a cube or a stack, only the "sky" units capture each other, and regardless of their heights (example: a cube can capture a stack). "Earth" units never capture and are never captured.
+Knowing that a "unit" refers to a cube or a stack, only the "rock/paper/scissors" units capture each other, and regardless of their heights (example: a cube can capture a stack). "Wise" units never capture and are never captured.
 
-The quality "sky" or "earth" and the role "rock", "paper", "scissors" or "wise man" of a stack are determined by the cube at its top. The top of a stack is never captured alone: the entire stack is captured.
+The role "rock/paper/scissors/wise" of a stack is determined by the cube at its top. The top of a stack is never captured alone: the entire stack is captured.
 
-A "sky" unit captures an opposing "sky" unit by moving if it respects the following order of roles: "rock" captures "scissors"; "scissors" captures "paper"; "paper" captures "rock".
+A unit captures an opposing unit by moving if it respects the following order of roles: "rock" captures "scissors"; "scissors" captures "paper"; "paper" captures "rock". 
+
+A "wise" cube can be captured if it is at the bottom of a "rock/paper/scissors" stack.
 
 Any captured unit is permanently removed from the board.
 
@@ -103,13 +103,13 @@ Dans le jeu “pijersi”, deux joueurs, blanc et noir, déplacent leurs cubes, 
 Le jeu "[pijersi](https://github.com/LucasBorboleta/pijersi)” est une variante du jeu “[jersi](https://github.com/LucasBorboleta/jersi)”. En [lojban](https://mw.lojban.org), la racine “prije” et son affixe “pi” signifient “sage”, tandis que la racine “jersi” signifie “chasser” ou “poursuivre”. Prononcer `/pi/jer/ssi/`.
 
 ## Informations générales
-Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 30 minutes 
+Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 15 minutes 
 
 ## Matériel
-Vous (joueur blanc ou noir) avez 14 cubes à votre couleur. Les 6 mêmes faces d'un cube définissent son rôle (exemple : pierre). Vos cubes sont répartis en 2 qualités :
+Vous (joueur blanc/noir) avez 14 cubes à votre couleur. Les 6 mêmes faces d'un cube définissent son rôle (exemple : pierre). Vous avez :
 
-- Les cubes de la qualité "ciel" : 4 "pierre", 4 "feuille" et 4 "ciseaux" (ici les lettres "RPS").
-- Les cubes de la qualité "terre" : 2 "sage" (ici la lettre "W").
+- 4 "pierre", 4 "feuille" et 4 "ciseaux" (les lettres "R/P/S" ou les symboles "cercle/carré/croix").
+- 2 "sage" (la lettre "W" ou le symbole "infini").
 
 Le plateau hexagonal suivant, de 45 cases et de 7 lignes, est disposé entre les 2 joueurs :
 
@@ -124,7 +124,7 @@ Le plateau hexagonal suivant, de 45 cases et de 7 lignes, est disposé entre les
 ```
 
 ## Mise en place
-Sur les 2 lignes les plus proches de vous (“ab” pour blanc et “fg” pour noir), vous placez vos cubes comme indiqué ci-dessous. Vos sages sont empilés. Le joueur blanc entame la partie. 
+Sur les 2 lignes les plus proches de vous (“ab” pour blanc et “fg” pour noir), vous placez vos cubes comme indiqué ci-dessous. Vos cubes "sage" sont empilés. Le joueur blanc entame la partie. 
 
 Ici les lettres majuscules repèrent les cubes de blanc et les minuscules ceux de noirs.
 
@@ -140,16 +140,12 @@ Ici les lettres majuscules repèrent les cubes de blanc et les minuscules ceux d
 
 ## But du jeu
 
-Pour gagner, vous devez amener le premier au moins un de vos cubes “ciel” sur la dernière ligne adverse (blanc vise la ligne “g” et noir vise la ligne “a”) ou bien vous devez empêcher votre adversaire de jouer à son tour. La partie est nulle après 20 tours sans aucune capture, depuis l'entame ou la dernière capture.
+Vous devez amener le premier au moins un de vos cubes “pierre/feuille/ciseaux” sur la dernière ligne adverse (blanc vise la ligne “g” et noir vise la ligne “a”) ou bien vous devez empêcher votre adversaire de jouer à son tour. La partie est nulle après 20 tours sans aucune capture, depuis l'entame ou la dernière capture.
 
 ## Règles de pile
 Les déplacements de cubes (qui sont expliqués après) permettent de construire des piles qui doivent respecter les règles qui suivent.
 
-Une pile est limitée à 2 cubes de même couleur.
-
-Un cube “ciel” s’empile soit sur un cube “ciel” ou soit sur un cube “terre”.
-
-Un cube “terre” s’empile seulement sur un cube “terre”.
+Une pile est limitée à 2 cubes quelconques de même couleur, sauf qu'un cube “sage” s’empile seulement sur un cube “sage”. 
 
 ## Règles de déplacement
 Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit vers une case vide, soit vers une case occupée pour s’empiler sur un autre cube (en respectant les règles de pile) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture qui sont expliquées après).
@@ -159,11 +155,13 @@ Une pile se déplace, sans bifurquer, ni sauter par-dessus des cases occupées, 
 La pile construite pendant votre tour peut être déplacée, et réciproquement, la pile déplacée pendant votre tour peut être déconstruite en déplaçant son sommet. Cet enchaînement de 2 actions est possible une seule fois pendant votre tour.
 
 ## Règles de capture
-Sachant qu'une "unité" désigne un cube ou une pile, seules les unités “ciel” se capturent entre elles, et indépendamment de leurs hauteurs (exemple : un cube peut capturer une pile). Les unités "terre" ne capturent jamais  et ne sont jamais capturées.
+Sachant qu'une "unité" désigne un cube ou une pile, seules les unités “pierre/feuille/ciseaux” se capturent entre elles, et indépendamment de leurs hauteurs (exemple : un cube peut capturer une pile). Les unités "sage" ne capturent jamais et ne sont jamais capturées.
 
-La qualité “ciel” ou “terre” et le rôle "pierre", "feuille", "ciseaux" ou "sage" d’une pile sont déterminés par le cube à son sommet. Le sommet d'une pile n'est jamais capturé seul : c'est toute la pile qui est capturée.
+Le rôle “pierre/feuille/ciseaux/sage" d’une pile est déterminé par le cube à son sommet. Le sommet d'une pile n'est jamais capturé seul : c'est toute la pile qui est capturée. 
 
-Une unité “ciel” capture une unité “ciel” adverse par déplacement à condition de respecter l’ordre suivant des rôles : "pierre" capture "ciseaux" ; "ciseaux" capture "feuille" ; "feuille" capture "pierre".
+Un cube "sage" peut être capturé s'il est en bas d'une pile "pierre/feuille/ciseaux".
+
+Une unité capture une unité adverse par déplacement à condition de respecter l’ordre suivant des rôles : "pierre" capture "ciseaux" ; "ciseaux" capture "feuille" ; "feuille" capture "pierre".
 
 Toute unité capturée est retirée définitivement du plateau.
 
