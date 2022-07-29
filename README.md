@@ -5,7 +5,7 @@
 
 2 pages in English + 2 pages en Français
 
-Game characteristics: crossing win condition / stacking / capturing
+Game characteristics: cross win condition / stacking / capturing
 
 ![](./pictures/schema.png)
 
