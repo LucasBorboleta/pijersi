@@ -3,9 +3,7 @@
 
 ![](./pictures/pijersi-2022-0723-0940.jpg)
 
-2 pages in English + 2 pages en Français
-
-Game characteristics: cross win condition / stacking / capturing
+2 pages in English + 2 pages en Français / Game kind: cross win condition + stacking + capturing
 
 ![](./pictures/schema.png)
 
