@@ -21,7 +21,7 @@ Number of players: 2 / Minimum age: 8 years / Game duration: 15 minutes
 
 ## Components
 
-You (white/black player) have 14 cubes in your color. The 6 same faces of a cube define its role (example: rock). You have:
+You (white/black player) have 14 cubes in your color (in the photo: black => red). The 6 same faces of a cube define its role (example: rock). You have:
 
 - 4 "rock", 4 "paper" and 4 "scissors" (the letters "R/P/S" or the symbols "circle/square/cross").
 - 2 "wise man", just called "wise" (the letter "W" or the symbol "infinity").
@@ -104,7 +104,7 @@ Le jeu "[pijersi](https://github.com/LucasBorboleta/pijersi)” est une variante
 Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 15 minutes 
 
 ## Matériel
-Vous (joueur blanc/noir) avez 14 cubes à votre couleur. Les 6 mêmes faces d'un cube définissent son rôle (exemple : pierre). Vous avez :
+Vous (joueur blanc/noir) avez 14 cubes à votre couleur (sur la photo: noir => rouge). Les 6 mêmes faces d'un cube définissent son rôle (exemple : pierre). Vous avez :
 
 - 4 "pierre", 4 "feuille" et 4 "ciseaux" (les lettres "R/P/S" ou les symboles "cercle/carré/croix").
 - 2 "sage" (la lettre "W" ou le symbole "infini").
