@@ -1,27 +1,12 @@
 # Pijersi : rules of the game
 
-
-![](./pictures/pijersi-2022-0723-0940.jpg)
-
-Game kind: cross win condition + stacking + capturing
-
-![](./pictures/schema.png)
-
-<div style="page-break-after: always;"></div>
-
 ## Introduction
 
 In the game "pijersi", two players, white and black, move their cubes, alone or in dynamic stacks, which compete in their roles of "rock", "paper", "scissors" and "wise man". Each player attempts to reach first the last opposing line. 
 
-The game "[pijersi](https://github.com/LucasBorboleta/pijersi)" is a variant of the game "[jersi](https://github.com/LucasBorboleta/jersi)". In [Lojban](https://mw.lojban.org/), the root "prije" and its affix "pi" mean "wise", while the root "jersi" means "to chase" or "to pursue". Pronounce `/pee/jer/see/`.
-
-## General information
-
-Number of players: 2 / Minimum age: 8 years / Game duration: 15 minutes 
-
 ## Components
 
-You (white/black player) have 14 cubes in your color (in the photo: black => red). The 6 same faces of a cube define its role (example: rock). You have:
+You (white/black player) have 14 cubes in your color. The 6 same faces of a cube define its role (example: rock). You have:
 
 - 4 "rock", 4 "paper" and 4 "scissors" (respectively the symbols "circle/square/cross").
 - 2 "wise man", just called "wise" (the symbol "infinity").
@@ -35,8 +20,6 @@ The following hexagonal board, of 45 spaces and 7 lines, is arranged between the
 On the 2 lines closest to you ("ab" for white and "fg" for black), you put your cubes as shown above. Your "wise" cubes are stacked. You fill in your back line from left to right, with two rock-paper-scissors sequences. Then, you complete your two lines by building rock-paper-scissors triangles.
 
 The white player starts the game. 
-
-<div style="page-break-after: always;"></div>
 
 ## Goal of the game
 
@@ -68,10 +51,4 @@ A "wise" cube can be captured if it is at the bottom of a "rock/paper/scissors" 
 
 Any captured unit is permanently removed from the board.
 
-## Copyright
-
-[![Creative Commons License](./pictures/CC-BY-NC-SA.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) Copyright (C) 2022 Lucas Borboleta.
-
-Pijersi, rules of a strategy game for two players, by Lucas Borboleta (https://github.com/LucasBorboleta/pijersi) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
-
-Permissions beyond the scope of this license may be available at [lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr).
+[![Creative Commons License](./pictures/CC-BY-NC-SA.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) Copyright (C) 2022  [lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr) ; license Creative Commons BY-NC-SA

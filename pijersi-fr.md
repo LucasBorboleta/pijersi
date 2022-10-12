@@ -21,35 +21,19 @@ Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 15 minutes
 ## Matériel
 Vous (joueur blanc/noir) avez 14 cubes à votre couleur (sur la photo: noir => rouge). Les 6 mêmes faces d'un cube définissent son rôle (exemple : pierre). Vous avez :
 
-- 4 "pierre", 4 "feuille" et 4 "ciseaux" (les lettres "R/P/S" ou les symboles "cercle/carré/croix").
-- 2 "sage" (la lettre "W" ou le symbole "infini").
+- 4 "pierre", 4 "feuille" et 4 "ciseaux" (respectivement, les symboles "cercle/carré/croix").
+- 2 "sage" (le symbole "infini").
 
 Le plateau hexagonal suivant, de 45 cases et de 7 lignes, est disposé entre les 2 joueurs :
 
-```
-   1 2 3 4 5 6      [ligne “g”]
-  1 2 3 4 5 6 7     [ligne “f”]
-   1 2 3 4 5 6      [ligne “e”]
-  1 2 3 4 5 6 7     [ligne “d”]
-   1 2 3 4 5 6      [ligne “c”]
-  1 2 3 4 5 6 7     [ligne “b”]
-   1 2 3 4 5 6      [ligne “a”]
-```
+<img src="./pictures/pijersi-positions-initiales.png" style="zoom:50%;" />
 
 ## Mise en place
-Sur les 2 lignes les plus proches de vous (“ab” pour blanc et “fg” pour noir), vous placez vos cubes comme indiqué ci-dessous. Vos cubes "sage" sont empilés. Le joueur blanc entame la partie. 
+Sur les 2 lignes les plus proches de vous (“ab” pour blanc et “fg” pour noir), vous placez vos cubes comme indiqué ci-dessus. Vos cubes "sage" sont empilés. Vous remplissez votre ligne arrière de gauche à droite, avec deux séquences pierre-feuille-ciseaux. Puis, vous complétez vos deux lignes en construisant des triangles pierre-feuille-ciseaux.
 
-Ici les lettres majuscules repèrent les cubes de blanc et les minuscules ceux de noirs.
+Le joueur blanc entame la partie. 
 
-```
-      s.  p.  r.  s.  p.  r.
-    p.  r.  s.  ww  r.  s.  p.
-      ..  ..  ..  ..  ..  ..
-    ..  ..  ..  ..  ..  ..  ..
-      ..  ..  ..  ..  ..  ..
-    P.  S.  R.  WW  S.  R.  P.
-      R.  P.  S.  R.  P.  S.
-```
+<div style="page-break-after: always;"></div>
 
 ## But du jeu
 
@@ -80,8 +64,4 @@ Toute unité capturée est retirée définitivement du plateau.
 
 ## Copyright
 
-[![Creative Commons License](./pictures/CC-BY-NC-SA.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) Copyright (C) 2022 Lucas Borboleta.
-
-Pijersi, règles d'un jeu pour deux joueurs, de Lucas Borboleta (https://github.com/LucasBorboleta/pijersi) est mis à disposition selon les termes de la licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International. Pour afficher une copie de cette licence, visitez http://creativecommons.org/licenses/by-nc-sa/4.0/.
-
-Les autorisations au-delà du champ de cette licence peuvent être obtenues à [lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr).
+[![Creative Commons License](./pictures/CC-BY-NC-SA.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) Copyright (C) 2022 Lucas Borboleta. Pijersi, règles d'un jeu pour 2joueurs, de Lucas Borboleta (https://github.com/LucasBorboleta/pijersi) est mis à disposition selon la licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International ; visitez http://creativecommons.org/licenses/by-nc-sa/4.0/. Les autorisations au-delà du champ de cette licence peuvent être obtenues à [lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr).
