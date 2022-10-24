@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="8.156425267590963cm"
+     height="8.156425267590963cm"
+     viewBox="0 0 80 80"
+     >
+<title>
+
+</title>
+<g stroke-linejoin="miter" stroke-dashoffset="0.0000" stroke-dasharray="none" stroke-width="1.0000" stroke-miterlimit="10.000" stroke-linecap="square">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clipc9c67a42-5049-4643-9b68-d8ba8e678e88">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#ffffff">
+  <path d="M 0.0000 0.0000 L 591.00 0.0000 L 591.00 606.00 L 0.0000 606.00 L 0.0000 0.0000 z"/>
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+</g> <!-- transform -->
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clip791b0ca5-840c-4cb4-8dd5-e75d1cac57bf">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g fill-opacity="1.0000" fill-rule="evenodd" stroke="none" fill="#ffffff">
+  <path d="M 3.1101 4.2979 L 82.557 4.2979 L 82.557 83.744 L 3.1101 83.744 z"/>
+<title>Quadrilatère square_{Ext}</title>
+<desc>Quadrilatère square_{Ext}: Polygone NW_{Ext}, NE_{Ext}, SE_{Ext}, SW_{Ext}</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+</g> <!-- transform -->
+</g><!-- layer0 -->
+<g id="layer1">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clipbe200d21-7c46-4ee6-bade-430d30c5dea3">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 3.1101 4.2979 L 82.557 4.2979"/>
+<title>Segment s_{NExt}</title>
+<desc>Segment s_{NExt}: Segment [NW_{Ext}NE_{Ext}]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clip3d3f2f54-142a-4fec-991f-6b50ae9e2f29">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 82.557 4.2979 L 82.557 83.744"/>
+<title>Segment s_{EExt}</title>
+<desc>Segment s_{EExt}: Segment [NE_{Ext}SE_{Ext}]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clipb80acd02-d229-4e8e-9375-45584a85300a">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 82.557 83.744 L 3.1101 83.744"/>
+<title>Segment s_{SExt}</title>
+<desc>Segment s_{SExt}: Segment [SE_{Ext}SW_{Ext}]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clipd9b697e6-c2f3-4b74-845f-db006f2053c1">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 3.1101 83.744 L 3.1101 4.2979"/>
+<title>Segment s_{WExt}</title>
+<desc>Segment s_{WExt}: Segment [SW_{Ext}NW_{Ext}]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+</g> <!-- transform -->
+</g><!-- layer1 -->
+<g id="layer8">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -2.7129, -3.9006)">
+<clipPath id="clipd0039115-d3ed-48b1-ae9b-5472c4fd5e6f">
+  <path d="M 2.7129 3.9006 L 2.7129 84.901 L 83.713 84.901 L 83.713 3.9006 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g stroke-linejoin="round" stroke-width="6.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 66.667 44.021 L 66.582 42.856 L 66.327 41.718 L 65.913 40.635 L 65.352 39.628 L 64.664 38.717 L 63.869 37.915 L 62.987 37.232 L 62.040 36.671 L 61.049 36.233 L 60.031 35.914 L 59.003 35.708 L 57.977 35.608 L 56.963 35.604 L 55.970 35.687 L 55.004 35.848 L 54.069 36.076 L 53.166 36.365 L 52.298 36.705 L 51.464 37.089 L 50.662 37.512 L 49.893 37.966 L 49.153 38.448 L 48.441 38.952 L 47.754 39.475 L 47.090 40.014 L 46.445 40.565 L 45.817 41.127 L 45.203 41.697 L 44.601 42.273 L 44.007 42.853 L 43.419 43.436 L 42.833 44.021 L 42.248 44.606 L 41.660 45.189 L 41.066 45.770 L 40.463 46.346 L 39.850 46.915 L 39.222 47.477 L 38.577 48.029 L 37.913 48.567 L 37.226 49.090 L 36.514 49.595 L 35.774 50.076 L 35.004 50.531 L 34.203 50.953 L 33.369 51.337 L 32.500 51.677 L 31.598 51.966 L 30.663 52.195 L 29.697 52.355 L 28.704 52.438 L 27.690 52.434 L 26.664 52.334 L 25.635 52.128 L 24.618 51.809 L 23.627 51.371 L 22.680 50.811 L 21.798 50.127 L 21.003 49.326 L 20.314 48.414 L 19.754 47.408 L 19.340 46.324 L 19.085 45.186 L 18.999 44.021 L 19.085 42.856 L 19.340 41.718 L 19.754 40.635 L 20.314 39.628 L 21.003 38.717 L 21.798 37.915 L 22.680 37.232 L 23.627 36.671 L 24.618 36.233 L 25.635 35.914 L 26.664 35.708 L 27.690 35.608 L 28.704 35.604 L 29.697 35.687 L 30.663 35.848 L 31.598 36.076 L 32.500 36.365 L 33.369 36.705 L 34.203 37.089 L 35.004 37.512 L 35.774 37.966 L 36.514 38.448 L 37.226 38.952 L 37.913 39.475 L 38.577 40.014 L 39.222 40.565 L 39.850 41.127 L 40.463 41.697 L 41.066 42.273 L 41.660 42.853 L 42.248 43.436 L 42.833 44.021 L 43.419 44.606 L 44.007 45.189 L 44.601 45.770 L 45.203 46.346 L 45.817 46.915 L 46.445 47.477 L 47.090 48.029 L 47.754 48.567 L 48.441 49.090 L 49.153 49.595 L 49.893 50.076 L 50.662 50.531 L 51.464 50.953 L 52.298 51.337 L 53.166 51.677 L 54.069 51.966 L 55.004 52.195 L 55.970 52.355 L 56.963 52.438 L 57.977 52.434 L 59.003 52.334 L 60.031 52.128 L 61.049 51.809 L 62.040 51.371 L 62.987 50.811 L 63.869 50.127 L 64.664 49.326 L 65.352 48.414 L 65.913 47.408 L 66.327 46.324 L 66.582 45.186 L 66.667 44.021"/>
+<title>Courbe Lemniscate</title>
+<desc>Courbe Lemniscate: Courbe(x(O) + (x(O) - x(W_{Int})) cos(t) / (1 + sin²(t)), y(O) + (x(O) - x(W_{Int})) cos(t) sin(t) / (1 + sin²(t)), t, 0, 2π)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+</g> <!-- transform -->
+</g><!-- layer8 -->
+<g id="layer9">
+</g><!-- layer9 -->
+<defs>
+
+</defs> <!-- font definitions -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->
