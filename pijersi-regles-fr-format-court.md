@@ -12,7 +12,7 @@ Vous (joueur blanc/noir) avez 14 cubes à votre couleur. Les 6 mêmes faces d'un
 
 Le plateau hexagonal suivant, de 45 cases et de 7 lignes, est disposé entre les 2 joueurs :
 
-<img src="./pictures/pijersi-positions-initiales.png" style="zoom:50%;" />
+<img src="./pictures/pijersi-positions-initiales.png" style="zoom:49%;" />
 
 ## Mise en place
 Sur les 2 lignes les plus proches de vous (“ab” pour blanc et “fg” pour noir), vous placez vos cubes comme indiqué ci-dessus. Vos cubes "sage" sont empilés. Vous remplissez votre ligne arrière de gauche à droite, avec deux séquences pierre-feuille-ciseaux. Puis, vous complétez vos deux lignes en construisant des triangles pierre-feuille-ciseaux.
@@ -28,6 +28,8 @@ Les déplacements de cubes (qui sont expliqués après) permettent de construire
 
 Une pile est limitée à 2 cubes quelconques de même couleur, sauf qu'un cube “sage” s’empile seulement sur un cube “sage”. 
 
+Une pile est déconstruite en déplaçant le cube à son sommet (en respectant les règles de déplacement).
+
 ## Règles de déplacement
 Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit vers une case vide, soit vers une case occupée pour s’empiler sur un autre cube (en respectant les règles de pile) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture qui sont expliquées après).
 
@@ -36,14 +38,16 @@ Une pile se déplace de 1 ou 2 cases, sans bifurquer, ni sauter par-dessus des c
 La pile construite pendant votre tour peut être déplacée, et réciproquement, la pile déplacée pendant votre tour peut être déconstruite en déplaçant son sommet. Cet enchaînement de 2 actions est possible une seule fois pendant votre tour.
 
 ## Règles de capture
-Sachant qu'une "unité" désigne un cube ou une pile, seules les unités “pierre/feuille/ciseaux” se capturent entre elles, et indépendamment de leurs hauteurs (exemple : un cube peut capturer une pile). Les unités "sage" ne capturent jamais et ne sont jamais capturées.
+Sachant qu'une "unité" désigne un cube ou une pile, seules les unités de rôle “pierre/feuille/ciseaux” se capturent entre elles, et indépendamment de leurs hauteurs (exemple : un cube peut capturer une pile). Les unités de rôle "sage" ne capturent jamais et ne sont jamais capturées.
 
 Le rôle “pierre/feuille/ciseaux/sage" d’une pile est déterminé par le cube à son sommet. Le sommet d'une pile n'est jamais capturé seul : c'est toute la pile qui est capturée. 
 
-Un cube "sage" peut être capturé s'il est en bas d'une pile "pierre/feuille/ciseaux".
+Un cube "sage" peut être capturé s'il est en bas d'une pile de rôle "pierre/feuille/ciseaux".
 
 Une unité capture une unité adverse par déplacement à condition de respecter l’ordre suivant des rôles : "pierre" capture "ciseaux" ; "ciseaux" capture "feuille" ; "feuille" capture "pierre".
 
 Toute unité capturée est retirée définitivement du plateau.
+
+Les règles de déplacement d'une pile et de son sommet rendent possible deux captures par tour de jeu.
 
 [![Creative Commons License](./pictures/CC-BY-NC-SA.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) Copyright (C) 2022  [lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr) ; licence Creative Commons BY-NC-SA

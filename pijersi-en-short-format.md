@@ -31,6 +31,8 @@ Cube movements (which are explained below) make it possible to build stacks that
 
 A stack is limited to any 2 cubes of the same color, except that a “wise” cube only stacks on top of a “wise” cube.
 
+A stack is unbuilt by moving the cube at its top (respecting the moving rules).
+
 ## Moving rules
 
 A cube, alone or at the top of a stack, moves from a single space, either to an empty space or to an occupied space to stack on top of another cube (respecting the stacking rules) or to capture an opposing cube or stack (respecting the capturing rules that are explained below).
@@ -41,14 +43,16 @@ The stack built during your turn can be moved, and conversely, the stack moved d
 
 ## Capturing rules
 
-Knowing that a "unit" refers to a cube or a stack, only the "rock/paper/scissors" units capture each other, and regardless of their heights (example: a cube can capture a stack). "Wise" units never capture and are never captured.
+Knowing that a "unit" refers to a cube or a stack, only the units in role "rock/paper/scissors" capture each other, and regardless of their heights (example: a cube can capture a stack). Units in role "wise"  never capture and are never captured.
 
 The role "rock/paper/scissors/wise" of a stack is determined by the cube at its top. The top of a stack is never captured alone: the entire stack is captured.
 
 A unit captures an opposing unit by moving if it respects the following order of roles: "rock" captures "scissors"; "scissors" captures "paper"; "paper" captures "rock". 
 
-A "wise" cube can be captured if it is at the bottom of a "rock/paper/scissors" stack.
+A "wise" cube can be captured if it is at the bottom of a stack in role "rock/paper/scissors" .
 
 Any captured unit is permanently removed from the board.
+
+The rules for moving a stack and its top allow two captures in a turn.
 
 [![Creative Commons License](./pictures/CC-BY-NC-SA.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) Copyright (C) 2022  [lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr) ; license Creative Commons BY-NC-SA
