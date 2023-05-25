@@ -21,32 +21,28 @@ Le joueur blanc entame la partie.
 
 ## But du jeu
 
-Vous devez amener le premier au moins un de vos cubes “pierre/feuille/ciseaux” sur la dernière ligne adverse (blanc vise la ligne “g” et noir vise la ligne “a”) ou bien vous devez empêcher votre adversaire de jouer à son tour. La partie est nulle après 20 tours sans aucune capture, depuis l'entame ou la dernière capture.
+Vous devez amener le premier un cube “pierre/feuille/ciseaux” (seul ou en pile) sur la dernière ligne adverse (blanc vise la ligne “g” et noir vise la ligne “a”) ou bien vous devez empêcher votre adversaire de jouer à son tour. La partie est nulle après 20 tours sans aucune capture, depuis l'entame ou la dernière capture.
 
-## Règles de pile
-Les déplacements de cubes (qui sont expliqués après) permettent de construire des piles qui doivent respecter les règles qui suivent.
+## Règles de pile : construction et déconstruction
+Une pile est construite en déplaçant un cube (en respectant les règles de déplacement) pour l'empiler sur un autre cube en respectant la règle suivante : une pile est limitée à 2 cubes quelconques de même couleur, excepté qu'un cube “sage” s’empile seulement sur un cube “sage”.
 
-Une pile est limitée à 2 cubes quelconques de même couleur, sauf qu'un cube “sage” s’empile seulement sur un cube “sage”. 
-
-Une pile est déconstruite en déplaçant le cube à son sommet (en respectant les règles de déplacement).
+Une pile est déconstruite en déplaçant le cube à son sommet (en respectant les règles de déplacement et de capture).
 
 ## Règles de déplacement
-Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit vers une case vide, soit vers une case occupée pour s’empiler sur un autre cube (en respectant les règles de pile) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture qui sont expliquées après).
+Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit vers une case vide, soit vers une case occupée pour s’empiler sur un de vos cubes (en respectant les règles de pile) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture). Un cube en bas de pile n'est pas déplaçable.
 
 Une pile se déplace de 1 ou 2 cases, sans bifurquer, ni sauter par-dessus des cases occupées, soit vers une case vide, soit vers une case occupée pour capturer un cube ou une pile adverse (en respectant les règles de capture).
 
-La pile construite pendant votre tour peut être déplacée, et réciproquement, la pile déplacée pendant votre tour peut être déconstruite en déplaçant son sommet. Cet enchaînement de 2 actions est possible une seule fois pendant votre tour.
+La pile construite pendant votre tour peut être immédiatement déplacée, et réciproquement, la pile déplacée pendant votre tour peut être immédiatement déconstruite en déplaçant son sommet. Cet enchaînement de 2 actions est possible une seule fois pendant votre tour.
 
 ## Règles de capture
-Sachant qu'une "unité" désigne un cube ou une pile, seules les unités de rôle “pierre/feuille/ciseaux” se capturent entre elles, et indépendamment de leurs hauteurs (exemple : un cube peut capturer une pile). Les unités de rôle "sage" ne capturent jamais et ne sont jamais capturées.
+Les cubes et les piles se capturent entre eux, et indépendamment de leurs hauteurs (exemple : un cube peut capturer une pile). Le sommet d'une pile n'est jamais capturé seul : c'est toute la pile qui est capturée. Tout cube ou un pile capturé est définitivement retiré du plateau.
 
-Le rôle “pierre/feuille/ciseaux/sage" d’une pile est déterminé par le cube à son sommet. Le sommet d'une pile n'est jamais capturé seul : c'est toute la pile qui est capturée. 
+Les rôles “pierre/feuille/ciseaux/sage" détermine les captures. Le rôle “pierre/feuille/ciseaux/sage" d’une pile est déterminé par le cube à son sommet. 
 
-Un cube "sage" peut être capturé s'il est en bas d'une pile de rôle "pierre/feuille/ciseaux".
+Un cube ou une pile de rôle "sage" ne capture jamais et n'est jamais capturé. Un cube "sage" peut être capturé s'il est en bas d'une pile de rôle "pierre/feuille/ciseaux".
 
-Une unité capture une unité adverse par déplacement à condition de respecter l’ordre suivant des rôles : "pierre" capture "ciseaux" ; "ciseaux" capture "feuille" ; "feuille" capture "pierre".
-
-Toute unité capturée est retirée définitivement du plateau.
+Un cube ou une pile capture un cube ou une pile adverse par déplacement à condition de respecter l’ordre suivant des rôles : "pierre" capture "ciseaux" ; "ciseaux" capture "feuille" ; "feuille" capture "pierre".
 
 Les règles de déplacement d'une pile et de son sommet rendent possible deux captures par tour de jeu.
 
