@@ -40,37 +40,37 @@ The white player starts the game.
 
 ## Goal of the game
 
-You must bring first at least one of your "rock/paper/scissors" cubes to the last opposing line (white targets the "g" line and black targets the "a" line) or else must prevent your opponent from playing in turn. The game is a tie after 20 turns without any capture since the beginning or the last capture.
+You must bring first a “rock/paper/scissors” cube (alone or in a stack) to the last opposing line (white targets the "g" line and black targets the "a" line) or else must prevent your opponent from playing in turn. The game is a tie after 20 turns without any capture since the beginning or the last capture.
 
-## Stacking rules
+## Stacking rules : building and unbuilding
 
-Cube movements (which are explained below) make it possible to build stacks that must comply with the following rules.
+A stack is built by moving a cube (respecting the moving rules) to stack it on another cube respecting the following rule: a stack is limited to any 2 cubes of the same color, except that a “wise” cube only stacks on a “wise” cube.
 
-A stack is limited to any 2 cubes of the same color, except that a “wise” cube only stacks on top of a “wise” cube.
+A stack is unbuilt by moving the cube on its top (respecting the movement and capture rules).
 
 ## Moving rules
 
-A cube, alone or at the top of a stack, moves from a single space, either to an empty space or to an occupied space to stack on top of another cube (respecting the stacking rules) or to capture an opposing cube or stack (respecting the capturing rules that are explained below).
+A cube, alone or at the top of a stack, moves from a single space, either to an empty space or to an occupied space to stack on top of one of your cube (respecting the stacking rules) or to capture an opposing cube or stack (respecting the capturing rules that are explained below). A cube at the bottom of the stack is not movable.
 
 A stack moves straight 1 or 2 spaces, without forking or jumping over occupied spaces, either to an empty space or to an occupied space to capture an opposing cube or stack (respecting the capturing rules).
 
-The stack built during your turn can be moved, and conversely, the stack moved during your turn can be unbuilt by moving its top. This sequence of 2 actions is possible only once during your turn.
+The stack built during your turn can be immediately moved, and conversely, the stack moved during your turn can be immediately unbuilt by moving its top. This sequence of 2 actions is possible only once during your turn.
 
 ## Capturing rules
 
-Knowing that a "unit" refers to a cube or a stack, only the "rock/paper/scissors" units capture each other, and regardless of their heights (example: a cube can capture a stack). "Wise" units never capture and are never captured.
+The cubes and the stacks capture each other, and independently of their heights (example: a cube can capture a stack). The top of a stack is never captured alone: the entire stack is captured. Any cube or stack captured is permanently removed from the board.
 
-The role "rock/paper/scissors/wise" of a stack is determined by the cube at its top. The top of a stack is never captured alone: the entire stack is captured.
+The "rock/paper/scissors/wise" roles determine captures. The "rock/paper/scissors/wise" role of a stack is determined by the cube at its top.
 
-A unit captures an opposing unit by moving if it respects the following order of roles: "rock" captures "scissors"; "scissors" captures "paper"; "paper" captures "rock". 
+A cube or stack in "wise" role never captures and is never captured. A "wise" cube can be captured if it is at the bottom of a "rock/paper/scissors" stack.
 
-A "wise" cube can be captured if it is at the bottom of a "rock/paper/scissors" stack.
+A cube or a stack captures an opponent's cube or stack by movement, provided that the following order of roles is respected: "rock" captures "scissors"; "scissors" captures "paper"; "paper" captures "rock".
 
-Any captured unit is permanently removed from the board.
+The rules for moving a stack and its top allow two captures during a turn.
 
 ## Copyright
 
-[![Creative Commons License](./pictures/CC-BY-NC-SA.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) Copyright (C) 2022 Lucas Borboleta.
+[![Creative Commons License](C:\Users\leandre\Documents\GitHub\pijersi\pictures\CC-BY-NC-SA.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) Copyright (C) 2022 Lucas Borboleta.
 
 Pijersi, rules of a strategy game for two players, by Lucas Borboleta (https://github.com/LucasBorboleta/pijersi) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 

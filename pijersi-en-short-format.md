@@ -23,7 +23,7 @@ The white player starts the game.
 
 ## Goal of the game
 
-You must bring first at least one of your "rock/paper/scissors" cubes to the last opposing line (white targets the "g" line and black targets the "a" line) or else must prevent your opponent from playing in turn. The game is a tie after 20 turns without any capture since the beginning or the last capture.
+You must bring first a “rock/paper/scissors” cube (alone or in a stack) to the last opposing line (white targets the "g" line and black targets the "a" line) or else must prevent your opponent from playing in turn. The game is a tie after 20 turns without any capture since the beginning or the last capture.
 
 ## Stacking rules : building and unbuilding
 

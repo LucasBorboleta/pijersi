@@ -40,33 +40,33 @@ The white player starts the game.
 
 ## Goal of the game
 
-You must bring first at least one of your "rock/paper/scissors" cubes to the last opposing line (white targets the "g" line and black targets the "a" line) or else must prevent your opponent from playing in turn. The game is a tie after 20 turns without any capture since the beginning or the last capture.
+You must bring first a “rock/paper/scissors” cube (alone or in a stack) to the last opposing line (white targets the "g" line and black targets the "a" line) or else must prevent your opponent from playing in turn. The game is a tie after 20 turns without any capture since the beginning or the last capture.
 
-## Stacking rules
+## Stacking rules : building and unbuilding
 
-Cube movements (which are explained below) make it possible to build stacks that must comply with the following rules.
+A stack is built by moving a cube (respecting the moving rules) to stack it on another cube respecting the following rule: a stack is limited to any 2 cubes of the same color, except that a “wise” cube only stacks on a “wise” cube.
 
-A stack is limited to any 2 cubes of the same color, except that a “wise” cube only stacks on top of a “wise” cube.
+A stack is unbuilt by moving the cube on its top (respecting the movement and capture rules).
 
 ## Moving rules
 
-A cube, alone or at the top of a stack, moves from a single space, either to an empty space or to an occupied space to stack on top of another cube (respecting the stacking rules) or to capture an opposing cube or stack (respecting the capturing rules that are explained below).
+A cube, alone or at the top of a stack, moves from a single space, either to an empty space or to an occupied space to stack on top of one of your cube (respecting the stacking rules) or to capture an opposing cube or stack (respecting the capturing rules that are explained below). A cube at the bottom of the stack is not movable.
 
 A stack moves straight 1 or 2 spaces, without forking or jumping over occupied spaces, either to an empty space or to an occupied space to capture an opposing cube or stack (respecting the capturing rules).
 
-The stack built during your turn can be moved, and conversely, the stack moved during your turn can be unbuilt by moving its top. This sequence of 2 actions is possible only once during your turn.
+The stack built during your turn can be immediately moved, and conversely, the stack moved during your turn can be immediately unbuilt by moving its top. This sequence of 2 actions is possible only once during your turn.
 
 ## Capturing rules
 
-Knowing that a "unit" refers to a cube or a stack, only the "rock/paper/scissors" units capture each other, and regardless of their heights (example: a cube can capture a stack). "Wise" units never capture and are never captured.
+The cubes and the stacks capture each other, and independently of their heights (example: a cube can capture a stack). The top of a stack is never captured alone: the entire stack is captured. Any cube or stack captured is permanently removed from the board.
 
-The role "rock/paper/scissors/wise" of a stack is determined by the cube at its top. The top of a stack is never captured alone: the entire stack is captured.
+The "rock/paper/scissors/wise" roles determine captures. The "rock/paper/scissors/wise" role of a stack is determined by the cube at its top.
 
-A unit captures an opposing unit by moving if it respects the following order of roles: "rock" captures "scissors"; "scissors" captures "paper"; "paper" captures "rock". 
+A cube or stack in "wise" role never captures and is never captured. A "wise" cube can be captured if it is at the bottom of a "rock/paper/scissors" stack.
 
-A "wise" cube can be captured if it is at the bottom of a "rock/paper/scissors" stack.
+A cube or a stack captures an opponent's cube or stack by movement, provided that the following order of roles is respected: "rock" captures "scissors"; "scissors" captures "paper"; "paper" captures "rock".
 
-Any captured unit is permanently removed from the board.
+The rules for moving a stack and its top allow two captures during a turn.
 
 ## Copyright
 
@@ -106,30 +106,33 @@ Le joueur blanc entame la partie.
 
 ## But du jeu
 
-Vous devez amener le premier au moins un de vos cubes “pierre/feuille/ciseaux” sur la dernière ligne adverse (blanc vise la ligne “g” et noir vise la ligne “a”) ou bien vous devez empêcher votre adversaire de jouer à son tour. La partie est nulle après 20 tours sans aucune capture, depuis l'entame ou la dernière capture.
+Vous devez amener le premier un cube “pierre/feuille/ciseaux” (seul ou en pile) sur la dernière ligne adverse (blanc vise la ligne “g” et noir vise la ligne “a”) ou bien vous devez empêcher votre adversaire de jouer à son tour. La partie est nulle après 20 tours sans aucune capture, depuis l'entame ou la dernière capture.
 
-## Règles de pile
-Les déplacements de cubes (qui sont expliqués après) permettent de construire des piles qui doivent respecter les règles qui suivent.
+## Règles de pile : construction et déconstruction
 
-Une pile est limitée à 2 cubes quelconques de même couleur, sauf qu'un cube “sage” s’empile seulement sur un cube “sage”. 
+Une pile est construite en déplaçant un cube (en respectant les règles de déplacement) pour l'empiler sur un autre cube en respectant la règle suivante : une pile est limitée à 2 cubes quelconques de même couleur, excepté qu'un cube “sage” s’empile seulement sur un cube “sage”.
+
+Une pile est déconstruite en déplaçant le cube à son sommet (en respectant les règles de déplacement et de capture).
 
 ## Règles de déplacement
-Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit vers une case vide, soit vers une case occupée pour s’empiler sur un autre cube (en respectant les règles de pile) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture qui sont expliquées après).
+
+Un cube, seul ou au sommet d’une pile, se déplace d’une seule case, soit vers une case vide, soit vers une case occupée pour s’empiler sur un de vos cubes (en respectant les règles de pile) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture). Un cube en bas de pile n'est pas déplaçable.
 
 Une pile se déplace de 1 ou 2 cases, sans bifurquer, ni sauter par-dessus des cases occupées, soit vers une case vide, soit vers une case occupée pour capturer un cube ou une pile adverse (en respectant les règles de capture).
 
-La pile construite pendant votre tour peut être déplacée, et réciproquement, la pile déplacée pendant votre tour peut être déconstruite en déplaçant son sommet. Cet enchaînement de 2 actions est possible une seule fois pendant votre tour.
+La pile construite pendant votre tour peut être immédiatement déplacée, et réciproquement, la pile déplacée pendant votre tour peut être immédiatement déconstruite en déplaçant son sommet. Cet enchaînement de 2 actions est possible une seule fois pendant votre tour.
 
 ## Règles de capture
-Sachant qu'une "unité" désigne un cube ou une pile, seules les unités “pierre/feuille/ciseaux” se capturent entre elles, et indépendamment de leurs hauteurs (exemple : un cube peut capturer une pile). Les unités "sage" ne capturent jamais et ne sont jamais capturées.
 
-Le rôle “pierre/feuille/ciseaux/sage" d’une pile est déterminé par le cube à son sommet. Le sommet d'une pile n'est jamais capturé seul : c'est toute la pile qui est capturée. 
+Les cubes et les piles se capturent entre eux, et indépendamment de leurs hauteurs (exemple : un cube peut capturer une pile). Le sommet d'une pile n'est jamais capturé seul : c'est toute la pile qui est capturée. Tout cube ou un pile capturé est définitivement retiré du plateau.
 
-Un cube "sage" peut être capturé s'il est en bas d'une pile "pierre/feuille/ciseaux".
+Les rôles “pierre/feuille/ciseaux/sage" détermine les captures. Le rôle “pierre/feuille/ciseaux/sage" d’une pile est déterminé par le cube à son sommet. 
 
-Une unité capture une unité adverse par déplacement à condition de respecter l’ordre suivant des rôles : "pierre" capture "ciseaux" ; "ciseaux" capture "feuille" ; "feuille" capture "pierre".
+Un cube ou une pile de rôle "sage" ne capture jamais et n'est jamais capturé. Un cube "sage" peut être capturé s'il est en bas d'une pile de rôle "pierre/feuille/ciseaux".
 
-Toute unité capturée est retirée définitivement du plateau.
+Un cube ou une pile capture un cube ou une pile adverse par déplacement à condition de respecter l’ordre suivant des rôles : "pierre" capture "ciseaux" ; "ciseaux" capture "feuille" ; "feuille" capture "pierre".
+
+Les règles de déplacement d'une pile et de son sommet rendent possible deux captures par tour de jeu.
 
 ## Copyright
 
