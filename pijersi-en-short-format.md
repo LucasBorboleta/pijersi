@@ -33,7 +33,7 @@ A stack is unbuilt by moving the cube on its top (respecting the movement and ca
 
 ## Moving rules
 
-A cube, alone or at the top of a stack, moves from a single space, either to an empty space or to an occupied space to stack on top of one of your cube (respecting the stacking rules) or to capture an opposing cube or stack (respecting the capturing rules that are explained below). A cube at the bottom of the stack is not movable.
+A cube, alone or at the top of a stack, moves from a single space, either to an empty space or to an occupied space to stack on top of one of your cubes (respecting the stacking rules) or to capture an opposing cube or stack (respecting the capturing rules). A cube at the bottom of the stack is not movable.
 
 A stack moves straight 1 or 2 spaces, without forking or jumping over occupied spaces, either to an empty space or to an occupied space to capture an opposing cube or stack (respecting the capturing rules).
 

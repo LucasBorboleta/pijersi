@@ -19,7 +19,7 @@ Le jeu "[pijersi](https://github.com/LucasBorboleta/pijersi)” est une variante
 Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 15 minutes 
 
 ## Matériel
-Vous (joueur blanc/noir) avez 14 cubes à votre couleur (sur la photo: noir => rouge). Les 6 mêmes faces d'un cube définissent son rôle (exemple : pierre). Vous avez :
+Vous (joueur blanc/noir) avez 14 cubes à votre couleur (sur la photo: rouge remplace noir). Les 6 mêmes faces d'un cube définissent son rôle (exemple : pierre). Vous avez :
 
 - 4 "pierre", 4 "feuille" et 4 "ciseaux" (respectivement, les symboles "cercle/carré/croix").
 - 2 "sage" (le symbole "infini").
@@ -67,4 +67,6 @@ Les règles de déplacement d'une pile et de son sommet rendent possible deux ca
 
 ## Copyright
 
-[![Creative Commons License](./pictures/CC-BY-NC-SA.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) Copyright (C) 2022 Lucas Borboleta. Pijersi, règles d'un jeu pour 2 joueurs, de Lucas Borboleta (https://github.com/LucasBorboleta/pijersi) est mis à disposition selon la licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International ; visitez http://creativecommons.org/licenses/by-nc-sa/4.0/. Les autorisations au-delà du champ de cette licence peuvent être obtenues à [lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr).
+[![Creative Commons License](./pictures/CC-BY-NC-SA.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) Copyright (C) 2022 Lucas Borboleta. Pijersi, règles d'un jeu pour 2 joueurs, de Lucas Borboleta (https://github.com/LucasBorboleta/pijersi) est mis à disposition selon la licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International ; visitez http://creativecommons.org/licenses/by-nc-sa/4.0/. 
+
+Les autorisations au-delà du champ de cette licence peuvent être obtenues à [lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr).
