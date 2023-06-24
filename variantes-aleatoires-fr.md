@@ -27,12 +27,14 @@ Cette variante applique les principes suivants :
   - si X' est égale à X alors un nouveau mélange est nécessaire.
 
 
-Pour un triplet XYZ à gauche, les triplets X'Y'Z' possibles à droite sont au nombre de 4. En effet, les possibilités pour la première rangée sont les suivantes :
+Pour un triplet XYZ à gauche, les triplets X'Y'Z' possibles à droite sont au nombre de 4. En effet, les possibilités de complétion pour la première rangée sont les suivantes :
 
-1. XYZ-XYZ
-2. XYZ-XZY
-3. XYZ-YXZ
-4. XYZ-YXZ
+| Index complétion | Complétion |
+| ---------------- | ---------- |
+| 0                | XYZ-XYZ    |
+| 1                | XYZ-XZY    |
+| 2                | XYZ-YXZ    |
+| 3                | XYZ-YXZ    |
 
 La complétion de la deuxième rangée se fait séparément sur le triplet de gauche et sur le triplet de droite :
 
@@ -60,3 +62,49 @@ Chaque triplet d'une aile aura au plus un cube répété, comme dans RRP.
 Le nombre d'arrangements sur chaque aile correspond aux assignements par paires de 1, 2, 3, 4, 5, 6 vers RR, PP et SS, soit $(6\times 5)/2 \times (4\times 3)/2 = 15\times 6 = 90$. 
 
 Cette variante fournit $8100$ combinaisons, soit $90\times 90$.
+
+## Notation positionnelle
+
+La notation d'une partie de Pijersi avec positions aléatoires nécessite un préambule qui identifie les positions de départ des cubes. La notation positionnelle suivante remplie ce rôle, et pourra même être utilisée pour noter des exercices qui démarre en milieu de partie.
+
+Voici les principes de notation des positions :
+
+- Les positions sont toutes notées avant le premier mouvement.
+- Une même ligne ne peut pas noter une position et un mouvement.
+- Une notation de position indique que la position de départ n'est pas standard. Et réciproquement, l'absence de notation de position indiquer de la position de départ est standard.
+- Les espaces ne sont pas significatifs. 
+- Une même ligne peut noter plusieurs positions.
+- Les positions sont séparées par un caractère "/".
+- Une position commence par un label, tel que "a1" pour une case, ou tel que  "a13" pour les 3 cases "a1", "a2", "a4" d'une même rangée.
+- Le label de position est suivi du caractère ":", puis d'un cube ou d'une pile pour un label simple, tel que "a1", ou d'autant de cubes ou piles que requis par un label multiple tel que "a13".
+- Une pile est notée entre parenthèse en commençant pas son sommet, tel que "(RW)" qui désigne une "pierre" empilée sur un "sage".
+- Les cubes blancs sont notés par des lettres majuscules, à l'anglaise : R (pierre), P(feuille=papier), S(ciseaux), W(sage). Les cubes noirs sont notés par les mêmes lettres, mais en minuscules : r, p, s, w.
+
+Exemples :
+
+-  a1:R  / b4:(RW)/f4:(ww)   / f13:rps
+- a16:RPSRPS / b17:RPS(WW)RPS
+
+## Notation compacte
+
+Voici des identifications compactes pour identifier les configurations. Cela facilite la communication entre joueurs, mais requiert une traduction assistée par logiciel.
+
+Les triplets RPS possibles sont numérotés comme suit :
+
+| Index | Triplet |
+| ----- | ------- |
+| 0     | RPS     |
+| 1     | RSP     |
+| 2     | PRS     |
+| 3     | PSR     |
+| 4     | SRP     |
+| 5     | SPR     |
+
+Une configuration Pijersi-24 est identifiable de façon compacte par un numéro entre 0 et 23 inclus par la formule suivante : $ index_\text{triplet gauche} + (6\times index_{completion})$. Exemple: $17 = 5 + (6\times 2)$ identifie le triplet de gauche SPR et la complétion XYZ-YXZ, soit la première rangée SPR-PSR.
+
+Une configuration Pijersi-36est identifiable de façon compacte par un numéro entre 0 et 35 inclus par la formule suivante : $ index_\text{triplet gauche} + (6\times index_\text{triplet droite})$. Exemple: $25 = 1 + (6\times 4)$ identifie le triplet  de gauche RSP et le triplet de droite SRP, soit la première rangée RSP-SRP.
+
+Une configuration Pijersi-1296 est identifiable de façon compacte par un numéro entre 0 et 1295 inclus par la formule suivante : $ index_\text{triplet 1} + (6\times index_\text{triplet 2}) + (6^2\times index_\text{triplet 3}) + (6^3\times index_\text{triplet 4})$. Exemple: $1203 = 3 + (6\times 2) + (6^2\times 3)+ (6^3\times 5)$ identifie les triplets  $(T_1=PSR, T_2=PRS, T_3=PSR, T_4=SPR )$, soit la première rangée PSR-PRS et la deuxième rangée PSR-WW-SPR.
+
+Une notation compacte pour Pijersi-8100 pourra être conçue. TODO:{numération en base 90 + listage des 90 configurations triées lexicographiquement selon l'ordre $R < P < S$}.
+
