@@ -106,5 +106,5 @@ Une configuration Pijersi-36est identifiable de façon compacte par un numéro e
 
 Une configuration Pijersi-1296 est identifiable de façon compacte par un numéro entre 0 et 1295 inclus par la formule suivante : $ index_\text{triplet 1} + (6\times index_\text{triplet 2}) + (6^2\times index_\text{triplet 3}) + (6^3\times index_\text{triplet 4})$. Exemple: $1203 = 3 + (6\times 2) + (6^2\times 3)+ (6^3\times 5)$ identifie les triplets  $(T_1=PSR, T_2=PRS, T_3=PSR, T_4=SPR )$, soit la première rangée PSR-PRS et la deuxième rangée PSR-WW-SPR.
 
-Une notation compacte pour Pijersi-8100 pourra être conçue. TODO:{numération en base 90 + listage des 90 configurations triées lexicographiquement selon l'ordre $R < P < S$}.
+Une notation compacte pour Pijersi-8100 pourra être conçue. TODO:{numération en base 90 + listage des 90 configurations triées lexicographiquement selon l'ordre $R < P < S$.
 
