@@ -97,7 +97,7 @@ Les triplets RPS possibles sont numérotés comme suit :
 | 4     | SRP     |
 | 5     | SPR     |
 
-Une configuration Pijersi-24 est identifiable de façon compacte par un numéro entre 0 et 23 inclus par la formule suivante : $index_{triplet\ gauche} + ( 6 \times index_{completion} )$. Exemple: $17 = 5 + (6 \times 2) $ identifie le triplet de gauche SPR et la complétion XYZ-YXZ, soit la première rangée SPR-PSR.
+Une configuration Pijersi-24 est identifiable de façon compacte par un numéro entre 0 et 23 inclus par la formule suivante : $index_{triplet\ gauche} + ( 6 \times index_{completion} )$. Exemple: $17 = 5 + (6 \times 2)$ identifie le triplet de gauche SPR et la complétion XYZ-YXZ, soit la première rangée SPR-PSR.
 
 Une configuration Pijersi-36 est identifiable de façon compacte par un numéro entre 0 et 35 inclus par la formule suivante : $index_{triplet\ gauche} + (6 \times index_{triplet\ droite} )$. Exemple: $25 = 1 + (6 \times 4)$ identifie le triplet  de gauche RSP et le triplet de droite SRP, soit la première rangée RSP-SRP.
 
