@@ -47,7 +47,7 @@ En effet, il y a 6 combinaisons XYZ par mélange de RPS pour le triplet de gauch
 Cette variante, qui reprend la variante Pijersi-24, mais en autorisant X'=X, fournit $36$ combinaisons.
 
 ## Pijersi-1296
-Cette variante mélange séparément 4 triplets RPS. Ce qui donne $T_1=(X_1, Y_1, Z_1)$, $T_2=(X_2, Y_2, Z_2)$, $T_3=(X_3, Y_3, Z_3)$, $T_4=(X_4, Y_4, Z_4)$. La première rangée est définie par la séquence $T_1$, $T_2$. La deuxième rangée est définie par la séquence $T_3$, $T_4$.
+Cette variante mélange séparément 4 triplets RPS. Ce qui donne $t_1=(X_1, Y_1, Z_1)$, $t_2=(X_2, Y_2, Z_2)$, $t_3=(X_3, Y_3, Z_3)$, $t_4=(X_4, Y_4, Z_4)$. La première rangée est définie par la séquence $t_1$, $t_2$. La deuxième rangée est définie par la séquence $t_3$, $t_4$.
 
 Cette variante fournit $1296$ combinaisons, soit $6 \times 6 \times 6 \times 6$.
 
@@ -97,11 +97,11 @@ Les triplets RPS possibles sont numérotés comme suit :
 | 4     | SRP     |
 | 5     | SPR     |
 
-Une configuration Pijersi-24 est identifiable de façon compacte par un numéro entre 0 et 23 inclus par la formule suivante : $ index_{triplet.gauche} + (6\times index_{completion})$. Exemple: $17 = 5 + (6\times 2)$ identifie le triplet de gauche SPR et la complétion XYZ-YXZ, soit la première rangée SPR-PSR.
+Une configuration Pijersi-24 est identifiable de façon compacte par un numéro entre 0 et 23 inclus par la formule suivante : $ index_{triplet.gauche} + ( 6 \times index_{completion} ) $$. Exemple: $ $17 = 5 + (6\times 2)$ identifie le triplet de gauche SPR et la complétion XYZ-YXZ, soit la première rangée SPR-PSR.
 
-Une configuration Pijersi-36est identifiable de façon compacte par un numéro entre 0 et 35 inclus par la formule suivante : $ index_{triplet.gauche} + (6\times index_{triplet.droite})$. Exemple: $25 = 1 + (6\times 4)$ identifie le triplet  de gauche RSP et le triplet de droite SRP, soit la première rangée RSP-SRP.
+Une configuration Pijersi-36 est identifiable de façon compacte par un numéro entre 0 et 35 inclus par la formule suivante : $ index_{triplet.gauche} + (6 \times index_{triplet.droite} ) $. Exemple: $25 = 1 + (6\times 4)$ identifie le triplet  de gauche RSP et le triplet de droite SRP, soit la première rangée RSP-SRP.
 
-Une configuration Pijersi-1296 est identifiable de façon compacte par un numéro entre 0 et 1295 inclus par la formule suivante : $ index_{triplet.1} + (6\times index_{triplet.2}) + (6^2\times index_{triplet.3}) + (6^3\times index_{triplet.4})$. Exemple: $1203 = 3 + (6\times 2) + (6^2\times 3)+ (6^3\times 5)$ identifie les triplets  $(t_1=PSR, t_2=PRS, t_3=PSR, t_4=SPR )$, soit la première rangée PSR-PRS et la deuxième rangée PSR-WW-SPR.
+Une configuration Pijersi-1296 est identifiable de façon compacte par un numéro entre 0 et 1295 inclus par la formule suivante : $ index_{triplet.1} + ( 6 \times index_{triplet.2} ) + ( 6^2 \times index_{triplet.3} ) + ( 6^3 \times index_{triplet.4} )$. Exemple: $1203 = 3 + (6 \times 2) + (6^2 \times 3)+ (6^3 \times 5)$ identifie les triplets  $(t_1=PSR, t_2=PRS, t_3=PSR, t_4=SPR )$, soit la première rangée PSR-PRS et la deuxième rangée PSR-WW-SPR.
 
-Une notation compacte pour Pijersi-8100 pourra être conçue. TODO:{numération en base 90 + listage des 90 configurations triées lexicographiquement selon l'ordre $R < P < S$.
+Une notation compacte pour Pijersi-8100 pourra être conçue. TODO: numération en base 90 + listage des 90 configurations triées lexicographiquement selon l'ordre $R < P < S$.
 
