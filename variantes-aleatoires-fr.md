@@ -6,12 +6,12 @@ Ce document explore des variantes de la **mise en place aléatoires des cubes**.
 
 ## Principes généraux
 
-Les principes suivants guident les mélanges aléatoires proposées afin d'assurer une équilibre entre les blancs et le noirs :
+Les principes suivants guident les mélanges aléatoires proposées afin d'assurer une équilibre entre les blancs et les noirs :
 
 - Les sages restent empilés de façon standard, au centre de la seconde rangée de départ.
 - Les cubes blancs sont mélangés selon une procédure donnée, puis les cubes noirs sont placés en respectant une symétrie centrale vis-à-vis des blancs, comme dans la mise en place standard.
 
-Les variantes qui suivent sont nommées d'après le nombre de combinaisons générées. Cependant, le nombre effectif de ces combinaisons devraient être divisé par 6, qui correspond aux nombres de permutations de Rock-Paper-Scissors (RPS). Ainsi, Pijersi-24 fournit $24/6=4$ combinaisons effectives.
+Les variantes qui suivent sont nommées d'après le nombre de combinaisons générées. Cependant, le nombre effectif de ces combinaisons devrait être divisé par 6, qui correspond aux nombres de permutations de Rock-Paper-Scissors (RPS). Ainsi, Pijersi-24 fournit $24/6=4$ combinaisons effectives.
 
 ## Pijersi-24
 
