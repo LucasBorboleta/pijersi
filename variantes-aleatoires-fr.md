@@ -103,5 +103,10 @@ Une configuration Pijersi-36 est identifiable de façon compacte par un numéro 
 
 Une configuration Pijersi-1296 est identifiable de façon compacte par un numéro entre 0 et 1295 inclus par la formule suivante : $index_{triplet\ 1} + ( 6 \times index_{triplet\ 2} ) + ( 6^2 \times index_{triplet\ 3} ) + ( 6^3 \times index_{triplet\ 4} )$. Exemple: $1203 = 3 + (6 \times 2) + (6^2 \times 3)+ (6^3 \times 5)$ identifie les triplets  $(t_1=PSR, t_2=PRS, t_3=PSR, t_4=SPR)$, soit la première rangée PSR-PRS et la deuxième rangée PSR-WW-SPR.
 
-Une notation compacte pour Pijersi-8100 pourra être conçue. TODO: numération en base 90 + listage des 90 configurations triées lexicographiquement selon l'ordre $R < P < S$.
+Une configuration Pijersi-8100 est identifiable de façon compacte par un numéro entre 0 et 8099 inclus par la formule suivante : $index_{aile\ gauche} + (90 \times index_{aile\ droite})$. L'index d'une aile est fournie par la table suivante qui liste toutes les paires de triplets d'une aile, sans répétition, et dans l'ordre lexicographique respectant l'ordre des lettres $R < P < S$ sur les chaînes de caractères $rangée\ 1 + rangée\ 2$ :
 
+| $index_{aile}$ | $triplet_{rangee\ 1}$ | $triplet_{rangee\ 2}$ |
+| -------------- | --------------------- | --------------------- |
+| $...$          | $...$                 | $...$                 |
+| $n$            | RPS                   | SPR                   |
+| $...$          | $...$                 | $...$                 |
