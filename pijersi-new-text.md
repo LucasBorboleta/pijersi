@@ -91,6 +91,7 @@ The stack built during your turn can be immediately moved, and conversely, the s
 This sequence of 2 actions is possible only once during your turn.
 
 <div style="page-break-after: always;"></div>
+
 # Copyright
 
 <img src="./pictures/CC-BY-NC-SA-bis.png" style="zoom:50%;" align="left"/>
