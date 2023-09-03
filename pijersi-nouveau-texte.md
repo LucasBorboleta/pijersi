@@ -1,10 +1,12 @@
 # Pijersi : les règles du jeu
 
+<a href="https://www.youtube.com/@lucasborboleta"><img src="./pictures/Lucas-Borboleta-filigrane.png" style="zoom:40%;" /></a> vidéo-règles https://youtu.be/w41zrhBB5t8 et des vidéos de vraies parties
+
 ![](./pictures/Pijersi-situation.jpg)
 
 # Informations générales
 
-Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 15 minutes 
+Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 15 à 30 minutes 
 
 Type de jeu : traverser pour gagner, empilement et capture
 

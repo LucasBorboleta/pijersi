@@ -1,10 +1,12 @@
 # Pijersi : rules of the game
 
+<a href="https://www.youtube.com/@lucasborboleta"><img src="./pictures/Lucas-Borboleta-filigrane.png" style="zoom:40%;" /></a> video-rules https://youtu.be/w2c6-h2DAus and videos of true games
+
 ![](./pictures/Pijersi-situation.jpg)
 
 # General information
 
-Number of players: 2 / Minimum age: 8 years / Game duration: 15 minutes
+Number of players: 2 / Minimum age: 8 years / Game duration: 15 to 30 minutes
 
 Game kind: cross win condition, stacking and capturing
 
@@ -36,7 +38,7 @@ The wise cubes are stacked in the middle of each front row. The positions of Bla
 
 # Goal of the game
 
-You must bring first, on the opposing back row, a cube or a stack of rock, paper or scissors role.
+You must bring first, on the opposing back row, a cube or a stack of role rock, paper or scissors.
 
 Bringing there a cube or a stack of wise role is allowed, but it does not provide the victory.
 
@@ -72,7 +74,7 @@ The cubes and stacks capture each other, because only their roles matter.
 
 When a stack is attacked, both of its cubes are captured.
 
-A wise cube at the bottom of a stack of role rock, paper or scissors  can be indirectly captured when attacking its stack..
+A wise cube at the bottom of a stack of role rock, paper or scissors  can be indirectly captured when attacking its stack.
 
 # Moving a cube
 
