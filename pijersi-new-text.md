@@ -44,7 +44,7 @@ Bringing there a cube or a stack of wise role is allowed, but it does not provid
 
 Preventing your opponent from playing also gives you the victory.
 
-The game is a drawn after 20 turns without a capture, since the start or the last capture.
+The game is a draw after 20 turns without a capture, since the start or the last capture.
 
 # Overview
 
