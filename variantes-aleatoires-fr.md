@@ -82,6 +82,18 @@ Exemples :
 -  a1:R  / b4:(RW)/f4:(ww)   / f13:rps
 - a16:RPSRPS / b17:RPS(WW)RPS
 
+## Notation des permutations
+
+Dans une variante "mélange aléatoire asymétrique", chaque joueur peut optionnellement permuter deux de ses cubes. 
+
+Cela peut se noter comme le coup n°x (parce que "x" rappel "exchange") :
+- x (a1 b7) (g1 f6)
+
+Si l'option n'est pas prise, par exemple par Blanc, qui passe :
+- x () (g1 f6)
+
+Dans une variante à plusieurs coups de permutations, les coups seraient numérotés "x1", "x2", ...
+
 ## Notation compacte
 
 Voici des identifications compactes pour identifier les configurations. Cela facilite la communication entre joueurs, mais requiert une traduction assistée par logiciel.
