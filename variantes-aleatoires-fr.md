@@ -86,13 +86,27 @@ Exemples :
 
 Dans une variante "mélange aléatoire asymétrique", chaque joueur peut optionnellement permuter deux de ses cubes. 
 
-Cela peut se noter comme le coup n°x (parce que "x" rappel "exchange") :
-- x (a1 b7) (g1 f6)
+La numérotation des coups reste inchangée :
 
-Si l'option n'est pas prise, par exemple par Blanc, qui passe :
-- x () (g1 f6)
+- 0 désigne l'état du plateau résultant de tirages aléatoires.
 
-Dans une variante à plusieurs coups de permutations, les coups seraient numérotés "x1", "x2", ...
+La notation des permutations se note comme suit:
+
+- 1 (a1 b7)      2 (g1 f6)
+
+Si l'option de permutation pas prise, par exemple, si Blanc passe :
+- 1 ()              2 (g1 f6)
+
+Un commentaire  sur une ligne commence par "#" précédé de un ou plusieurs blancs.
+
+Un pseudo-commentaire sur une ligne "commence par "#!" précédé de un ou plusieurs blancs.
+
+Les pseudo-commentaires sont utilisées pour désigner le "setup":
+
+- #! standard
+- #! random
+- #! random/symmetry
+- #! exercise
 
 ## Notation compacte
 
