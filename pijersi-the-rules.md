@@ -22,7 +22,7 @@ The “pijersi” game includes a board of 45 hexagons, 14 white cubes and 14 bl
 
 The six faces of each cube are identical. The possible faces are “rock” <img src="./pictures\png-kit\rock-black.png" width="3%;" /> , “paper” <img src="./pictures\png-kit\paper-black.png" width="3%;" />, “scissors” <img src="./pictures\png-kit\scissors-black.png" width="3%;" /> and “wise” <img src="./pictures\png-kit\wise-black.png" width="3%;" />. Each player has 4 rocks, 4 papers, 4 scissors and 2 wises.
 
-<img src="./pictures/animations/game-tabletopia/state-000-a.png" style="zoom:40%;" />
+<img src="./pictures/animations/game-tabletopia/state-000-a.png" width="60%;" />
 
 ## Set up
 
@@ -31,7 +31,7 @@ The *classic* starting positions of the cubes are shown in the picture above. Th
 To vary the game experience the *full-random* and *half-random* setups can be used; they are explained later.
 
 ## Goal of the game
-<img src="./pictures/animations/game-tabletopia/state-015-a.png" style="zoom:40%;" />
+<img src="./pictures/animations/game-tabletopia/state-015-a.png" width="60%;" />
 
 You must bring first, on the **opponent back row**, a cube or a stack of role rock, paper or scissors. Bringing there a cube or a stack of wise role is allowed, but it does not provide the victory.
 
@@ -57,9 +57,9 @@ The six faces of a cube are identical and determine its role: rock, paper, sciss
 
 The roles define the capture possibilities between pieces (cubes or stacks): the rock role captures the scissors role; the scissors role captures the paper role; the  paper role captures the rock role; the wise role never captures and is never captured.
 
-**rock** <img src="./pictures/png-kit/rock-black.png" width="3%;" /> $\rightarrow$ **scissors** <img src="./pictures/png-kit/scissors-black.png" width="3%;" /> $\rightarrow$ **paper** <img src="./pictures/png-kit/paper-black.png" width="3%;" /> $\rightarrow$ **rock** <img src="./pictures/png-kit/rock-black.png" width="3%;" /> 
+**rock** <img src="./pictures/png-kit/rock-black.png" width="5%;" /> $\rightarrow$ **scissors** <img src="./pictures/png-kit/scissors-black.png" width="5%;" /> $\rightarrow$ **paper** <img src="./pictures/png-kit/paper-black.png" width="5%;" /> $\rightarrow$ **rock** <img src="./pictures/png-kit/rock-black.png" width="5%;" /> 
 
-none $\rightarrow$ **wise** <img src="./pictures/png-kit/wise-black.png" width="3%;" /> $\rightarrow$ none
+none $\rightarrow$ **wise** <img src="./pictures/png-kit/wise-black.png" width="5%;" /> $\rightarrow$ none
 
 Captures are made, without jumping, during movements which are explained later.
 
@@ -67,15 +67,15 @@ Captures are made, without jumping, during movements which are explained later.
 
 A stack is restricted to **two cubes** of the **same color**. Its two cubes have any roles, with **one exception**: no wise above rock, paper or scissors, as showed in the next picture.
 
-<img src="./pictures/allowed-stacks-with-checks.png" style="zoom:50%;" />
+<img src="./pictures/allowed-stacks-with-checks.png" width="60%;" />
 
 The role of a stack is solely determined by the role of the cube at its top. The next picture shows 4 stacks with "paper" role.
 
-<img src="./pictures/paper-stacks.png" style="zoom:50%;" />
+<img src="./pictures/paper-stacks.png" width="40%;" />
 
 The cubes and stacks capture each other, because only their roles matter. When a stack is attacked, both of its cubes are captured. A wise cube at the bottom of a stack of role rock, paper or scissors  can be indirectly captured when attacking its stack. 
 
-<img src="./pictures/animations/captures/all.gif" style="zoom:55%;" />
+<img src="./pictures/animations/captures/all.gif" width="45%;" />
 
 In the above  picture: the a3 "scissors" cube can capture the a2 "paper" cube or the b3 "paper" stack or even the a4 "paper" stack; the a4 "paper" stack can capture the b4 "rock" stack or the c5 "rock" cube; the a5 "wise" cube cannot capture any piece, and no piece can capture it.
 
@@ -83,7 +83,7 @@ In the above  picture: the a3 "scissors" cube can capture the a2 "paper" cube or
 
 A **cube**, alone or at the top of a stack, **moves** by a **single space**, either to an empty space, or to an occupied space to stack over one of your cubes (respecting the stack rules) or to capture an opposing cube or stack (respecting the capture rules). A cube at the bottom of the stack cannot be moved individually.
 
-<img src="./pictures/animations/cube-moves/all.gif" style="zoom:60%;" />
+<img src="./pictures/animations/cube-moves/all.gif" width="40%;" />
 
 In the above  picture: the a2 "scissors" cube can move at a3 or on top of b3; the b4 "paper" can move at b5 or on top of "b3".
 
@@ -91,7 +91,7 @@ In the above  picture: the a2 "scissors" cube can move at a3 or on top of b3; th
 
 A **stack moves 1 or 2 aligned spaces**, without forking or jumping over occupied spaces, either towards an empty space or towards an occupied space to capture an opposing cube or stack (respecting the capture rules).
 
-<img src="./pictures/animations/stack-moves/all.gif" style="zoom:60%;" />
+<img src="./pictures/animations/stack-moves/all.gif" width="50%;" />
 
 In the above  picture: the b4 "scissors" stack can move to either "a3" or "a4" or "b5" or "b6", but not to "a5".
 
@@ -99,7 +99,7 @@ In the above  picture: the b4 "scissors" stack can move to either "a3" or "a4" o
 
 The stack built during your turn can be immediately moved, and conversely, the stack moved during your turn can be immediately deconstructed by moving its top. This sequence of 2 actions is possible only once during your turn.
 
-<img src="./pictures/animations/second-move/all.gif" style="zoom:70%;" />
+<img src="./pictures/animations/second-move/all.gif" width="50%;" />
 
 In the above  picture: in his turn, White can stack the a2 "scissors" cube on a3 and move the a3 stack to a5; in his turn, Black can move the b3 "rock" stack to b5 and move the b5 "rock" cube to a4.
 
@@ -111,19 +111,19 @@ Like in *classic* setup, the starting positions are the two first rows of each s
 
 In the *full-random* setup, the White and Black sides are prepared independently, as in the next picture.
 
-<img src="./pictures/full-random-setup.png" style="zoom:40%;" />
+<img src="./pictures/full-random-setup.png" width="60%;" />
 
 In the *half-random* setup, the White side is prepared first, then the Black side is deduced by central symmetry, as in the next picture.
 
-<img src="./pictures/half-random-setup.png" style="zoom:40%;" />
+<img src="./pictures/half-random-setup.png" width="60%;" />
 
 ## 2D display
 
 The next paired pictures show 2D and 3D equivalent representations you can see about "pijersi". In any 2D picture, **two cubes** inside the **same hexagon** must always be interpreted as a **stack**.
 
-<img src="./pictures/animations/game-certu/state-000-a.png" style="zoom:35%;" /><img src="./pictures/animations/game-tabletopia/state-000-a.png" style="zoom:28.7%;" />
+<img src="./pictures/animations/game-certu/state-000-a.png" width="31%;" /><img src="./pictures/animations/game-tabletopia/state-000-a.png" width="50%;" />
 
-<img src="./pictures/animations/game-certu/state-015-a.png" style="zoom:35%;" /><img src="./pictures/animations/game-tabletopia/state-015-a.png" style="zoom:28.7%;" />
+<img src="./pictures/animations/game-certu/state-015-a.png" width="31%;" /><img src="./pictures/animations/game-tabletopia/state-015-a.png" width="50%;" />
 
 ## Notation
 
@@ -143,7 +143,7 @@ An example of the notation of a match is showed in the next text. Such match is 
   15 d3=f2-g1!
 ```
 
-<img src="./pictures/animations/game-certu/all.gif" style="zoom:60%;" />
+<img src="./pictures/animations/game-certu/all.gif" width="50%;" />
 
 Prologue lines describe the setup, which is assumed *classic* when omitted. The cubes are denoted by letters ("p" for "paper", "r" for "rock", ...) with lowercase for Blacks and uppercase for Whites. A stack is always denoted by a single position in top-bottom order. Single cubes are freely denoted by either single position or range of adjacent positions in the same row.
 
@@ -151,7 +151,7 @@ After the prologue, each turn is numbered and described by one or two moves. The
 
 ## Copyright
 
-<img src="./pictures/CC-BY-NC-SA-bis.png" style="zoom:50%;" align="left"/>
+<img src="./pictures/CC-BY-NC-SA-bis.png" width="20%;" align="left"/>
 
 Copyright (C) 2022 Lucas Borboleta. Pijersi, rules of a strategy game for two players, by Lucas Borboleta (https://github.com/LucasBorboleta/pijersi) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
