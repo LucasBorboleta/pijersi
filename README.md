@@ -16,8 +16,9 @@ Credit for 3D pictures: [Tabetopia](https://tabletopia.com/games/pijersi)
 
  <a href="https://www.youtube.com/@lucasborboleta"><img src="./pictures/Lucas-Borboleta-filigrane.png" width="5%;" /></a> You can learn the rules :
 
-- by reading the [rulebook](./pijersi-the-rules.md) (ou [les règles du jeu](./pijersi-les-regles.md) en français);
-- by watching the [video-rules](https://youtu.be/w2c6-h2DAus) and the [recorded matches](https://www.youtube.com/playlist?list=PLui_B_YF7szPmwLvfPH-0QQpYrAeC9LoT) on the [LucasBorboleta](https://www.youtube.com/@lucasborboleta) YouTube channel;
+- by reading the [rulebook](./pijersi-the-rules.md) (ou les [règles du jeu](./pijersi-les-regles.md) en français);
+- by watching the [video-rules](https://youtu.be/w2c6-h2DAus) (ou les [vidéo-règles](https://youtu.be/w41zrhBB5t8) en français) ;
+- by watching the [recorded matches](https://www.youtube.com/playlist?list=PLui_B_YF7szPmwLvfPH-0QQpYrAeC9LoT) on the [LucasBorboleta](https://www.youtube.com/@lucasborboleta) YouTube channel;
 - by studying a few registered [games](./games) as animated pictures and text notations.
 - by playing against the Windows application [pijersi-certu](https://github.com/LucasBorboleta/pijersi-certu) that shows the possible moves.
 
