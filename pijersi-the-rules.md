@@ -121,9 +121,9 @@ In the *half-random* setup, the White side is prepared first, then the Black sid
 
 The next paired pictures show 2D and 3D equivalent representations you can see about "pijersi". In any 2D picture, **two cubes** inside the **same hexagon** must always be interpreted as a **stack**.
 
-<img src="./pictures/animations/game-certu/state-000-a.png" width="31%;" /><img src="./pictures/animations/game-tabletopia/state-000-a.png" width="50%;" />
+<img src="./pictures/animations/game-certu/state-000-a.png" width="31%;" /> `<==>`<img src="./pictures/animations/game-tabletopia/state-000-a.png" width="50%;" />
 
-<img src="./pictures/animations/game-certu/state-015-a.png" width="31%;" /><img src="./pictures/animations/game-tabletopia/state-015-a.png" width="50%;" />
+<img src="./pictures/animations/game-certu/state-015-a.png" width="31%;" />`<==>`<img src="./pictures/animations/game-tabletopia/state-015-a.png" width="50%;" />
 
 ## Notation
 
