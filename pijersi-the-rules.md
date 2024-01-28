@@ -20,7 +20,7 @@ In the "pijersi" game, two players, White and Black, move their cubes, alone or 
 
 The “pijersi” game includes a board of 45 hexagons, 14 white cubes and 14 black cubes. See the picture below.
 
-The six faces of each cube are identical. The possible faces are “rock” <img src="./pictures\png-kit\rock-black.png" width="3%;" /> , “paper” <img src="./pictures\png-kit\paper-black.png" width="3%;" />, “scissors” <img src="./pictures\png-kit\scissors-black.png" width="3%;" /> and “wise” <img src="./pictures\png-kit\wise-black.png" width="3%;" />. Each player has 4 rocks, 4 papers, 4 scissors and 2 wises.
+The six faces of each cube are identical. The possible faces are “rock” <img src="./pictures\png-kit\rock-white.png" width="3%;" /> , “paper” <img src="./pictures\png-kit\paper-white.png" width="3%;" />, “scissors” <img src="./pictures\png-kit\scissors-white.png" width="3%;" /> and “wise” <img src="./pictures\png-kit\wise-white.png" width="3%;" />. Each player has 4 rocks, 4 papers, 4 scissors and 2 wises.
 
 <img src="./pictures/animations/game-tabletopia/state-000-a.png" width="60%;"/>
 
