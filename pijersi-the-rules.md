@@ -57,9 +57,9 @@ The six faces of a cube are identical and determine its role: rock, paper, sciss
 
 The roles define the capture possibilities between pieces (cubes or stacks): the rock role captures the scissors role; the scissors role captures the paper role; the  paper role captures the rock role; the wise role never captures and is never captured.
 
-**rock** <img src="./pictures/png-kit/rock-black.png" width="5%;" /> $\rightarrow$ **scissors** <img src="./pictures/png-kit/scissors-black.png" width="5%;" /> $\rightarrow$ **paper** <img src="./pictures/png-kit/paper-black.png" width="5%;" /> $\rightarrow$ **rock** <img src="./pictures/png-kit/rock-black.png" width="5%;" /> 
+**rock** <img src="./pictures/png-kit/rock-black.png" width="5%;" /> `==>` **scissors** <img src="./pictures/png-kit/scissors-black.png" width="5%;" /> `==>` **paper** <img src="./pictures/png-kit/paper-black.png" width="5%;" /> `==>` **rock** <img src="./pictures/png-kit/rock-black.png" width="5%;" /> 
 
-none $\rightarrow$ **wise** <img src="./pictures/png-kit/wise-black.png" width="5%;" /> $\rightarrow$ none
+none `==>` **wise** <img src="./pictures/png-kit/wise-black.png" width="5%;" /> `==>` none
 
 Captures are made, without jumping, during movements which are explained later.
 
