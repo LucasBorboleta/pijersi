@@ -63,63 +63,63 @@ rien`==>` **sage** <img src="./pictures/png-kit/wise-white.png" width="3%;" /> `
 
 Les captures se font, sans sauter, lors des mouvements qui  sont expliqués plus loin.
 
-## Stacks and captures
+## Piles et captures
 
-A stack is restricted to **two cubes** of the **same color**. Its two cubes have any roles, with **one exception**: no wise above rock, paper or scissors, as showed in the next picture.
+Une pile est restreinte à **deux cubes** de **même couleur**. Ses deux cubes ont n'importe quels rôles, à **une exception**: pas de "sage" au-dessus de "pierre", "feuille" ou "ciseaux", comme montré sur l'image suivante.
 
 <img src="./pictures/allowed-stacks-with-checks.png" width="60%;" />
 
-The role of a stack is solely determined by the role of the cube at its top. The next picture shows 4 stacks with "paper" role.
+Le rôle d'une pile est uniquement déterminé  par le rôle du cube à son sommet. L'image suivante montre 4 piles de rôle "feuille".
 
 <img src="./pictures/paper-stacks.png" width="40%;" />
 
-The cubes and stacks capture each other, because only their roles matter. When a stack is attacked, both of its cubes are captured. A wise cube at the bottom of a stack of role rock, paper or scissors  can be indirectly captured when attacking its stack. 
+Les cubes et les piles se capturent les uns les autres, parce que seuls leurs rôles comptent. Lorsqu'une pile est attaquée, ses deux cubes sont capturés. Un cube "sage" en bas d'une pile de rôle "pierre", "feuille" ou "ciseaux" peut être indirectement capturé lors de l'attaque de sa pile.
 
 <img src="./pictures/animations/captures/all.gif" width="40%;" />
 
-In the above  picture: the a3 "scissors" cube can capture the a2 "paper" cube or the b3 "paper" stack or even the a4 "paper" stack; the a4 "paper" stack can capture the b4 "rock" stack or the c5 "rock" cube; the a5 "wise" cube cannot capture any piece, and no piece can capture it.
+Dans l'image ci-dessus : le  cube "ciseaux" en a3  peut capturer le cube "feuille" en a2 ou la pile "feuille" en b3 ou encore la pile "feuille" en a4  ; la pile "feuille" en a4 peut capturer la pile "pierre" en b4 ou le cube "pierre" en c5 ; le cube "sage" en a5 ne peut rien capturer, et aucune pièce ne peut le capturer.
 
-## Moving a cube
+## Déplacer un cube
 
-A **cube**, alone or at the top of a stack, **moves** by a **single space**, either to an empty space, or to an occupied space to stack over one of your cubes (respecting the stack rules) or to capture an opposing cube or stack (respecting the capture rules). A cube at the bottom of the stack cannot be moved individually.
+Un **cube**, seul ou au sommet d'une pile, **se déplace** **d'un seul espace**, soit vers un espace vide, soit vers une espace occupé pour s'empiler sur un de vos cubes (en respectant les règles des piles) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture ). Un cube en bas de pile nt peut pas être déplacer individuellement.
 
 <img src="./pictures/animations/cube-moves/all.gif" width="40%;" />
 
-In the above  picture: the a2 "scissors" cube can move at a3 or on top of b3; the b4 "paper" can move at b5 or on top of "b3".
+Dans l'image ci-dessus : le cube "ciseaux" en a2  cube peut se déplacer en a3 ou au sommet de b3 ; la "feuille" en b4 peut se déplacer en b5 ou au sommet de b3.
 
-## Moving a stack
+## Déplacer une pile
 
-A **stack moves 1 or 2 aligned spaces**, without forking or jumping over occupied spaces, either towards an empty space or towards an occupied space to capture an opposing cube or stack (respecting the capture rules).
+Une **pile se déplace de 1 ou 2 espaces alignés**, sans bifurquer ni sauter par dessus des espaces occupés, soit vers un espace vide, soit vers un espace occupé pour capturer un cube ou une pile adverse (en respectant les règles de capture).
 
 <img src="./pictures/animations/stack-moves/all.gif" width="40%;" />
 
-In the above  picture: the b4 "scissors" stack can move to either "a3" or "a4" or "b5" or "b6", but not to "a5".
+Dans l'image ci-dessus : la pile "ciseaux" en b4 peut se déplacer soit en "a3", soit en "a4", soit  en "b5" ou soit en "b6", mais pas en "a5".
 
-## Second move
+## Seconde action
 
-The stack built during your turn can be immediately moved, and conversely, the stack moved during your turn can be immediately deconstructed by moving its top. This sequence of 2 actions is possible only once during your turn.
+La pile construite pendant votre tour peut immédiatement être déplacée, et réciproquement, la pile déplacée pendant votre tour peut immédiatement être déconstruite en déplaçant son sommet. Cette séquence de 2 actions est possible seulement une fois pendant votre tour.
 
 <img src="./pictures/animations/second-move/all.gif" width="40%;" />
 
-In the above  picture: in his turn, White can stack the a2 "scissors" cube on a3 and move the a3 stack to a5; in his turn, Black can move the b3 "rock" stack to b5 and move the b5 "rock" cube to a4.
+Dans l'image ci-dessus : pendant sont tour, Blanc peut empiler le cube "ciseaux" a2 sur a3, puis déplacer la pile a3 en a5 ; pendant sont tour, Noir peut déplacer la pile "pierre" b3 en b5, puis déplacer le cube "pierre" cube b5 en a4.
 
-## Random setups
+## Mises en place aléatoires
 
-To vary the game experience the *full-random* and *half-random* setups can be used.
+Pour varier  l'expérience du jeu les mises en place *bi-aléatoire* et *semi-aléatoire* peuvent être utilisées.
 
-Like in *classic* setup, the starting positions are the two first rows of each side, with two cubes being stacked at the middle of the second row. However, for a random setup, the cubes are randomly selected in some agreed order, and if the generated stack is not allowed, then its two cubes are reversed.
+Comme pour la mise en place *classique*, les positions de départ  sont les deux premières rangées de chaque bord , avec deux cubes empilés au milieu chaque rangée avant. Cependant, pour une mise en place aléatoire, les cubes sont sélectionnés au hasard selon un ordre convenu, et si la pile générée n'est pas autorisée, alors ses deux cubes sont inversés.
 
-In the *full-random* setup, the White and Black sides are prepared independently, as in the next picture.
+Pour la mise en place the *bi-aléatoire*, les côtés Blanc et Noir sont préparés indépendamment, comme dans l'image suivante.
 
 <img src="./pictures/full-random-setup.png" width="60%;" />
 
-In the *half-random* setup, the White side is prepared first, then the Black side is deduced by central symmetry, as in the next picture.
+Pour la mise en place the *semi-aléatoire*, le côté Blanc est préparé d'abord, puis le côté Noir est déduit par symétrie centrale, comme dans l'image suivante.
 
 <img src="./pictures/half-random-setup.png" width="60%;" />
 
-## 2D display
+## Affichage 2D
 
-The next paired pictures show 2D and 3D equivalent representations you can see about "pijersi". In any 2D picture, **two cubes** inside the **same hexagon** must always be interpreted as a **stack**.
+Les paires d'images suivantes montrent des représentations 2D et 3D équivalentes que vous pourrez voir à propos de "pijersi". Dans n'importe quelle image 2D, **deux cubes** à l'intérieur du **même hexagone** doivent toujours s'interpréter comme une **pile**.
 
 <img src="./pictures/animations/game-certu/state-000-a.png" width="31%;" /> `<==>`<img src="./pictures/animations/game-tabletopia/state-000-a.png" width="50%;" />
 
@@ -127,7 +127,7 @@ The next paired pictures show 2D and 3D equivalent representations you can see a
 
 ## Notation
 
-An example of the notation of a match is showed in the next text. Such match is also displayed in the next animated picture. 
+Un exemple de notation d'une partie est montré dans le texte suivant. Cette partie est aussi affichée dans l'image animée suivante.
 
 ```
    g16:sprspr f13:prs f4:ww f57:rsp
@@ -145,15 +145,15 @@ An example of the notation of a match is showed in the next text. Such match is 
 
 <img src="./pictures/animations/game-certu/all.gif" width="50%;" />
 
-Prologue lines describe the setup, which is assumed *classic* when omitted. The cubes are denoted by letters ("p" for "paper", "r" for "rock", ...) with lowercase for Blacks and uppercase for Whites. A stack is always denoted by a single position in top-bottom order. Single cubes are freely denoted by either single position or range of adjacent positions in the same row.
+Les lignes de prologue décrivent la mise en place, qui est supposée *classique* lorsque omises. Les cubes sont représentés par des lettres ("p" pour "paper", "r" pour "rock", ... d'après l'anglais) avec des minuscules pour Noir et des majuscules pour Blanc. Une pile est toujours représentée par une position isolée dans l'ordre sommet-base. Les cubes seuls sont représentés au choix par des positions isolées ou par des intervalles de positions adjacentes d'une même rangée.
 
-After the prologue, each turn is numbered and described by one or two moves. The source and destination positions are joined by "-" if a cube moves and by "=" if a stack moves. The optional "!" comments a capture.
+Après le prologue, chaque tour est numéroté et décrit une ou deux actions. Les positions source et destination sont jointes par "-" si un cube se déplace et par "=" si une pile se déplace. Optionnellement, "!" commente une capture.
 
 ## Copyright
 
 <img src="./pictures/CC-BY-NC-SA-bis.png" width="20%;" align="left"/>
 
-Copyright (C) 2022 Lucas Borboleta. Pijersi, rules of a strategy game for two players, by Lucas Borboleta (https://github.com/LucasBorboleta/pijersi) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+Copyright (C) 2022 Lucas Borboleta. Pijersi, règles d'un jeu pour 2 joueurs, de Lucas Borboleta (https://github.com/LucasBorboleta/pijersi) est mis à disposition selon la licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International ; visitez http://creativecommons.org/licenses/by-nc-sa/4.0/. 
 
-Permissions beyond the scope of this license may be available at [lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr).
+Les autorisations au-delà du champ de cette licence peuvent être obtenues à [lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr).
 
