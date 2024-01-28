@@ -25,7 +25,7 @@ You can learn the rules :
 
 ## Playing Pijersi
 
-<img src="./pictures/animations/game-tabletopia/all.gif" style="zoom:30%;" /><img src="./pictures/animations/game-certu/all.gif" style="zoom:36%;" />
+<img src="./pictures/animations/game-certu/all.gif" style="zoom:50%;" />
 
 You can play for free:
 
@@ -34,7 +34,7 @@ You can play for free:
 
 ## Making Pijersi 
 
-<img src="./pictures/Pijersi-situation.jpg" style="zoom:26.8%;" /><img src="./pictures/pijersi-2023-laser-engravment.jpg" style="zoom:8%;" />
+<img src="./pictures/Pijersi-situation.jpg" style="zoom:26.8%;" />
 
 You can craft your own physical game of Pijersi under the copyright conditions mentioned below. 
 
