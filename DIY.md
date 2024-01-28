@@ -2,7 +2,11 @@
 
 
 ## Drawings
-This [pictures/svg-kit](https://github.com/LucasBorboleta/pijersi/tree/master/pictures/svg-kit) folder provides you with vectorial drawings in SVG format for the cubes and the board (with and without labels). Other files from the [pictures](https://github.com/LucasBorboleta/pijersi/tree/master/pictures) folder might also be convenient.
+You can craft your own physical game of Pijersi under the copyright conditions of the [README](./README.md) document.
+
+For this purpose, some drawings are available to you in the [pictures](./pictures) folder in the following formats: [PNG](./pictures/png-kit), [SVG](./pictures/svg-kit) and [WMF](./pictures/wmf-kit). Also, the original [GeoGebra](./pictures/ggb-kit) files are provided.
+
+Hereafter are a few crafting recommendations.
 
 ## Sizes
 - Recommended cube size : either 2 cm or 1.6 cm.
