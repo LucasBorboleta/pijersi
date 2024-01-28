@@ -1,6 +1,6 @@
 # Pijersi : the rules of the game
 
-<img src="./pictures/animations/game-tabletopia/all.gif" style="zoom:50%;" />
+<img src="./pictures/animations/game-tabletopia/all.gif" width="80%;" />
 
 ## General information
 
@@ -20,7 +20,7 @@ In the "pijersi" game, two players, White and Black, move their cubes, alone or 
 
 The “pijersi” game includes a board of 45 hexagons, 14 white cubes and 14 black cubes. See the picture below.
 
-The six faces of each cube are identical. The possible faces are “rock” <img src="./pictures\png-kit\rock-black.png" style="zoom:2%;" /> , “paper” <img src="./pictures\png-kit\paper-black.png" style="zoom:2%;" />, “scissors” <img src="./pictures\png-kit\scissors-black.png" style="zoom:2%;" /> and “wise” <img src="./pictures\png-kit\wise-black.png" style="zoom:2%;" />. Each player has 4 rocks, 4 papers, 4 scissors and 2 wises.
+The six faces of each cube are identical. The possible faces are “rock” <img src="./pictures\png-kit\rock-black.png" width="3%;" /> , “paper” <img src="./pictures\png-kit\paper-black.png" width="3%;" />, “scissors” <img src="./pictures\png-kit\scissors-black.png" width="3%;" /> and “wise” <img src="./pictures\png-kit\wise-black.png" width="3%;" />. Each player has 4 rocks, 4 papers, 4 scissors and 2 wises.
 
 <img src="./pictures/animations/game-tabletopia/state-000-a.png" style="zoom:40%;" />
 
@@ -39,7 +39,7 @@ Preventing your opponent from playing also gives you the victory.
 
 The game is a draw after 20 turns (10 per player) without a capture, since the start or the last capture.
 
-In the above picture, White wins by reaching his goal at g6 with his "rock" <img src="./pictures/png-kit/rock-white.png" style="zoom:2%;" />.
+In the above picture, White wins by reaching his goal at g6 with his "rock" <img src="./pictures/png-kit/rock-white.png" width="3%;" />.
 
 ## Overview
 
@@ -57,9 +57,9 @@ The six faces of a cube are identical and determine its role: rock, paper, sciss
 
 The roles define the capture possibilities between pieces (cubes or stacks): the rock role captures the scissors role; the scissors role captures the paper role; the  paper role captures the rock role; the wise role never captures and is never captured.
 
-**rock** <img src="./pictures/png-kit/rock-black.png" style="zoom:2%;" /> $\rightarrow$ **scissors** <img src="./pictures/png-kit/scissors-black.png" style="zoom:2%;" /> $\rightarrow$ **paper** <img src="./pictures/png-kit/paper-black.png" style="zoom:2%;" /> $\rightarrow$ **rock** <img src="./pictures/png-kit/rock-black.png" style="zoom:2%;" /> 
+**rock** <img src="./pictures/png-kit/rock-black.png" width="3%;" /> $\rightarrow$ **scissors** <img src="./pictures/png-kit/scissors-black.png" width="3%;" /> $\rightarrow$ **paper** <img src="./pictures/png-kit/paper-black.png" width="3%;" /> $\rightarrow$ **rock** <img src="./pictures/png-kit/rock-black.png" width="3%;" /> 
 
-none $\rightarrow$ **wise** <img src="./pictures/png-kit/wise-black.png" style="zoom:2%;" /> $\rightarrow$ none
+none $\rightarrow$ **wise** <img src="./pictures/png-kit/wise-black.png" width="3%;" /> $\rightarrow$ none
 
 Captures are made, without jumping, during movements which are explained later.
 
