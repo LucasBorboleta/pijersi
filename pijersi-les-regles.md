@@ -1,67 +1,67 @@
-# Pijersi : the rules of the game
+# Pijersi : les règles du jeu
 
 <img src="./pictures/animations/game-tabletopia/all.gif" width="80%;" />
 
-## General information
+## Informations générales
 
-Number of players: 2 / Minimum age: 8 years / Game duration: 15 to 30 minutes
+Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de partie : 15 à 30 minutes 
 
-Game kind: cross win condition, stacking and capturing; abstract game
+Type de jeu : traverser pour gagner, empilement et capture ; jeu abstrait
 
-Author: Lucas Borboleta, © 2022, CC-BY-NC-SA
+Auteur : Lucas Borboleta, © 2022, CC-BY-NC-SA
 
-Credit for 3D pictures: [Tabetopia](https://tabletopia.com/games/pijersi)
+Crédit pour les images 3D : [Tabetopia](https://tabletopia.com/games/pijersi)
 
 ## Introduction
 
-In the "pijersi" game, two players, White and Black, move their cubes, alone or in dynamic stacks, which either capture each other according to the major roles of "**rock**", "**paper**" and "**scissors**", or are blocked by the minor role of "**wise**". The goal is to reach the **opponent back row**, with at least one major cube.
+Dans le jeu "pijersi", deux joueurs, Blanc et Noir, déplacent leurs cubes, seuls ou en piles dynamiques, qui soit s'entre-capturent selon les rôles majeurs de"**pierre**", "**feuille**" et "**ciseaux**", soit sont bloqués par le rôle mineur du "**sage**". Le but est d'atteindre la **ligne arrière adverse**, avec au moins un cube majeur.
 
-## Components
+## Matériel
 
-The “pijersi” game includes a board of 45 hexagons, 14 white cubes and 14 black cubes. See the picture below.
+Le jeu “pijersi” comprend un plateau de 45 hexagones, 14 cubes blancs et 14 cubes noirs. Voir l'image ci-dessous.
 
-The six faces of each cube are identical. The possible faces are “rock” <img src="./pictures\png-kit\rock-white.png" width="3%;" /> , “paper” <img src="./pictures\png-kit\paper-white.png" width="3%;" />, “scissors” <img src="./pictures\png-kit\scissors-white.png" width="3%;" /> and “wise” <img src="./pictures\png-kit\wise-white.png" width="3%;" />. Each player has 4 rocks, 4 papers, 4 scissors and 2 wises.
+Les six faces de chaque cube sont identiques. Les faces possibles sont “pierre” <img src="./pictures\png-kit\rock-white.png" width="3%;" /> , “feuille” <img src="./pictures\png-kit\paper-white.png" width="3%;" />, “ciseaux” <img src="./pictures\png-kit\scissors-white.png" width="3%;" /> et “sage” <img src="./pictures\png-kit\wise-white.png" width="3%;" />. Chaque joueur possède 4 pierres, 4 feuilles, 4 ciseaux et 2 sages.
 
 <img src="./pictures/animations/game-tabletopia/state-000-a.png" width="60%;"/>
 
-## Set up
+## Mise en place
 
-The *classic* starting positions of the cubes are shown in the picture above. The **wise cubes** are **stacked** in the **middle** of each **front row**. The positions of **Black** are **symmetrical** to those of **White** with respect to the **center** of the board; example: scissor cubes in a6 and g1.
+La mise en place *classique* des cubes est indiquée sur l'image ci-dessus. Les **cubes sages** sont **empilés** au **milieu** de chaque **rangée avant**. Les positions de **Noir** sont **symétriques** de celles de **Blanc** par rapport au **centre** du plateau ; exemple : les cubes ciseaux en a6 et g1.
 
-To vary the game experience the *full-random* and *half-random* setups can be used; they are explained later.
+Afin de varier l'expérience du jeu les mises en place *aléatoire complète* et *aléatoire miroir* peuvent être utilisés ; ils sont expliqués plus loin.
 
-## Goal of the game
+## But du jeu
 <img src="./pictures/animations/game-tabletopia/state-015-a.png" width="60%;" />
 
-You must bring first, on the **opponent back row**, a cube or a stack of role "rock", "paper" or "scissors". Bringing there a cube or a stack of "wise" role is allowed, but it does not provide the victory.
+Vous devez amener le premier, sur la **rangée arrière adverse**,  un cube ou une pile de rôle "pierre", "feuille" ou "ciseaux". Y amener un cube ou une pile de rôle "sage" est autorisé, mais de procure pas la victoire.
 
-Preventing your opponent from playing also gives you the victory.
+Empêcher votre adversaire de jouer vous procure également la victoire.
 
-The game is a draw after 20 turns (10 per player) without a capture, since the start or the last capture.
+La partie est nulle après 20 tours (10 par joueur) sans capture, depuis le début ou la dernière capture.
 
-In the above picture, White wins by reaching his goal at g6 with his "rock" <img src="./pictures/png-kit/rock-white.png" width="3%;" />.
+Dans l'image ci-dessus, Blanc gagne en atteignant le but en g6 avec sa "pierre" <img src="C:/Users/leandre/Documents/GitHub/pijersi/pictures/png-kit/rock-white.png" width="3%;" />.
 
-## Overview
+## Vue d'ensemble
 
-White starts the game.
+Blanc démarre la partie.
 
-On **your turn**, you move **one cube** or **one stack** of your color. The stack is more powerful than the cube: it goes further than the cube, and under conditions, it allows a **second move**.
+A **votre tour**, vous déplacez **un cube** ou **une pile** de votre couleur. La  pile est plus puissance que le cube : elle va plus loin que le cube, et sous conditions, elle permet une **seconde action**.
 
-Moving to a space occupied by the opponent allows you, under conditions, to capture his cube or his stack. The captured pieces are permanently removed from the board.
+Se déplacer dans un espace occupé par adversaire vous permet, sous conditions, de capturer son cube ou sa pile. Les pièces capturées sont retirées de façon permanente du plateau.
 
-You make a stack by moving a cube to the top of another cube. You undo a stack by moving the cube from its top. By moving a single cube you can simultaneously undo a stack and make another one.
+Vous construisez une pile en déplaçant un cube au-dessus d'un autre. Vous déconstruisez une pile en déplaçant le cube à son sommet. En déplaçant un seul cube, vous pouvez simultanément déconstruire une pile et en construire une autre.
 
-## Roles and captures
+## Rôles et captures
 
-The six faces of a cube are identical and determine its role: rock, paper, scissors or wise.
+Les six faces d'un cube sont identiques et déterminent son rôle: pierre, feuille, ciseaux ou sage.
 
-The roles define the capture possibilities between pieces (cubes or stacks): the "rock" role captures the "scissors" role; the "scissors" role captures the "paper" role; the  "paper" role captures the "rock" role; the "wise" role never captures and is never captured.
+Les rôles définissent les possibilités de capture entre pièces (cubes ou piles) : le rôle "pierre" capture le rôle "ciseaux" ; le rôle "ciseaux" capture le rôle "papier" ; le rôle "papier" capture  le rôle "pierre" ; le rôle "sage" ne capture rien et rien ne le capture.
 
-**rock** <img src="./pictures/png-kit/rock-white.png" width="3%;" /> `==>` **scissors** <img src="./pictures/png-kit/scissors-white.png" width="3%;" /> `==>` **paper** <img src="./pictures/png-kit/paper-white.png" width="3%;" /> `==>` **rock** <img src="./pictures/png-kit/rock-white.png" width="3%;" /> 
+**pierre** <img src="./pictures/png-kit/rock-white.png" width="3%;" /> `==>` **ciseaux** <img src="./pictures/png-kit/scissors-white.png" width="3%;" /> `==>` **feuille** <img src="./pictures/png-kit/paper-white.png" width="3%;" /> `==>` **pierre** <img src="./pictures/png-kit/rock-white.png" width="3%;" /> 
 
-none `==>` **wise** <img src="./pictures/png-kit/wise-white.png" width="3%;" /> `==>` none
+rien`==>` **sage** <img src="./pictures/png-kit/wise-white.png" width="3%;" /> `==>` rien
 
-Captures are made, without jumping, during movements which are explained later.
+Les captures se font, sans sauter, lors des mouvements qui  sont expliqués plus loin.
 
 ## Stacks and captures
 
