@@ -14,7 +14,7 @@ Crédit pour les images 3D : [Tabetopia](https://tabletopia.com/games/pijersi)
 
 ## Introduction
 
-Dans le jeu "pijersi", deux joueurs, Blanc et Noir, déplacent leurs cubes, seuls ou en piles dynamiques, qui soit s'entre-capturent selon les rôles majeurs de"**pierre**", "**feuille**" et "**ciseaux**", soit sont bloqués par le rôle mineur du "**sage**". Le but est d'atteindre la **ligne arrière adverse**, avec au moins un cube majeur.
+Dans le jeu "pijersi", deux joueurs, Blanc et Noir, déplacent leurs cubes, seuls ou en piles dynamiques, qui soit s'entre-capturent selon les rôles majeurs de "**pierre**", "**feuille**" et "**ciseaux**", soit sont bloqués par le rôle mineur du "**sage**". Le but est d'atteindre la **ligne arrière adverse**, avec au moins un cube majeur.
 
 ## Matériel
 
@@ -28,7 +28,7 @@ Les six faces de chaque cube sont identiques. Les faces possibles sont “pierre
 
 La mise en place *classique* des cubes est indiquée sur l'image ci-dessus. Les **cubes sages** sont **empilés** au **milieu** de chaque **rangée avant**. Les positions de **Noir** sont **symétriques** de celles de **Blanc** par rapport au **centre** du plateau ; exemple : les cubes ciseaux en a6 et g1.
 
-Afin de varier l'expérience du jeu les mises en place *aléatoire complète* et *aléatoire miroir* peuvent être utilisés ; ils sont expliqués plus loin.
+Afin de varier l'expérience du jeu, les mises en place *aléatoire-totale* et *aléatoire-miroir* peuvent être utilisées ; ils sont expliqués plus loin.
 
 ## But du jeu
 <img src="./pictures/animations/game-tabletopia/state-015-a.png" width="60%;" />
@@ -47,13 +47,13 @@ Blanc démarre la partie.
 
 A **votre tour**, vous déplacez **un cube** ou **une pile** de votre couleur. La  pile est plus puissance que le cube : elle va plus loin que le cube, et sous conditions, elle permet une **seconde action**.
 
-Se déplacer dans un espace occupé par adversaire vous permet, sous conditions, de capturer son cube ou sa pile. Les pièces capturées sont retirées de façon permanente du plateau.
+Se déplacer dans un espace occupé par l'adversaire vous permet, sous conditions, de capturer son cube ou sa pile. Les pièces capturées sont définitivement retirées du plateau.
 
-Vous construisez une pile en déplaçant un cube au-dessus d'un autre. Vous déconstruisez une pile en déplaçant le cube à son sommet. En déplaçant un seul cube, vous pouvez simultanément déconstruire une pile et en construire une autre.
+Vous construisez une pile en déplaçant un cube au-dessus d'un autre. Vous déconstruisez une pile en déplaçant le cube de son sommet. En déplaçant un seul cube, vous pouvez simultanément déconstruire une pile et en construire une autre.
 
 ## Rôles et captures
 
-Les six faces d'un cube sont identiques et déterminent son rôle: pierre, feuille, ciseaux ou sage.
+Les six faces d'un cube sont identiques et déterminent son rôle : pierre, feuille, ciseaux ou sage.
 
 Les rôles définissent les possibilités de capture entre pièces (cubes ou piles) : le rôle "pierre" capture le rôle "ciseaux" ; le rôle "ciseaux" capture le rôle "papier" ; le rôle "papier" capture  le rôle "pierre" ; le rôle "sage" ne capture rien et rien ne le capture.
 
@@ -65,7 +65,7 @@ Les captures se font, sans sauter, lors des mouvements qui  sont expliqués plus
 
 ## Piles et captures
 
-Une pile est restreinte à **deux cubes** de **même couleur**. Ses deux cubes ont n'importe quels rôles, à **une exception**: pas de "sage" au-dessus de "pierre", "feuille" ou "ciseaux", comme montré sur l'image suivante.
+Une pile est restreinte à **deux cubes** de **même couleur**. Ses deux cubes ont n'importe quels rôles, à **une exception** : pas de "sage" au-dessus de "pierre", "feuille" ou "ciseaux", comme montré sur l'image suivante.
 
 <img src="./pictures/allowed-stacks-with-checks.png" width="60%;" />
 
@@ -81,11 +81,11 @@ Dans l'image ci-dessus : le  cube "ciseaux" en a3  peut capturer le cube "feuill
 
 ## Déplacer un cube
 
-Un **cube**, seul ou au sommet d'une pile, **se déplace** **d'un seul espace**, soit vers un espace vide, soit vers une espace occupé pour s'empiler sur un de vos cubes (en respectant les règles des piles) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture ). Un cube en bas de pile nt peut pas être déplacer individuellement.
+Un **cube**, seul ou au sommet d'une pile, **se déplace** **d'un seul espace**, soit vers un espace vide, soit vers une espace occupé pour s'empiler sur un de vos cubes (en respectant les règles des piles) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture ). Un cube en bas de pile nt peut pas être déplacé individuellement.
 
 <img src="./pictures/animations/cube-moves/all.gif" width="40%;" />
 
-Dans l'image ci-dessus : le cube "ciseaux" en a2  cube peut se déplacer en a3 ou au sommet de b3 ; la "feuille" en b4 peut se déplacer en b5 ou au sommet de b3.
+Dans l'image ci-dessus : le cube "ciseaux" en a2 peut se déplacer en a3 ou au sommet de b3 ; la "feuille" en b4 peut se déplacer en b5 ou au sommet de b3.
 
 ## Déplacer une pile
 
@@ -93,7 +93,7 @@ Une **pile se déplace de 1 ou 2 espaces alignés**, sans bifurquer ni sauter pa
 
 <img src="./pictures/animations/stack-moves/all.gif" width="40%;" />
 
-Dans l'image ci-dessus : la pile "ciseaux" en b4 peut se déplacer soit en "a3", soit en "a4", soit  en "b5" ou soit en "b6", mais pas en "a5".
+Dans l'image ci-dessus : la pile "ciseaux" en b4 peut se déplacer soit en a3" soit en a4, soit  en b5 ou soit en b6, mais pas en a5.
 
 ## Seconde action
 
@@ -101,19 +101,19 @@ La pile construite pendant votre tour peut immédiatement être déplacée, et r
 
 <img src="./pictures/animations/second-move/all.gif" width="40%;" />
 
-Dans l'image ci-dessus : pendant sont tour, Blanc peut empiler le cube "ciseaux" a2 sur a3, puis déplacer la pile a3 en a5 ; pendant sont tour, Noir peut déplacer la pile "pierre" b3 en b5, puis déplacer le cube "pierre" cube b5 en a4.
+Dans l'image ci-dessus : pendant sont tour, Blanc peut empiler le cube "ciseaux" a2 sur a3, puis déplacer la pile a3 en a5 ; pendant son tour, Noir peut déplacer la pile "pierre" b3 en b5, puis déplacer le cube "pierre" cube b5 en a4.
 
 ## Mises en place aléatoires
 
-Pour varier  l'expérience du jeu les mises en place *bi-aléatoire* et *semi-aléatoire* peuvent être utilisées.
+Pour varier  l'expérience du jeu les mises en place *aléatoire-totale* et *aléatoire-miroir* peuvent être utilisées.
 
 Comme pour la mise en place *classique*, les positions de départ  sont les deux premières rangées de chaque bord , avec deux cubes empilés au milieu chaque rangée avant. Cependant, pour une mise en place aléatoire, les cubes sont sélectionnés au hasard selon un ordre convenu, et si la pile générée n'est pas autorisée, alors ses deux cubes sont inversés.
 
-Pour la mise en place the *bi-aléatoire*, les côtés Blanc et Noir sont préparés indépendamment, comme dans l'image suivante.
+Pour la mise en place the *aléatoire-totale*, les côtés Blanc et Noir sont préparés indépendamment, comme dans l'image suivante.
 
 <img src="./pictures/full-random-setup.png" width="60%;" />
 
-Pour la mise en place the *semi-aléatoire*, le côté Blanc est préparé d'abord, puis le côté Noir est déduit par symétrie centrale, comme dans l'image suivante.
+Pour la mise en place the *aléatoire-miroir*, le côté Blanc est préparé d'abord, puis le côté Noir est déduit par symétrie centrale, comme dans l'image suivante.
 
 <img src="./pictures/half-random-setup.png" width="60%;" />
 
@@ -145,7 +145,7 @@ Un exemple de notation d'une partie est montré dans le texte suivant. Cette par
 
 <img src="./pictures/animations/game-certu/all.gif" width="50%;" />
 
-Les lignes de prologue décrivent la mise en place, qui est supposée *classique* lorsque omises. Les cubes sont représentés par des lettres ("p" pour "paper", "r" pour "rock", ... d'après l'anglais) avec des minuscules pour Noir et des majuscules pour Blanc. Une pile est toujours représentée par une position isolée dans l'ordre sommet-base. Les cubes seuls sont représentés au choix par des positions isolées ou par des intervalles de positions adjacentes d'une même rangée.
+Les lignes de prologue décrivent la mise en place, qui est supposée *classique* lorsque omise. Les cubes sont représentés par des lettres ("p" pour "paper", "r" pour "rock", ... d'après l'anglais) avec des minuscules pour Noir et des majuscules pour Blanc. Une pile est toujours représentée par une position isolée dans l'ordre sommet-base. Les cubes seuls sont représentés au choix par des positions isolées ou par des intervalles de positions adjacentes d'une même rangée.
 
 Après le prologue, chaque tour est numéroté et décrit une ou deux actions. Les positions source et destination sont jointes par "-" si un cube se déplace et par "=" si une pile se déplace. Optionnellement, "!" commente une capture.
 

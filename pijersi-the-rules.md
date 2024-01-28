@@ -28,7 +28,7 @@ The six faces of each cube are identical. The possible faces are “rock” <img
 
 The *classic* starting positions of the cubes are shown in the picture above. The **wise cubes** are **stacked** in the **middle** of each **front row**. The positions of **Black** are **symmetrical** to those of **White** with respect to the **center** of the board; example: scissor cubes in a6 and g1.
 
-To vary the game experience the *full-random* and *half-random* setups can be used; they are explained later.
+To vary the game experience, the *full-random* and *half-random* setups can be used; they are explained later.
 
 ## Goal of the game
 <img src="./pictures/animations/game-tabletopia/state-015-a.png" width="60%;" />
