@@ -1,6 +1,6 @@
 # Pijersi : learning, playing and making
 
-<img src="./pictures/animations/game-tabletopia/all.gif" style="zoom:40%;" />
+<img src="./pictures/animations/game-tabletopia/all.gif" width="80%;" />
 
 In the "pijersi" game, two players, White and Black, move their cubes, alone or in dynamic stacks, which either capture each other according to the major roles of "**rock**", "**paper**" and "**scissors**", or are blocked by the minor role of "**wise**". The goal is to reach the **opponent back row**, with at least one major cube.
 
@@ -17,13 +17,13 @@ Credit for 3D pictures: [Tabetopia](https://tabletopia.com/games/pijersi)
 You can learn the rules :
 
 - by reading the [rulebook](./pijersi-the-rules.md);
-- by watching the [video-rules](https://youtu.be/w2c6-h2DAus) and the [recorded matches](https://www.youtube.com/playlist?list=PLui_B_YF7szPmwLvfPH-0QQpYrAeC9LoT) on the [LucasBorboleta](https://www.youtube.com/@lucasborboleta) YouTube channel ;
+- by watching the [video-rules](https://youtu.be/w2c6-h2DAus) and the [recorded matches](https://www.youtube.com/playlist?list=PLui_B_YF7szPmwLvfPH-0QQpYrAeC9LoT) on the [LucasBorboleta](https://www.youtube.com/@lucasborboleta) YouTube channel <a href="https://www.youtube.com/@lucasborboleta"><img src="./pictures/Lucas-Borboleta-filigrane.png" width="5%;" /></a> ;
 - by studying a few registered [games](./games) as animated pictures and text notations.
 - by playing against the Windows application [pijersi-certu](https://github.com/LucasBorboleta/pijersi-certu) that shows the possible moves.
 
 ## Playing Pijersi
 
-<img src="./pictures/animations/game-certu/all.gif" style="zoom:50%;" />
+<img src="./pictures/animations/game-certu/all.gif" width="80%;" />
 
 You can play for free:
 
@@ -32,7 +32,7 @@ You can play for free:
 
 ## Making Pijersi 
 
-<img src="./pictures/Pijersi-situation.jpg" style="zoom:26.8%;" />
+<img src="./pictures/Pijersi-situation.jpg" width="80%;" />
 
 You can craft your own physical game of Pijersi under the copyright conditions mentioned below. 
 
