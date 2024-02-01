@@ -33,7 +33,7 @@ Afin de varier l'expérience du jeu, les mises en place *aléatoire-totale* et *
 ## But du jeu
 <img src="./pictures/animations/game-tabletopia/state-015-a.png" width="60%;" />
 
-Vous devez amener le premier, sur la **rangée arrière adverse**,  un cube ou une pile de rôle "pierre", "feuille" ou "ciseaux". Y amener un cube ou une pile de rôle "sage" est autorisé, mais de procure pas la victoire.
+Vous devez amener le premier, sur la **rangée arrière adverse**, un cube ou une pile de rôle "pierre", "feuille" ou "ciseaux". Y amener un cube ou une pile de rôle "sage" est autorisé, mais de procure pas la victoire.
 
 Empêcher votre adversaire de jouer vous procure également la victoire.
 
@@ -45,7 +45,7 @@ Dans l'image ci-dessus, Blanc gagne en atteignant le but en g6 avec sa "pierre" 
 
 Blanc démarre la partie.
 
-A **votre tour**, vous déplacez **un cube** ou **une pile** de votre couleur. La  pile est plus puissance que le cube : elle va plus loin que le cube, et sous conditions, elle permet une **seconde action**.
+A **votre tour**, vous déplacez **un cube** ou **une pile** de votre couleur. La pile est plus puissance que le cube : elle va plus loin que le cube, et sous conditions, elle permet une **seconde action**.
 
 Se déplacer dans un espace occupé par l'adversaire vous permet, sous conditions, de capturer son cube ou sa pile. Les pièces capturées sont définitivement retirées du plateau.
 
@@ -55,13 +55,13 @@ Vous construisez une pile en déplaçant un cube au-dessus d'un autre. Vous déc
 
 Les six faces d'un cube sont identiques et déterminent son rôle : pierre, feuille, ciseaux ou sage.
 
-Les rôles définissent les possibilités de capture entre pièces (cubes ou piles) : le rôle "pierre" capture le rôle "ciseaux" ; le rôle "ciseaux" capture le rôle "papier" ; le rôle "papier" capture  le rôle "pierre" ; le rôle "sage" ne capture rien et rien ne le capture.
+Les rôles définissent les possibilités de capture entre pièces (cubes ou piles) : le rôle "pierre" capture le rôle "ciseaux" ; le rôle "ciseaux" capture le rôle "papier" ; le rôle "papier" capture le rôle "pierre" ; le rôle "sage" ne capture rien et rien ne le capture.
 
 **pierre** <img src="./pictures/png-kit/rock-white.png" width="3%;" /> `==>` **ciseaux** <img src="./pictures/png-kit/scissors-white.png" width="3%;" /> `==>` **feuille** <img src="./pictures/png-kit/paper-white.png" width="3%;" /> `==>` **pierre** <img src="./pictures/png-kit/rock-white.png" width="3%;" /> 
 
 rien`==>` **sage** <img src="./pictures/png-kit/wise-white.png" width="3%;" /> `==>` rien
 
-Les captures se font, sans sauter, lors des mouvements qui  sont expliqués plus loin.
+Les captures se font, sans sauter, lors des mouvements qui sont expliqués plus loin.
 
 ## Piles et captures
 
@@ -69,7 +69,7 @@ Une pile est restreinte à **deux cubes** de **même couleur**. Ses deux cubes o
 
 <img src="./pictures/allowed-stacks-with-checks.png" width="60%;" />
 
-Le rôle d'une pile est uniquement déterminé  par le rôle du cube à son sommet. L'image suivante montre 4 piles de rôle "feuille".
+Le rôle d'une pile est uniquement déterminé par le rôle du cube à son sommet. L'image suivante montre 4 piles de rôle "feuille".
 
 <img src="./pictures/paper-stacks.png" width="40%;" />
 
@@ -77,7 +77,7 @@ Les cubes et les piles se capturent les uns les autres, parce que seuls leurs r�
 
 <img src="./pictures/animations/captures/all.gif" width="40%;" />
 
-Dans l'image ci-dessus : le  cube "ciseaux" en a3  peut capturer le cube "feuille" en a2 ou la pile "feuille" en b3 ou encore la pile "feuille" en a4  ; la pile "feuille" en a4 peut capturer la pile "pierre" en b4 ou le cube "pierre" en c5 ; le cube "sage" en a5 ne peut rien capturer, et aucune pièce ne peut le capturer.
+Dans l'image ci-dessus : le cube "ciseaux" en a3 peut capturer le cube "feuille" en a2 ou la pile "feuille" en b3 ou encore la pile "feuille" en a4 ; la pile "feuille" en a4 peut capturer la pile "pierre" en b4 ou le cube "pierre" en c5 ; le cube "sage" en a5 ne peut rien capturer, et aucune pièce ne peut le capturer.
 
 ## Déplacer un cube
 
@@ -93,7 +93,7 @@ Une **pile se déplace de 1 ou 2 espaces alignés**, sans bifurquer ni sauter pa
 
 <img src="./pictures/animations/stack-moves/all.gif" width="40%;" />
 
-Dans l'image ci-dessus : la pile "ciseaux" en b4 peut se déplacer soit en a3, soit en a4, soit  en b5 ou soit en b6, mais pas en a5.
+Dans l'image ci-dessus : la pile "ciseaux" en b4 peut se déplacer soit en a3, soit en a4, soit en b5 ou soit en b6, mais pas en a5.
 
 ## Seconde action
 

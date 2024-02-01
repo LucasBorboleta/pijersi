@@ -55,7 +55,7 @@ You make a stack by moving a cube to the top of another cube. You undo a stack b
 
 The six faces of a cube are identical and determine its role: rock, paper, scissors or wise.
 
-The roles define the capture possibilities between pieces (cubes or stacks): the "rock" role captures the "scissors" role; the "scissors" role captures the "paper" role; the  "paper" role captures the "rock" role; the "wise" role never captures and is never captured.
+The roles define the capture possibilities between pieces (cubes or stacks): the "rock" role captures the "scissors" role; the "scissors" role captures the "paper" role; the "paper" role captures the "rock" role; the "wise" role never captures and is never captured.
 
 **rock** <img src="./pictures/png-kit/rock-white.png" width="3%;" /> `==>` **scissors** <img src="./pictures/png-kit/scissors-white.png" width="3%;" /> `==>` **paper** <img src="./pictures/png-kit/paper-white.png" width="3%;" /> `==>` **rock** <img src="./pictures/png-kit/rock-white.png" width="3%;" /> 
 
@@ -73,11 +73,11 @@ The role of a stack is solely determined by the role of the cube at its top. The
 
 <img src="./pictures/paper-stacks.png" width="40%;" />
 
-The cubes and stacks capture each other, because only their roles matter. When a stack is attacked, both of its cubes are captured. A "wise" cube at the bottom of a stack of role "rock", "paper" or "scissors"  can be indirectly captured when attacking its stack. 
+The cubes and stacks capture each other, because only their roles matter. When a stack is attacked, both of its cubes are captured. A "wise" cube at the bottom of a stack of role "rock", "paper" or "scissors" can be indirectly captured when attacking its stack. 
 
 <img src="./pictures/animations/captures/all.gif" width="40%;" />
 
-In the above  picture: the a3 "scissors" cube can capture the a2 "paper" cube or the b3 "paper" stack or even the a4 "paper" stack; the a4 "paper" stack can capture the b4 "rock" stack or the c5 "rock" cube; the a5 "wise" cube cannot capture any piece, and no piece can capture it.
+In the above picture: the a3 "scissors" cube can capture the a2 "paper" cube or the b3 "paper" stack or even the a4 "paper" stack; the a4 "paper" stack can capture the b4 "rock" stack or the c5 "rock" cube; the a5 "wise" cube cannot capture any piece, and no piece can capture it.
 
 ## Moving a cube
 
@@ -85,7 +85,7 @@ A **cube**, alone or at the top of a stack, **moves** by a **single space**, eit
 
 <img src="./pictures/animations/cube-moves/all.gif" width="40%;" />
 
-In the above  picture: the a2 "scissors" cube can move at a3 or on top of b3; the b4 "paper" can move at b5 or on top of b3.
+In the above picture: the a2 "scissors" cube can move at a3 or on top of b3; the b4 "paper" can move at b5 or on top of b3.
 
 ## Moving a stack
 
@@ -93,7 +93,7 @@ A **stack moves 1 or 2 aligned spaces**, without forking or jumping over occupie
 
 <img src="./pictures/animations/stack-moves/all.gif" width="40%;" />
 
-In the above  picture: the b4 "scissors" stack can move to either a3 or a4 or b5 or b6, but not to a5.
+In the above picture: the b4 "scissors" stack can move to either a3 or a4 or b5 or b6, but not to a5.
 
 ## Second move
 
@@ -101,7 +101,7 @@ The stack built during your turn can be immediately moved, and conversely, the s
 
 <img src="./pictures/animations/second-move/all.gif" width="40%;" />
 
-In the above  picture: in his turn, White can stack the a2 "scissors" cube on a3 and move the a3 stack to a5; in his turn, Black can move the b3 "rock" stack to b5 and move the b5 "rock" cube to a4.
+In the above picture: in his turn, White can stack the a2 "scissors" cube on a3 and move the a3 stack to a5; in his turn, Black can move the b3 "rock" stack to b5 and move the b5 "rock" cube to a4.
 
 ## Random setups
 
