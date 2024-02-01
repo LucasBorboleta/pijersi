@@ -81,7 +81,7 @@ Dans l'image ci-dessus : le  cube "ciseaux" en a3  peut capturer le cube "feuill
 
 ## Déplacer un cube
 
-Un **cube**, seul ou au sommet d'une pile, **se déplace** **d'un seul espace**, soit vers un espace vide, soit vers une espace occupé pour s'empiler sur un de vos cubes (en respectant les règles des piles) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture ). Un cube en bas de pile nt peut pas être déplacé individuellement.
+Un **cube**, seul ou au sommet d'une pile, **se déplace** **d'un seul espace**, soit vers un espace vide, soit vers un espace occupé pour s'empiler sur un de vos cubes (en respectant les règles des piles) ou pour capturer un cube ou une pile adverse (en respectant les règles de capture ). Un cube en bas de pile ne peut pas être déplacé individuellement.
 
 <img src="./pictures/animations/cube-moves/all.gif" width="40%;" />
 
@@ -89,11 +89,11 @@ Dans l'image ci-dessus : le cube "ciseaux" en a2 peut se déplacer en a3 ou au s
 
 ## Déplacer une pile
 
-Une **pile se déplace de 1 ou 2 espaces alignés**, sans bifurquer ni sauter par dessus des espaces occupés, soit vers un espace vide, soit vers un espace occupé pour capturer un cube ou une pile adverse (en respectant les règles de capture).
+Une **pile se déplace de 1 ou 2 espaces alignés**, sans bifurquer ni sauter par-dessus des espaces occupés, soit vers un espace vide, soit vers un espace occupé pour capturer un cube ou une pile adverse (en respectant les règles de capture).
 
 <img src="./pictures/animations/stack-moves/all.gif" width="40%;" />
 
-Dans l'image ci-dessus : la pile "ciseaux" en b4 peut se déplacer soit en a3" soit en a4, soit  en b5 ou soit en b6, mais pas en a5.
+Dans l'image ci-dessus : la pile "ciseaux" en b4 peut se déplacer soit en a3, soit en a4, soit  en b5 ou soit en b6, mais pas en a5.
 
 ## Seconde action
 
@@ -101,13 +101,13 @@ La pile construite pendant votre tour peut immédiatement être déplacée, et r
 
 <img src="./pictures/animations/second-move/all.gif" width="40%;" />
 
-Dans l'image ci-dessus : pendant sont tour, Blanc peut empiler le cube "ciseaux" a2 sur a3, puis déplacer la pile a3 en a5 ; pendant son tour, Noir peut déplacer la pile "pierre" b3 en b5, puis déplacer le cube "pierre" cube b5 en a4.
+Dans l'image ci-dessus : pendant son tour, Blanc peut empiler le cube "ciseaux" a2 sur a3, puis déplacer la pile a3 en a5 ; pendant son tour, Noir peut déplacer la pile "pierre" b3 en b5, puis déplacer le cube "pierre" cube b5 en a4.
 
 ## Mises en place aléatoires
 
-Pour varier  l'expérience du jeu les mises en place *aléatoire-totale* et *aléatoire-miroir* peuvent être utilisées.
+Pour varier l'expérience du jeu les mises en place *aléatoire-totale* et *aléatoire-miroir* peuvent être utilisées.
 
-Comme pour la mise en place *classique*, les positions de départ  sont les deux premières rangées de chaque bord , avec deux cubes empilés au milieu chaque rangée avant. Cependant, pour une mise en place aléatoire, les cubes sont sélectionnés au hasard selon un ordre convenu, et si la pile générée n'est pas autorisée, alors ses deux cubes sont inversés.
+Comme pour la mise en place *classique*, les positions de départ sont les deux premières rangées de chaque bord , avec deux cubes empilés au milieu chaque rangée avant. Cependant, pour une mise en place aléatoire, les cubes sont sélectionnés au hasard selon un ordre convenu, et si la pile générée n'est pas autorisée, alors ses deux cubes sont inversés.
 
 Pour la mise en place the *aléatoire-totale*, les côtés Blanc et Noir sont préparés indépendamment, comme dans l'image suivante.
 

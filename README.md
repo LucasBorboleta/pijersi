@@ -17,7 +17,7 @@ Credit for 3D pictures: [Tabetopia](https://tabletopia.com/games/pijersi)
  <a href="https://www.youtube.com/@lucasborboleta"><img src="./pictures/Lucas-Borboleta-filigrane.png" width="5%;" /></a> You can learn the rules :
 
 - by reading the [rulebook](./pijersi-the-rules.md) with animated pictures (ou les [règles du jeu](./pijersi-les-regles.md) en français);
-- by reading the [paper version](./pijersi-the-rules-a4.pdf);
+- by reading the [paper version](./pijersi-the-rules-a4.pdf) (ou la [version papier](./pijersi-les-regles-a4.pdf) en français);
 - by watching the [video-rules](https://youtu.be/w2c6-h2DAus) (ou les [vidéo-règles](https://youtu.be/w41zrhBB5t8) en français) ;
 - by watching the [recorded matches](https://www.youtube.com/playlist?list=PLui_B_YF7szPmwLvfPH-0QQpYrAeC9LoT) on the [LucasBorboleta](https://www.youtube.com/@lucasborboleta) YouTube channel;
 - by studying a few registered [games](./games) as animated pictures and text notations.
