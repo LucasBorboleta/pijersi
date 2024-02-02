@@ -109,11 +109,11 @@ Pour varier l'expérience du jeu les mises en place *aléatoire-totale* et *alé
 
 Comme pour la mise en place *classique*, les positions de départ sont les deux premières rangées de chaque bord , avec deux cubes empilés au milieu chaque rangée avant. Cependant, pour une mise en place aléatoire, les cubes sont sélectionnés au hasard selon un ordre convenu, et si la pile générée n'est pas autorisée, alors ses deux cubes sont inversés.
 
-Pour la mise en place the *aléatoire-totale*, les côtés Blanc et Noir sont préparés indépendamment, comme dans l'image suivante.
+Pour la mise en place *aléatoire-totale*, les côtés Blanc et Noir sont préparés indépendamment, comme dans l'image suivante.
 
 <img src="./pictures/full-random-setup.png" width="60%;" />
 
-Pour la mise en place the *aléatoire-miroir*, le côté Blanc est préparé d'abord, puis le côté Noir est déduit par symétrie centrale, comme dans l'image suivante.
+Pour la mise en place *aléatoire-miroir*, le côté Blanc est préparé d'abord, puis le côté Noir est déduit par symétrie centrale, comme dans l'image suivante.
 
 <img src="./pictures/half-random-setup.png" width="60%;" />
 
@@ -145,7 +145,7 @@ Un exemple de notation d'une partie est montré dans le texte suivant. Cette par
 
 <img src="./pictures/animations/game-certu/all.gif" width="50%;" />
 
-Les lignes de prologue décrivent la mise en place, qui est supposée *classique* lorsque omise. Les cubes sont représentés par des lettres ("p" pour "paper", "r" pour "rock", ... d'après l'anglais) avec des minuscules pour Noir et des majuscules pour Blanc. Une pile est toujours représentée par une position isolée dans l'ordre sommet-base. Les cubes seuls sont représentés au choix par des positions isolées ou par des intervalles de positions adjacentes d'une même rangée.
+Les lignes de prologue décrivent la mise en place, qui est supposée *classique* lorsque omise. Les cubes sont représentés par des lettres (« p » pour « paper » = « feuille », « r » pour « rock » = « pierre », « s » pour « scissors » = « ciseaux, « w » pour « wise » = « sage » d'après l'anglais) avec des minuscules pour Noir et des majuscules pour Blanc. Une pile est toujours représentée par une position isolée dans l'ordre sommet-base. Les cubes seuls sont représentés au choix par des positions isolées ou par des intervalles de positions adjacentes d'une même rangée.
 
 Après le prologue, chaque tour est numéroté et décrit une ou deux actions. Les positions source et destination sont jointes par "-" si un cube se déplace et par "=" si une pile se déplace. Optionnellement, "!" commente une capture.
 
