@@ -145,7 +145,7 @@ Un exemple de notation d'une partie est montré dans le texte suivant. Cette par
 
 <img src="./pictures/animations/game-certu/all.gif" width="50%;" />
 
-Les lignes de prologue décrivent la mise en place, qui est supposée *classique* lorsque omise. Les cubes sont représentés par des lettres (« p » pour « paper » = « feuille », « r » pour « rock » = « pierre », « s » pour « scissors » = « ciseaux, « w » pour « wise » = « sage » d'après l'anglais) avec des minuscules pour Noir et des majuscules pour Blanc. Une pile est toujours représentée par une position isolée dans l'ordre sommet-base. Les cubes seuls sont représentés au choix par des positions isolées ou par des intervalles de positions adjacentes d'une même rangée.
+Les lignes de prologue décrivent la mise en place, qui est supposée *classique* lorsque omise. Les cubes sont représentés par des lettres ("p" pour "paper" = "feuille", "r" pour "rock" = "pierre", "s" pour "scissors" = "ciseaux", "w" pour "wise" = "sage" d'après l'anglais) avec des minuscules pour Noir et des majuscules pour Blanc. Une pile est toujours représentée par une position isolée dans l'ordre sommet-base. Les cubes seuls sont représentés au choix par des positions isolées ou par des intervalles de positions adjacentes d'une même rangée.
 
 Après le prologue, chaque tour est numéroté et décrit une ou deux actions. Les positions source et destination sont jointes par "-" si un cube se déplace et par "=" si une pile se déplace. Optionnellement, "!" commente une capture.
 
