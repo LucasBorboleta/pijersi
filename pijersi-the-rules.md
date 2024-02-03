@@ -107,7 +107,7 @@ In the above picture: in his turn, White can stack the a2 "scissors" cube on a3 
 
 To vary the game experience the *full-random* and *half-random* setups can be used.
 
-Like in *classic* setup, the starting positions are the two first rows of each side, with two cubes being stacked at the middle of each front row. However, for a random setup, the cubes are randomly selected in some agreed order, and if the generated stack is not allowed, then its two cubes are reversed.
+Like in *classic* setup, the starting positions are the two first rows of each side, with two cubes being stacked at the middle of each front row. However, for a random setup, the cubes are randomly selected in some agreed order, and if a generated stack is not allowed, then its two cubes are reversed.
 
 In the *full-random* setup, the White and Black sides are prepared independently, as in the next picture.
 

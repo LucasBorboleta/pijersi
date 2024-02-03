@@ -28,7 +28,7 @@ Les six faces de chaque cube sont identiques. Les faces possibles sont “pierre
 
 La mise en place *classique* des cubes est indiquée sur l'image ci-dessus. Les **cubes sages** sont **empilés** au **milieu** de chaque **rangée avant**. Les positions de **Noir** sont **symétriques** de celles de **Blanc** par rapport au **centre** du plateau ; exemple : les cubes ciseaux en a6 et g1.
 
-Afin de varier l'expérience du jeu, les mises en place *aléatoire-totale* et *aléatoire-miroir* peuvent être utilisées ; ils sont expliqués plus loin.
+Afin de varier l'expérience du jeu, les mises en place *aléatoire-totale* et *aléatoire-miroir* peuvent être utilisées ; elles sont expliquées plus loin.
 
 ## But du jeu
 <img src="./pictures/animations/game-tabletopia/state-015-a.png" width="60%;" />
@@ -107,7 +107,7 @@ Dans l'image ci-dessus : pendant son tour, Blanc peut empiler le cube "ciseaux" 
 
 Pour varier l'expérience du jeu les mises en place *aléatoire-totale* et *aléatoire-miroir* peuvent être utilisées.
 
-Comme pour la mise en place *classique*, les positions de départ sont les deux premières rangées de chaque bord , avec deux cubes empilés au milieu chaque rangée avant. Cependant, pour une mise en place aléatoire, les cubes sont sélectionnés au hasard selon un ordre convenu, et si la pile générée n'est pas autorisée, alors ses deux cubes sont inversés.
+Comme pour la mise en place *classique*, les positions de départ sont les deux premières rangées de chaque bord , avec deux cubes empilés au milieu chaque rangée avant. Cependant, pour une mise en place aléatoire, les cubes sont sélectionnés au hasard selon un ordre convenu, et si une pile générée n'est pas autorisée, alors ses deux cubes sont inversés.
 
 Pour la mise en place *aléatoire-totale*, les côtés Blanc et Noir sont préparés indépendamment, comme dans l'image suivante.
 
@@ -145,7 +145,7 @@ Un exemple de notation d'une partie est montré dans le texte suivant. Cette par
 
 <img src="./pictures/animations/game-certu/all.gif" width="50%;" />
 
-Les lignes de prologue décrivent la mise en place, qui est supposée *classique* lorsque omise. Les cubes sont représentés par des lettres ("p" pour "paper" = "feuille", "r" pour "rock" = "pierre", "s" pour "scissors" = "ciseaux", "w" pour "wise" = "sage" d'après l'anglais) avec des minuscules pour Noir et des majuscules pour Blanc. Une pile est toujours représentée par une position isolée dans l'ordre sommet-base. Les cubes seuls sont représentés au choix par des positions isolées ou par des intervalles de positions adjacentes d'une même rangée.
+Les lignes de prologue décrivent la mise en place, qui est supposée *classique* lorsque omise. Les cubes sont représentés par des lettres (d'après l'anglais : "p" pour "paper" = "feuille", "r" pour "rock" = "pierre", "s" pour "scissors" = "ciseaux", "w" pour "wise" = "sage") avec des minuscules pour Noir et des majuscules pour Blanc. Une pile est toujours représentée par une position isolée dans l'ordre sommet-base. Les cubes seuls sont représentés au choix par des positions isolées ou par des intervalles de positions adjacentes d'une même rangée.
 
 Après le prologue, chaque tour est numéroté et décrit une ou deux actions. Les positions source et destination sont jointes par "-" si un cube se déplace et par "=" si une pile se déplace. Optionnellement, "!" commente une capture.
 
