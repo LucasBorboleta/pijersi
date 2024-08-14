@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="27.572563614439908cm"
+     height="25.0659669222181cm"
+     viewBox="0 0 615 559"
+     >
+<title>
+
+</title>
+<g stroke-linejoin="miter" stroke-dashoffset="0.0000" stroke-dasharray="none" stroke-width="1.0000" stroke-miterlimit="10.000" stroke-linecap="square">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip165b1e6a-3cb7-4bb6-aa55-58bf287da12a">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#ffffff">
+  <path d="M 0.0000 0.0000 L 1097.0 0.0000 L 1097.0 571.00 L 0.0000 571.00 L 0.0000 0.0000 z"/>
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+</g> <!-- transform -->
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip4ff89a2d-f02f-46e0-bb05-2a2d59956248">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 76.985 461.40 L 76.985 497.15 L 112.73 497.15 L 112.73 461.40 z"/>
+<title>Polygone cube__0__0</title>
+<desc>Polygone cube__0__0: Polygone(cube__shift (0, 0) + cube__NW, cube__shift (0, 0) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip9248dfea-c42b-475d-b7b4-7baaf6e91658">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 76.985 383.65 L 76.985 419.40 L 112.73 419.40 L 112.73 383.65 z"/>
+<title>Polygone cube__0__1</title>
+<desc>Polygone cube__0__1: Polygone(cube__shift (0, 1) + cube__NW, cube__shift (0, 1) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip6b6ced37-57f9-4246-8c76-b53511f497a5">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 76.985 305.91 L 76.985 341.65 L 112.73 341.65 L 112.73 305.91 z"/>
+<title>Polygone cube__0__2</title>
+<desc>Polygone cube__0__2: Polygone(cube__shift (0, 2) + cube__NW, cube__shift (0, 2) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip011d1e70-bc97-4437-a816-bb90a4f1d4a8">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 76.985 228.16 L 76.985 263.91 L 112.73 263.91 L 112.73 228.16 z"/>
+<title>Polygone cube__0__3</title>
+<desc>Polygone cube__0__3: Polygone(cube__shift (0, 3) + cube__NW, cube__shift (0, 3) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip734adfb7-cbdf-4a89-b518-a60c121fec01">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 76.985 72.667 L 76.985 108.41 L 112.73 108.41 L 112.73 72.667 z"/>
+<title>Polygone cube__0__5</title>
+<desc>Polygone cube__0__5: Polygone(cube__shift (0, 5) + cube__NW, cube__shift (0, 5) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clipc339fd25-6532-41ac-8671-31a84978b825">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 76.985 150.41 L 76.985 186.16 L 112.73 186.16 L 112.73 150.41 z"/>
+<title>Polygone cube__0__4</title>
+<desc>Polygone cube__0__4: Polygone(cube__shift (0, 4) + cube__NW, cube__shift (0, 4) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip9111b7b2-40d8-4148-bbef-d74caf442c09">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 154.73 461.40 L 154.73 497.15 L 190.48 497.15 L 190.48 461.40 z"/>
+<title>Polygone cube__1__0</title>
+<desc>Polygone cube__1__0: Polygone(cube__shift (1, 0) + cube__NW, cube__shift (1, 0) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip8 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip0949b62a-999f-4d2a-9f45-efb279b005f1">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 154.73 383.65 L 154.73 419.40 L 190.48 419.40 L 190.48 383.65 z"/>
+<title>Polygone cube__1__1</title>
+<desc>Polygone cube__1__1: Polygone(cube__shift (1, 1) + cube__NW, cube__shift (1, 1) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip9 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clipc8fff065-ee5e-4c52-8bff-067907cc1195">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 154.73 305.91 L 154.73 341.65 L 190.48 341.65 L 190.48 305.91 z"/>
+<title>Polygone cube__1__2</title>
+<desc>Polygone cube__1__2: Polygone(cube__shift (1, 2) + cube__NW, cube__shift (1, 2) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip10 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip3dfda9c8-8ff9-4125-a288-50f76ddec5f5">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip11)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 154.73 228.16 L 154.73 263.91 L 190.48 263.91 L 190.48 228.16 z"/>
+<title>Polygone cube__1__3</title>
+<desc>Polygone cube__1__3: Polygone(cube__shift (1, 3) + cube__NW, cube__shift (1, 3) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip11 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip06c2c63f-65af-4490-a8f5-da7d35a30663">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip12)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 154.73 150.41 L 154.73 186.16 L 190.48 186.16 L 190.48 150.41 z"/>
+<title>Polygone cube__1__4</title>
+<desc>Polygone cube__1__4: Polygone(cube__shift (1, 4) + cube__NW, cube__shift (1, 4) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip12 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip7655f108-b10f-4989-9cf1-80cbdd3de001">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip13)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 154.73 72.667 L 154.73 108.41 L 190.48 108.41 L 190.48 72.667 z"/>
+<title>Polygone cube__1__5</title>
+<desc>Polygone cube__1__5: Polygone(cube__shift (1, 5) + cube__NW, cube__shift (1, 5) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip13 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip4c329b42-444a-4536-b053-b0a11d77bae8">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip14)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 232.48 461.40 L 232.48 497.15 L 268.22 497.15 L 268.22 461.40 z"/>
+<title>Polygone cube__2__0</title>
+<desc>Polygone cube__2__0: Polygone(cube__shift (2, 0) + cube__NW, cube__shift (2, 0) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip14 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clipa82af9c9-be9f-41d6-909f-9e42569ae328">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip15)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 232.48 383.65 L 232.48 419.40 L 268.22 419.40 L 268.22 383.65 z"/>
+<title>Polygone cube__2__1</title>
+<desc>Polygone cube__2__1: Polygone(cube__shift (2, 1) + cube__NW, cube__shift (2, 1) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip15 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clipe1657dc2-b307-4611-b35d-7d746cb7a2f9">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip16)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 232.48 305.91 L 232.48 341.65 L 268.22 341.65 L 268.22 305.91 z"/>
+<title>Polygone cube__2__2</title>
+<desc>Polygone cube__2__2: Polygone(cube__shift (2, 2) + cube__NW, cube__shift (2, 2) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip16 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip95431468-1acd-4f29-aab0-673f8cca3652">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip17)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 232.48 228.16 L 232.48 263.91 L 268.22 263.91 L 268.22 228.16 z"/>
+<title>Polygone cube__2__3</title>
+<desc>Polygone cube__2__3: Polygone(cube__shift (2, 3) + cube__NW, cube__shift (2, 3) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip17 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip9aac0721-707c-4ca3-8033-ebe7514cb665">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip18)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 232.48 150.41 L 232.48 186.16 L 268.22 186.16 L 268.22 150.41 z"/>
+<title>Polygone cube__2__4</title>
+<desc>Polygone cube__2__4: Polygone(cube__shift (2, 4) + cube__NW, cube__shift (2, 4) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip18 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip9512db88-4505-4d98-b15a-50d899806e4e">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip19)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 232.48 72.667 L 232.48 108.41 L 268.22 108.41 L 268.22 72.667 z"/>
+<title>Polygone cube__2__5</title>
+<desc>Polygone cube__2__5: Polygone(cube__shift (2, 5) + cube__NW, cube__shift (2, 5) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip19 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip46298a0e-5f56-42da-b9c7-505a1cb38eac">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip20)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 310.23 461.40 L 310.23 497.15 L 345.97 497.15 L 345.97 461.40 z"/>
+<title>Polygone cube__3__0</title>
+<desc>Polygone cube__3__0: Polygone(cube__shift (3, 0) + cube__NW, cube__shift (3, 0) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip20 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip0bf7f5f1-30a6-4e60-a527-5a33bd645301">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip21)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 310.23 383.65 L 310.23 419.40 L 345.97 419.40 L 345.97 383.65 z"/>
+<title>Polygone cube__3__1</title>
+<desc>Polygone cube__3__1: Polygone(cube__shift (3, 1) + cube__NW, cube__shift (3, 1) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip21 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip2bebba26-72fd-47c0-9c70-d3c19bb06ba2">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip22)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 310.23 305.91 L 310.23 341.65 L 345.97 341.65 L 345.97 305.91 z"/>
+<title>Polygone cube__3__2</title>
+<desc>Polygone cube__3__2: Polygone(cube__shift (3, 2) + cube__NW, cube__shift (3, 2) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip22 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clipead830ba-9aaa-419d-a724-9e51c845ab6c">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip23)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 310.23 228.16 L 310.23 263.91 L 345.97 263.91 L 345.97 228.16 z"/>
+<title>Polygone cube__3__3</title>
+<desc>Polygone cube__3__3: Polygone(cube__shift (3, 3) + cube__NW, cube__shift (3, 3) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip23 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip7638bb2c-0b46-4c7b-a6b6-457d0043ca47">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip24)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 310.23 150.41 L 310.23 186.16 L 345.97 186.16 L 345.97 150.41 z"/>
+<title>Polygone cube__3__4</title>
+<desc>Polygone cube__3__4: Polygone(cube__shift (3, 4) + cube__NW, cube__shift (3, 4) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip24 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip0cd914de-d7ca-4e6d-86dd-c5667eab75fd">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip25)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 310.23 72.667 L 310.23 108.41 L 345.97 108.41 L 345.97 72.667 z"/>
+<title>Polygone cube__3__5</title>
+<desc>Polygone cube__3__5: Polygone(cube__shift (3, 5) + cube__NW, cube__shift (3, 5) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip25 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip481b154c-bd6c-461b-a609-1dfdbeda42e8">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip26)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 387.97 461.40 L 387.97 497.15 L 423.72 497.15 L 423.72 461.40 z"/>
+<title>Polygone cube__4__0</title>
+<desc>Polygone cube__4__0: Polygone(cube__shift (4, 0) + cube__NW, cube__shift (4, 0) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip26 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip0a14e3cb-521e-47e8-a773-24795f467dee">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip27)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 465.72 461.40 L 465.72 497.15 L 501.47 497.15 L 501.47 461.40 z"/>
+<title>Polygone cube__5__0</title>
+<desc>Polygone cube__5__0: Polygone(cube__shift (5, 0) + cube__NW, cube__shift (5, 0) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip27 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip12a540f8-c650-4726-bc66-e9fc14eb1506">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip28)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 387.97 72.667 L 387.97 108.41 L 423.72 108.41 L 423.72 72.667 z"/>
+<title>Polygone cube__4__5</title>
+<desc>Polygone cube__4__5: Polygone(cube__shift (4, 5) + cube__NW, cube__shift (4, 5) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip28 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip198fd778-e84b-4677-9e7a-84e633d3a061">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip29)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#0000ff">
+  <path d="M 465.72 72.667 L 465.72 108.41 L 501.47 108.41 L 501.47 72.667 z"/>
+<title>Polygone cube__5__5</title>
+<desc>Polygone cube__5__5: Polygone(cube__shift (5, 5) + cube__NW, cube__shift (5, 5) + cube__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip29 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip454f5a54-a436-4a6d-8e1f-bf0b1e75b332">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip30)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#336699">
+  <path d="M 54.644 519.49 L 579.66 519.49"/>
+<title>Segment l</title>
+<desc>Segment l: Segment [board__left__bottomboard__right__bottom]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip30 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip80d063b8-3166-4ab5-b7d2-0b74c288e1f6">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip31)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#336699">
+  <path d="M 579.66 519.49 L 579.66 50.326"/>
+<title>Segment m</title>
+<desc>Segment m: Segment [board__right__bottomboard__right__top]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip31 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip8f200ea0-e419-4e47-9f53-071da337c48a">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip32)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#336699">
+  <path d="M 579.66 50.326 L 54.644 50.326"/>
+<title>Segment n</title>
+<desc>Segment n: Segment [board__right__topboard__left__top]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip32 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip3bee02d2-e94b-4b91-bc85-20246102a7c6">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip33)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#336699">
+  <path d="M 54.644 50.326 L 54.644 519.49"/>
+<title>Segment p</title>
+<desc>Segment p: Segment [board__left__topboard__left__bottom]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip33 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip7de1398f-d27b-40d0-8a58-3ef55f0171b6">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip34)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 9.9623 564.17 L 624.34 564.17"/>
+<title>Segment n_{14}</title>
+<desc>Segment n_{14}: Segment [outer__left__bottomouter__right__bottom]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip34 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip43a7a1a4-af4b-4ccc-a83d-d77ef4a05833">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip35)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 624.34 564.17 L 624.34 5.6439"/>
+<title>Segment p_{14}</title>
+<desc>Segment p_{14}: Segment [outer__right__bottomouter__right__top]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip35 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clipefa1078a-210f-4626-be82-d9b2b0cc638e">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip36)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 624.34 5.6439 L 9.9623 5.6439"/>
+<title>Segment q_{14}</title>
+<desc>Segment q_{14}: Segment [outer__right__topouter__left__top]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip36 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -9.9623, -5.6439)">
+<clipPath id="clip68bdde52-35e7-40b2-a396-e3a225354128">
+  <path d="M 9.9623 5.6439 L 9.9623 565.64 L 625.96 565.64 L 625.96 5.6439 z"/>
+</clipPath>
+<g clip-path="url(#clip37)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 9.9623 5.6439 L 9.9623 564.17"/>
+<title>Segment r_{14}</title>
+<desc>Segment r_{14}: Segment [outer__left__topouter__left__bottom]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip37 -->
+</g> <!-- transform -->
+</g><!-- layer0 -->
+<defs>
+
+</defs> <!-- font definitions -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

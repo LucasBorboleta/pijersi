@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="23.564483344464453cm"
+     height="21.079340091564248cm"
+     viewBox="0 0 530 474"
+     >
+<title>
+
+</title>
+<g stroke-linejoin="miter" stroke-dashoffset="0.0000" stroke-dasharray="none" stroke-width="1.0000" stroke-miterlimit="10.000" stroke-linecap="square">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip89384d55-5fa6-4d01-a38b-70777df9be65">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#ffffff">
+  <path d="M 0.0000 0.0000 L 582.00 0.0000 L 582.00 571.00 L 0.0000 571.00 L 0.0000 0.0000 z"/>
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+</g> <!-- transform -->
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipd26a90f1-1e19-4bfa-bf46-d88b0b0f79d6">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 41.582 353.01 L 41.582 371.04 L 59.609 371.04 L 59.609 353.01 z"/>
+<title>Polygone paper__0__1</title>
+<desc>Polygone paper__0__1: Polygone(cube__shift (0, 1) + cube__mid__NW, cube__shift (0, 1) + cube__mid__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip42c83c4f-dc66-45e8-ba65-b11e91882742">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 120.00 353.01 L 120.00 371.04 L 138.03 371.04 L 138.03 353.01 z"/>
+<title>Polygone paper__1__1</title>
+<desc>Polygone paper__1__1: Polygone(cube__shift (1, 1) + cube__mid__NW, cube__shift (1, 1) + cube__mid__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip1f9ca5a7-4819-4d2d-8bd0-a97d622371d8">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 198.42 353.01 L 198.42 371.04 L 216.45 371.04 L 216.45 353.01 z"/>
+<title>Polygone paper__2__1</title>
+<desc>Polygone paper__2__1: Polygone(cube__shift (2, 1) + cube__mid__NW, cube__shift (2, 1) + cube__mid__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip26dc7624-dada-4fd7-8728-82f2a0ed7f6d">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 276.84 353.01 L 276.84 371.04 L 294.86 371.04 L 294.86 353.01 z"/>
+<title>Polygone paper__3__1</title>
+<desc>Polygone paper__3__1: Polygone(cube__shift (3, 1) + cube__mid__NW, cube__shift (3, 1) + cube__mid__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipef507b10-3f0b-48d9-8f68-c3c3ee18f593">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 41.582 117.76 L 41.582 135.78 L 59.609 135.78 L 59.609 117.76 z"/>
+<title>Polygone paper__0__4</title>
+<desc>Polygone paper__0__4: Polygone(cube__shift (0, 4) + cube__mid__NW, cube__shift (0, 4) + cube__mid__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipebc4ae62-f416-45fa-a459-7c5042b90949">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 120.00 117.76 L 120.00 135.78 L 138.03 135.78 L 138.03 117.76 z"/>
+<title>Polygone paper__1__4</title>
+<desc>Polygone paper__1__4: Polygone(cube__shift (1, 4) + cube__mid__NW, cube__shift (1, 4) + cube__mid__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipf59f1328-31d3-4696-9ea0-944d0d9e741e">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 198.42 117.76 L 198.42 135.78 L 216.45 135.78 L 216.45 117.76 z"/>
+<title>Polygone paper__2__4</title>
+<desc>Polygone paper__2__4: Polygone(cube__shift (2, 4) + cube__mid__NW, cube__shift (2, 4) + cube__mid__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip8 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip172f2ea8-7218-4488-a1c7-a234555165f1">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 276.84 117.76 L 276.84 135.78 L 294.86 135.78 L 294.86 117.76 z"/>
+<title>Polygone paper__3__4</title>
+<desc>Polygone paper__3__4: Polygone(cube__shift (3, 4) + cube__mid__NW, cube__shift (3, 4) + cube__mid__SW, 4)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip9 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip921f343f-69bf-4d0c-be23-906f1edc885f">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g stroke-linejoin="round" stroke-width="3.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 138.03 440.44 C 138.03 445.42 133.99 449.46 129.01 449.46 C 124.04 449.46 120.00 445.42 120.00 440.44 C 120.00 435.46 124.04 431.43 129.01 431.43 C 133.99 431.43 138.03 435.46 138.03 440.44 z"/>
+<title>Cercle rock__1__0</title>
+<desc>Cercle rock__1__0: Cercle de centre cube__O + cube__shift (1, 0) et de rayon rock__radius</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip10 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip5b816969-9edd-496c-ac2b-86c51204846c">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip11)">
+<g stroke-linejoin="round" stroke-width="3.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 216.45 440.44 C 216.45 445.42 212.41 449.46 207.43 449.46 C 202.45 449.46 198.42 445.42 198.42 440.44 C 198.42 435.46 202.45 431.43 207.43 431.43 C 212.41 431.43 216.45 435.46 216.45 440.44 z"/>
+<title>Cercle rock__2__0</title>
+<desc>Cercle rock__2__0: Cercle de centre cube__O + cube__shift (2, 0) et de rayon rock__radius</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip11 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip5ce32e85-746b-4479-b681-0c8406679ae8">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip12)">
+<g stroke-linejoin="round" stroke-width="3.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 59.609 440.44 C 59.609 445.42 55.574 449.46 50.595 449.46 C 45.617 449.46 41.582 445.42 41.582 440.44 C 41.582 435.46 45.617 431.43 50.595 431.43 C 55.574 431.43 59.609 435.46 59.609 440.44 z"/>
+<title>Cercle rock__0__0</title>
+<desc>Cercle rock__0__0: Cercle de centre cube__O + cube__shift (0, 0) et de rayon rock__radius</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip12 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipf83edb5b-acdc-47c6-8a13-b7bb2e1a1f3f">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip13)">
+<g stroke-linejoin="round" stroke-width="3.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 294.86 440.44 C 294.86 445.42 290.83 449.46 285.85 449.46 C 280.87 449.46 276.84 445.42 276.84 440.44 C 276.84 435.46 280.87 431.43 285.85 431.43 C 290.83 431.43 294.86 435.46 294.86 440.44 z"/>
+<title>Cercle rock__3__0</title>
+<desc>Cercle rock__3__0: Cercle de centre cube__O + cube__shift (3, 0) et de rayon rock__radius</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip13 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipa03a745b-805b-4ce7-90bc-e2fd84681628">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip14)">
+<g stroke-linejoin="round" stroke-width="3.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 59.609 48.352 C 59.609 53.330 55.574 57.365 50.595 57.365 C 45.617 57.365 41.582 53.330 41.582 48.352 C 41.582 43.374 45.617 39.338 50.595 39.338 C 55.574 39.338 59.609 43.374 59.609 48.352 z"/>
+<title>Cercle rock__0__5</title>
+<desc>Cercle rock__0__5: Cercle de centre cube__O + cube__shift (0, 5) et de rayon rock__radius</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip14 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipf9c1f93a-eaaa-4968-b93e-2faf368d487b">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip15)">
+<g stroke-linejoin="round" stroke-width="3.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 138.03 48.352 C 138.03 53.330 133.99 57.365 129.01 57.365 C 124.04 57.365 120.00 53.330 120.00 48.352 C 120.00 43.374 124.04 39.338 129.01 39.338 C 133.99 39.338 138.03 43.374 138.03 48.352 z"/>
+<title>Cercle rock__1__5</title>
+<desc>Cercle rock__1__5: Cercle de centre cube__O + cube__shift (1, 5) et de rayon rock__radius</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip15 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip3c69108c-912e-4cb1-9798-63928650a80e">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip16)">
+<g stroke-linejoin="round" stroke-width="3.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 216.45 48.352 C 216.45 53.330 212.41 57.365 207.43 57.365 C 202.45 57.365 198.42 53.330 198.42 48.352 C 198.42 43.374 202.45 39.338 207.43 39.338 C 212.41 39.338 216.45 43.374 216.45 48.352 z"/>
+<title>Cercle rock__2__5</title>
+<desc>Cercle rock__2__5: Cercle de centre cube__O + cube__shift (2, 5) et de rayon rock__radius</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip16 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipca64c4f4-a94a-42b5-ac6f-3d6307093029">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip17)">
+<g stroke-linejoin="round" stroke-width="3.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 294.86 48.352 C 294.86 53.330 290.83 57.365 285.85 57.365 C 280.87 57.365 276.84 53.330 276.84 48.352 C 276.84 43.374 280.87 39.338 285.85 39.338 C 290.83 39.338 294.86 43.374 294.86 48.352 z"/>
+<title>Cercle rock__3__5</title>
+<desc>Cercle rock__3__5: Cercle de centre cube__O + cube__shift (3, 5) et de rayon rock__radius</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip17 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipef69c0f9-7864-4c8e-bf48-506f96e95927">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip18)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 373.28 440.44 L 373.25 440.00 L 373.00 439.16 L 372.52 438.44 L 371.89 437.87 L 371.16 437.50 L 370.38 437.30 L 369.61 437.26 L 368.87 437.35 L 368.18 437.55 L 367.53 437.82 L 366.94 438.15 L 366.39 438.52 L 365.88 438.93 L 365.16 439.56 L 364.49 440.22 L 363.82 440.88 L 363.14 441.54 L 362.41 442.16 L 361.88 442.55 L 361.31 442.90 L 360.69 443.21 L 360.02 443.45 L 359.30 443.59 L 358.54 443.62 L 357.76 443.51 L 357.00 443.22 L 356.31 442.75 L 355.75 442.10 L 355.38 441.31 L 355.25 440.44 L 355.38 439.57 L 355.75 438.78 L 356.31 438.13 L 357.00 437.66 L 357.76 437.38 L 358.54 437.26 L 359.30 437.29 L 360.02 437.44 L 360.69 437.67 L 361.31 437.98 L 361.88 438.33 L 362.41 438.72 L 363.14 439.35 L 363.82 440.00 L 364.49 440.66 L 365.16 441.32 L 365.88 441.96 L 366.39 442.36 L 366.94 442.73 L 367.53 443.06 L 368.18 443.34 L 368.87 443.53 L 369.61 443.62 L 370.38 443.59 L 371.16 443.39 L 371.89 443.01 L 372.52 442.45 L 373.00 441.72 L 373.25 440.88"/>
+<title>Courbe wise__4__0</title>
+<desc>Courbe wise__4__0: Courbe(x(cube__O + cube__shift (4, 0)) + cube / 4 cos(t) / (1 + sin²(t)), y(cube__O + cube__shift (4, 0)) + cube / 4 cos(t) sin(t) / (1 + sin²(t)), t, 0, 2π)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip18 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipe6af750a-25c7-4336-9c83-30d2f9a43fda">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip19)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 451.70 440.44 L 451.67 440.00 L 451.41 439.16 L 450.94 438.44 L 450.31 437.87 L 449.57 437.50 L 448.80 437.30 L 448.03 437.26 L 447.29 437.35 L 446.59 437.55 L 445.95 437.82 L 445.36 438.15 L 444.81 438.52 L 444.30 438.93 L 443.58 439.56 L 442.91 440.22 L 442.24 440.88 L 441.56 441.54 L 440.82 442.16 L 440.30 442.55 L 439.72 442.90 L 439.11 443.21 L 438.44 443.45 L 437.72 443.59 L 436.96 443.62 L 436.18 443.51 L 435.42 443.22 L 434.73 442.75 L 434.17 442.10 L 433.80 441.31 L 433.67 440.44 L 433.80 439.57 L 434.17 438.78 L 434.73 438.13 L 435.42 437.66 L 436.18 437.38 L 436.96 437.26 L 437.72 437.29 L 438.44 437.44 L 439.11 437.67 L 439.72 437.98 L 440.30 438.33 L 440.82 438.72 L 441.56 439.35 L 442.24 440.00 L 442.91 440.66 L 443.58 441.32 L 444.30 441.96 L 444.81 442.36 L 445.36 442.73 L 445.95 443.06 L 446.59 443.34 L 447.29 443.53 L 448.03 443.62 L 448.80 443.59 L 449.57 443.39 L 450.31 443.01 L 450.94 442.45 L 451.41 441.72 L 451.67 440.88"/>
+<title>Courbe wise__5__0</title>
+<desc>Courbe wise__5__0: Courbe(x(cube__O + cube__shift (5, 0)) + cube / 4 cos(t) / (1 + sin²(t)), y(cube__O + cube__shift (5, 0)) + cube / 4 cos(t) sin(t) / (1 + sin²(t)), t, 0, 2π)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip19 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="cliped4d75cf-4d20-48fb-bb29-192b445c7ad9">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip20)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 373.28 48.352 L 373.25 47.911 L 373.00 47.071 L 372.52 46.346 L 371.89 45.784 L 371.16 45.406 L 370.38 45.208 L 369.61 45.169 L 368.87 45.261 L 368.18 45.456 L 367.53 45.730 L 366.94 46.062 L 366.39 46.435 L 365.88 46.836 L 365.16 47.473 L 364.49 48.131 L 363.82 48.793 L 363.14 49.446 L 362.41 50.071 L 361.88 50.460 L 361.31 50.813 L 360.69 51.119 L 360.02 51.356 L 359.30 51.503 L 358.54 51.533 L 357.76 51.418 L 357.00 51.131 L 356.31 50.661 L 355.75 50.013 L 355.38 49.223 L 355.25 48.352 L 355.38 47.481 L 355.75 46.690 L 356.31 46.042 L 357.00 45.572 L 357.76 45.286 L 358.54 45.170 L 359.30 45.200 L 360.02 45.347 L 360.69 45.585 L 361.31 45.890 L 361.88 46.244 L 362.41 46.632 L 363.14 47.257 L 363.82 47.910 L 364.49 48.573 L 365.16 49.231 L 365.88 49.867 L 366.39 50.269 L 366.94 50.642 L 367.53 50.973 L 368.18 51.247 L 368.87 51.443 L 369.61 51.535 L 370.38 51.495 L 371.16 51.297 L 371.89 50.919 L 372.52 50.358 L 373.00 49.632 L 373.25 48.792"/>
+<title>Courbe wise__4__5</title>
+<desc>Courbe wise__4__5: Courbe(x(cube__O + cube__shift (4, 5)) + cube / 4 cos(t) / (1 + sin²(t)), y(cube__O + cube__shift (4, 5)) + cube / 4 cos(t) sin(t) / (1 + sin²(t)), t, 0, 2π)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip20 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipe7c672b1-e79d-47cb-8d66-38f9af12ec84">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip21)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 451.70 48.352 L 451.67 47.911 L 451.41 47.071 L 450.94 46.346 L 450.31 45.784 L 449.57 45.406 L 448.80 45.208 L 448.03 45.169 L 447.29 45.261 L 446.59 45.456 L 445.95 45.730 L 445.36 46.062 L 444.81 46.435 L 444.30 46.836 L 443.58 47.473 L 442.91 48.131 L 442.24 48.793 L 441.56 49.446 L 440.82 50.071 L 440.30 50.460 L 439.72 50.813 L 439.11 51.119 L 438.44 51.356 L 437.72 51.503 L 436.96 51.533 L 436.18 51.418 L 435.42 51.131 L 434.73 50.661 L 434.17 50.013 L 433.80 49.223 L 433.67 48.352 L 433.80 47.481 L 434.17 46.690 L 434.73 46.042 L 435.42 45.572 L 436.18 45.286 L 436.96 45.170 L 437.72 45.200 L 438.44 45.347 L 439.11 45.585 L 439.72 45.890 L 440.30 46.244 L 440.82 46.632 L 441.56 47.257 L 442.24 47.910 L 442.91 48.573 L 443.58 49.231 L 444.30 49.867 L 444.81 50.269 L 445.36 50.642 L 445.95 50.973 L 446.59 51.247 L 447.29 51.443 L 448.03 51.535 L 448.80 51.495 L 449.57 51.297 L 450.31 50.919 L 450.94 50.358 L 451.41 49.632 L 451.67 48.792"/>
+<title>Courbe wise__5__5</title>
+<desc>Courbe wise__5__5: Courbe(x(cube__O + cube__shift (5, 5)) + cube / 4 cos(t) / (1 + sin²(t)), y(cube__O + cube__shift (5, 5)) + cube / 4 cos(t) sin(t) / (1 + sin²(t)), t, 0, 2π)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip21 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipbc3e3039-7285-40dd-b735-631f8f8ff73a">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip22)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#00ff00">
+  <path d="M 10.034 481.00 L 539.58 481.00"/>
+<title>Segment l</title>
+<desc>Segment l: Segment [board__left__bottomboard__right__bottom]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip22 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip59495d9e-c043-49de-9af0-e5d433683b02">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip23)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#00ff00">
+  <path d="M 539.58 481.00 L 539.58 7.7907"/>
+<title>Segment m</title>
+<desc>Segment m: Segment [board__right__bottomboard__right__top]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip23 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipf5c36122-687b-4d6e-b8e7-37af2056141f">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip24)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#00ff00">
+  <path d="M 539.58 7.7907 L 10.034 7.7907"/>
+<title>Segment n</title>
+<desc>Segment n: Segment [board__right__topboard__left__top]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip24 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipa7594eae-b5e4-4533-b65f-a07ed39b3148">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip25)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#00ff00">
+  <path d="M 10.034 7.7907 L 10.034 481.00"/>
+<title>Segment p</title>
+<desc>Segment p: Segment [board__left__topboard__left__bottom]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip25 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip0a239ae4-6b4d-4954-90ef-f3dfbd9a249a">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip26)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#00ff00">
+  <path d="M 10.034 481.00 L 539.58 481.00"/>
+<title>Segment n_{14}</title>
+<desc>Segment n_{14}: Segment [outer__left__bottomouter__right__bottom]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip26 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip4f57b06d-7a4b-4c50-b24f-86253ee0d592">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip27)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#00ff00">
+  <path d="M 539.58 481.00 L 539.58 7.7907"/>
+<title>Segment p_{14}</title>
+<desc>Segment p_{14}: Segment [outer__right__bottomouter__right__top]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip27 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip1fda5b98-05fa-4422-8643-7ee7dfc8e927">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip28)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#00ff00">
+  <path d="M 539.58 7.7907 L 10.034 7.7907"/>
+<title>Segment q_{14}</title>
+<desc>Segment q_{14}: Segment [outer__right__topouter__left__top]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip28 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip969b7552-2d84-4aef-a32c-76567784ab9d">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip29)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#00ff00">
+  <path d="M 10.034 7.7907 L 10.034 481.00"/>
+<title>Segment r_{14}</title>
+<desc>Segment r_{14}: Segment [outer__left__topouter__left__bottom]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip29 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipfb1542ec-6c93-4723-bb14-e7787197b9ce">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip30)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 59.609 274.59 L 41.582 292.62"/>
+<title>Segment crod__0__2</title>
+<desc>Segment crod__0__2: Segment [cube__mid__NE + cube__shift (0, 2)cube__mid__SW + cube__shift (0, 2)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip30 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip1d529505-bea5-4203-bb14-0fba2abd0e79">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip31)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 41.582 274.59 L 59.609 292.62"/>
+<title>Segment croa__0__2</title>
+<desc>Segment croa__0__2: Segment [cube__mid__NW + cube__shift (0, 2)cube__mid__SE + cube__shift (0, 2)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip31 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip3940f60f-ab84-4a7a-9b0a-1be5a324f846">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip32)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 120.00 274.59 L 138.03 292.62"/>
+<title>Segment croa__1__2</title>
+<desc>Segment croa__1__2: Segment [cube__mid__NW + cube__shift (1, 2)cube__mid__SE + cube__shift (1, 2)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip32 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip26658e61-c9a2-44c1-8939-491e49fd9b44">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip33)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 138.03 274.59 L 120.00 292.62"/>
+<title>Segment crod__1__2</title>
+<desc>Segment crod__1__2: Segment [cube__mid__NE + cube__shift (1, 2)cube__mid__SW + cube__shift (1, 2)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip33 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipfaf15553-1d09-4f21-87f9-31f4b4782da7">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip34)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 216.45 274.59 L 198.42 292.62"/>
+<title>Segment crod__2__2</title>
+<desc>Segment crod__2__2: Segment [cube__mid__NE + cube__shift (2, 2)cube__mid__SW + cube__shift (2, 2)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip34 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip25307a74-edc1-46d6-9f79-2cda12fe5295">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip35)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 198.42 274.59 L 216.45 292.62"/>
+<title>Segment croa__2__2</title>
+<desc>Segment croa__2__2: Segment [cube__mid__NW + cube__shift (2, 2)cube__mid__SE + cube__shift (2, 2)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip35 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip435d761f-8f85-4c63-81db-fd7d3709b046">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip36)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 276.84 274.59 L 294.86 292.62"/>
+<title>Segment croa__3__2</title>
+<desc>Segment croa__3__2: Segment [cube__mid__NW + cube__shift (3, 2)cube__mid__SE + cube__shift (3, 2)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip36 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip1cb59a32-e7ef-41a8-ac1d-62c57e5e7452">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip37)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 294.86 274.59 L 276.84 292.62"/>
+<title>Segment crod__3__2</title>
+<desc>Segment crod__3__2: Segment [cube__mid__NE + cube__shift (3, 2)cube__mid__SW + cube__shift (3, 2)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip37 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipd4e850ec-5d05-4ab5-968b-acb4c5f8b498">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip38)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 41.582 196.17 L 59.609 214.20"/>
+<title>Segment croa__0__3</title>
+<desc>Segment croa__0__3: Segment [cube__mid__NW + cube__shift (0, 3)cube__mid__SE + cube__shift (0, 3)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip38 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip827165ef-92c3-48b7-92f4-9efcbac24520">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip39)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 59.609 196.17 L 41.582 214.20"/>
+<title>Segment crod__0__3</title>
+<desc>Segment crod__0__3: Segment [cube__mid__NE + cube__shift (0, 3)cube__mid__SW + cube__shift (0, 3)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip39 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip3adcc371-4189-4b3d-b47f-8937817ffb97">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip40)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 120.00 196.17 L 138.03 214.20"/>
+<title>Segment croa__1__3</title>
+<desc>Segment croa__1__3: Segment [cube__mid__NW + cube__shift (1, 3)cube__mid__SE + cube__shift (1, 3)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip40 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipfb866b9c-957c-4bf7-9bfe-b08d208c79b3">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip41)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 138.03 196.17 L 120.00 214.20"/>
+<title>Segment crod__1__3</title>
+<desc>Segment crod__1__3: Segment [cube__mid__NE + cube__shift (1, 3)cube__mid__SW + cube__shift (1, 3)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip41 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip963323ff-43d3-48b8-880f-b54cc96967ec">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip42)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 198.42 196.17 L 216.45 214.20"/>
+<title>Segment croa__2__3</title>
+<desc>Segment croa__2__3: Segment [cube__mid__NW + cube__shift (2, 3)cube__mid__SE + cube__shift (2, 3)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip42 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clipf658267e-b8fe-4538-a415-3e01724d10c4">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip43)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 216.45 196.17 L 198.42 214.20"/>
+<title>Segment cros__2__3</title>
+<desc>Segment cros__2__3: Segment [cube__mid__NE + cube__shift (2, 3)cube__mid__SW + cube__shift (2, 3)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip43 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip4eaa5a1f-2689-41fe-9660-733c4fe98115">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip44)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 276.84 196.17 L 294.86 214.20"/>
+<title>Segment croa__3__3</title>
+<desc>Segment croa__3__3: Segment [cube__mid__NW + cube__shift (3, 3)cube__mid__SE + cube__shift (3, 3)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip44 -->
+</g> <!-- transform -->
+<g transform="matrix(1.0000, 0.0000, 0.0000, 1.0000, -10.034, -7.7907)">
+<clipPath id="clip8d6c6bb7-6166-48b1-9f64-2002f473e07d">
+  <path d="M 10.034 7.7907 L 10.034 482.79 L 541.03 482.79 L 541.03 7.7907 z"/>
+</clipPath>
+<g clip-path="url(#clip45)">
+<g stroke-linejoin="round" stroke-width="4.0000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 294.86 196.17 L 276.84 214.20"/>
+<title>Segment crod__3__3</title>
+<desc>Segment crod__3__3: Segment [cube__mid__NE + cube__shift (3, 3)cube__mid__SW + cube__shift (3, 3)]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip45 -->
+</g> <!-- transform -->
+</g><!-- layer0 -->
+<defs>
+
+</defs> <!-- font definitions -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->
