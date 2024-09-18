@@ -10,7 +10,7 @@ Game kind: cross win condition, stacking and capturing; abstract game
 
 Author: Lucas Borboleta, © 2022, CC-BY-NC-SA
 
-Credit for 3D pictures: [Tabetopia](https://tabletopia.com/games/pijersi)
+Credit for 3D pictures: [Tabletopia](https://tabletopia.com/games/pijersi)
 
 ## Learning Pijersi
 
@@ -30,7 +30,7 @@ Credit for 3D pictures: [Tabetopia](https://tabletopia.com/games/pijersi)
 You can play for free:
 
 - on Windows desktop, against the artificial intelligence agents (AI) of the application [pijersi-certu](https://github.com/LucasBorboleta/pijersi-certu) ;
-- on the Web platform [Tabetopia](https://tabletopia.com), against on-line players, at [Pijersi](https://tabletopia.com/games/pijersi).
+- on the Web platform [Tabletopia](https://tabletopia.com), against on-line players, at [Pijersi](https://tabletopia.com/games/pijersi).
 
 ## Making Pijersi 
 
@@ -45,7 +45,7 @@ For this purpose, some drawings are available to you in the [pictures](./picture
 ## Sister projects
 
 - By [Lucas Borboleta](https://github.com/LucasBorboleta): a Python Alpha-Beta AI agent, which is interfaced with a 2D GUI. The project is available as a single [Windows executable](https://github.com/LucasBorboleta/pijersi-certu/blob/main/docs/INSTALL.md).
-- By [Arthur Liu](https://github.com/arthur-liu-lsh): a powerful C++ [Alpha-Beta AI agent](https://github.com/arthur-liu-lsh/pijersi-engine), which is interfaced with a 3D desktop [Unity GUI](https://github.com/arthur-liu-lsh/pijersi-unity).
+- By [Eclypse Prime](https://github.com/eclypse-prime): a powerful C++ [Alpha-Beta AI agent](https://github.com/eclypse-prime/pijersi-engine), which is interfaced with a 3D desktop [Unity GUI](https://github.com/eclypse-prime/pijersi-unity).
 
 
 ## Copyright
