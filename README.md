@@ -2,7 +2,7 @@
 
 <img src="./pictures/animations/game-tabletopia/all.gif" width="80%;" />
 
-In the "pijersi" game, two players, White and Black, move their cubes, alone or in dynamic stacks, which either capture each other according to the major roles of "**rock**", "**paper**" and "**scissors**", or are blocked by the minor role of "**wise**". The goal is to reach the **opponent back row**, with at least one major cube.
+In the "pijersi" game, two players, White and Black, move their cubes, alone or in dynamic stacks, which either capture each other according to the major roles of "**rock**", "**paper**" and "**scissors**", or are blocked by the minor role of "**wise**". The goal is to reach the **opponent back row**, with at least one major cube. See also this 3 minutes overview in this [video](https://youtu.be/6zPLMxOfxHk) (in French).
 
 Number of players: 2 / Minimum age: 8 years / Game duration: 15 to 30 minutes
 
