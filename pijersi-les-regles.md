@@ -28,7 +28,7 @@ Les six faces de chaque cube sont identiques. Les faces possibles sont “pierre
 
 La mise en place *classique* des cubes est indiquée sur l'image ci-dessus. Les **cubes sages** sont **empilés** au **milieu** de chaque **rangée avant**. Les positions de **Noir** sont **symétriques** de celles de **Blanc** par rapport au **centre** du plateau ; exemple : les cubes ciseaux en a6 et g1.
 
-Afin de varier l'expérience du jeu, les mises en place *aléatoire-totale* et *aléatoire-miroir* peuvent être utilisées ; elles sont expliquées plus loin.
+Afin de renouveler les ouvertures , les trois mises en place ***aléatoire-totale***, ***aléatoire-miroir*** et ***aléatoire-avec-échanges*** dite ***pijersi-861*** peuvent être utilisées ; elles sont expliquées plus loin.
 
 ## But du jeu
 <img src="./pictures/animations/game-tabletopia/state-015-a.png" width="60%;" />
@@ -105,17 +105,30 @@ Dans l'image ci-dessus : pendant son tour, Blanc peut empiler le cube "ciseaux" 
 
 ## Mises en place aléatoires
 
-Pour varier l'expérience du jeu les mises en place *aléatoire-totale* et *aléatoire-miroir* peuvent être utilisées.
+Afin de renouveler les ouvertures et d'éviter la mémorisation de théories de jeu fixes, les mises en place *aléatoire-totale*, *aléatoire-miroir* et *aléatoire-avec-échanges* dite *pijersi-861* peuvent être utilisées.
 
 Comme pour la mise en place *classique*, les positions de départ sont les deux premières rangées de chaque bord , avec deux cubes empilés au milieu chaque rangée avant. Cependant, pour une mise en place aléatoire, les cubes sont sélectionnés au hasard selon un ordre convenu, et si une pile générée n'est pas autorisée, alors ses deux cubes sont inversés.
 
-Pour la mise en place *aléatoire-totale*, les côtés Blanc et Noir sont préparés indépendamment, comme dans l'image suivante.
+Pour la mise en place ***aléatoire-totale***, les côtés Blanc et Noir sont préparés indépendamment, comme dans l'image suivante.
 
 <img src="./pictures/full-random-setup.png" width="60%;" />
 
-Pour la mise en place *aléatoire-miroir*, le côté Blanc est préparé d'abord, puis le côté Noir est déduit par symétrie centrale, comme dans l'image suivante.
+Pour la mise en place ***aléatoire-miroir***, le côté Blanc est préparé d'abord, puis le côté Noir est déduit par symétrie centrale, comme dans l'image suivante.
 
 <img src="./pictures/half-random-setup.png" width="60%;" />
+
+La variante **Pijersi 861** offre un juste équilibre en procurant plus de contrôle aux joueurs que les variantes totalement ou partiellement aléatoires, tout en garantissant une grande diversité de situations de départ.
+
+**Procédure d'installation :**
+
+1. **Placement des Sages :** Les Sages sont placés au centre des premières rangées respectives, de la même manière que dans la mise en place classique.
+2. **Tirage aléatoire :** Les autres cubes sont tirés au sort dans un sac et placés aléatoirement sur les cases restantes des deux premières rangées de chaque camp.
+3. **Phase d'échanges :**  Blanc passe ou échange les positions de deux de ses propres cubes (à l'exclusion des Sages). Noir fait de même. Blanc et Noir répètent ensuite cette séquence une seconde fois.
+4. **Attribution des couleurs :** Enfin, l'attribution des couleurs (Noir / Blanc) entre les deux joueurs est effectuée de manière aléatoire.
+
+*Note de compétition :* Une limite de temps peut être imposée pour la phase d'échanges lors des tournois officiels.
+
+La dénomination **861** correspond exactement au nombre de configurations accessibles via ces échanges pour chaque camp.
 
 ## Affichage 2D
 

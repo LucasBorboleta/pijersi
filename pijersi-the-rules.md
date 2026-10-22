@@ -28,7 +28,7 @@ The six faces of each cube are identical. The possible faces are “rock” <img
 
 The *classic* starting positions of the cubes are shown in the picture above. The **wise cubes** are **stacked** in the **middle** of each **front row**. The positions of **Black** are **symmetrical** to those of **White** with respect to the **center** of the board; example: scissor cubes in a6 and g1.
 
-To vary the game experience, the *full-random* and *half-random* setups can be used; they are explained later.
+To provide variety in the openings, you can use the *full-random*, *half-random*, or *random-with-swaps* (called *pijersi-861*) setups. These are detailed later on.
 
 ## Goal of the game
 <img src="./pictures/animations/game-tabletopia/state-015-a.png" width="60%;" />
@@ -105,17 +105,30 @@ In the above picture: in his turn, White can stack the a2 "scissors" cube on a3 
 
 ## Random setups
 
-To vary the game experience the *full-random* and *half-random* setups can be used.
+To provide variety in the openings and prevent the memorization of fixed opening lines, you can use the *full-random*, *mirror-random*, and *random-with-swaps* (called *pijersi-861*) setups.
 
 Like in *classic* setup, the starting positions are the two first rows of each side, with two cubes being stacked at the middle of each front row. However, for a random setup, the cubes are randomly selected in some agreed order, and if a generated stack is not allowed, then its two cubes are reversed.
 
-In the *full-random* setup, the White and Black sides are prepared independently, as in the next picture.
+In the ***full-random*** setup, the White and Black sides are prepared independently, as in the next picture.
 
 <img src="./pictures/full-random-setup.png" width="60%;" />
 
-In the *half-random* setup, the White side is prepared first, then the Black side is deduced by central symmetry, as in the next picture.
+In the ***half-random*** setup, the White side is prepared first, then the Black side is deduced by central symmetry, as in the next picture.
 
 <img src="./pictures/half-random-setup.png" width="60%;" />
+
+The **Pijersi 861** variant strikes a fair balance by offering players more control than the full-random or half-random setups, while guaranteeing a wide variety of starting positions.
+
+**Setup procedure:**
+
+1. **Placing the Wises:** The Wises are placed in the middle of the respective front rows, just like in the classic setup.
+2. **Random draw:** The other cubes are drawn randomly from a bag and placed on the remaining spaces of the two front rows for each side.
+3. **Swap phase:** White either passes or swaps the positions of two of their own cubes (excluding the Wises). Black does the same. White and Black then repeat this sequence a second time.
+4. **Color assignment:** Finally, the colors (Black / White) are assigned to the two players randomly.
+
+**Competition note:** A time limit may be imposed for the swap phase during official tournaments.
+
+The name 861 corresponds exactly to the number of accessible configurations via these swaps for each side.
 
 ## 2D display
 
